@@ -1,0 +1,1497 @@
+[
+  {
+    "index": 1,
+    "name": "Ajarakan",
+    "imagePath": "/file/Monster-Hunter-Wilds/ajarakan_monsters_mhwilds_wiki_guide200px.png",
+    "location": "Unknown",
+    "tooltipUrl": "https://monsterhunterwilds.wiki.fextralife.com/_tooltip_Ajarakan",
+    "tp": {
+      "name": "Ajarakan",
+      "image": "/file/Monster-Hunter-Wilds/ajarakan_monster_monterhunsterwilds_wiki_guide1300px.png",
+      "enemyType": "Large Monster",
+      "species": {
+        "name": "Fanged Beast",
+        "icon": "/file/Monster-Hunter-Wilds/ajarakan_monsters_mhwilds_wiki_guide24px.png"
+      },
+      "elements": [
+        {
+          "name": "Fire",
+          "icon": "/file/Monster-Hunter-Wilds/fire_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "ailments": [
+        {
+          "name": "Fireblight",
+          "icon": "/file/Monster-Hunter-Wilds/fire_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "weaknesses": [
+        {
+          "name": "Water",
+          "icon": "/file/Monster-Hunter-Wilds/water_icon_mhwilds_wiki_guide_25px.png"
+        },
+        {
+          "name": "Ice",
+          "icon": "/file/Monster-Hunter-Wilds/ice_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "resistances": [
+        {
+          "name": "Fire",
+          "icon": "/file/Monster-Hunter-Wilds/fire_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Oilwell Basin",
+          "icon": "/file/Monster-Hunter-Wilds/oilwell_basin_icon_location_mhwilds_wiki_guide24px.png"
+        },
+        {
+          "name": "Ruins of Wyveria",
+          "icon": "/file/Monster-Hunter-Wilds/ruins_of_wyveria_cliffs_icon_location_mhwilds_wiki_guide24px.png"
+        }
+      ]
+    }
+  },
+  {
+    "index": 2,
+    "name": "Arkveld",
+    "imagePath": "/file/Monster-Hunter-Wilds/arkveld_monsters_mhwilds_wiki_guide200px.png",
+    "location": "Unknown",
+    "tooltipUrl": "https://monsterhunterwilds.wiki.fextralife.com/_tooltip_Arkveld",
+    "tp": {
+      "name": "Arkveld",
+      "image": "/file/Monster-Hunter-Wilds/arkveld2_monster_monterhunsterwilds_wiki_guide300px.png",
+      "enemyType": "Large Monster",
+      "species": {
+        "name": "Flying Wyvern",
+        "icon": "/file/Monster-Hunter-Wilds/arkveld_monsters_mhwilds_wiki_guide24px.png"
+      },
+      "elements": [
+        {
+          "name": "Dragon",
+          "icon": "/file/Monster-Hunter-Wilds/dragon_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "ailments": [
+        {
+          "name": "Dragonblight",
+          "icon": "/file/Monster-Hunter-Wilds/dragon_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "weaknesses": [
+        {
+          "name": "Dragon",
+          "icon": "/file/Monster-Hunter-Wilds/dragon_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "resistances": [],
+      "locations": [
+        {
+          "name": "Windward Plains",
+          "icon": "/file/Monster-Hunter-Wilds/plains_icon_location_mhwilds_wiki_guide24px.png"
+        },
+        {
+          "name": "Scarlet Forest",
+          "icon": "/file/Monster-Hunter-Wilds/forest_icon_location_mhwilds_wiki_guide24px.png"
+        },
+        {
+          "name": "Oilwell Basin",
+          "icon": "/file/Monster-Hunter-Wilds/oilwell_basin_icon_location_mhwilds_wiki_guide24px.png"
+        },
+        {
+          "name": "Iceshard Cliffs",
+          "icon": "/file/Monster-Hunter-Wilds/iceshard_cliffs_icon_location_mhwilds_wiki_guide24px.png"
+        },
+        {
+          "name": "Ruins of Wyveria",
+          "icon": "/file/Monster-Hunter-Wilds/ruins_of_wyveria_cliffs_icon_location_mhwilds_wiki_guide24px.png"
+        }
+      ]
+    }
+  },
+  {
+    "index": 3,
+    "name": "Balahara",
+    "imagePath": "/file/Monster-Hunter-Wilds/balahara_monsters_mhwilds_wiki_guide200px.png",
+    "location": "Unknown",
+    "tooltipUrl": "https://monsterhunterwilds.wiki.fextralife.com/_tooltip_Balahara",
+    "tp": {
+      "name": "Balahara",
+      "image": "/file/Monster-Hunter-Wilds/balahara_large_monsters_mhwilds_wiki_guide300px1.png",
+      "enemyType": "Large Monster",
+      "species": {
+        "name": "Leviathan",
+        "icon": "/file/Monster-Hunter-Wilds/balahara_monsters_mhwilds_wiki_guide24px.png"
+      },
+      "elements": [
+        {
+          "name": "Water",
+          "icon": "/file/Monster-Hunter-Wilds/water_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "ailments": [
+        {
+          "name": "Waterblight",
+          "icon": "/file/Monster-Hunter-Wilds/water_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "weaknesses": [
+        {
+          "name": "Thunder",
+          "icon": "/file/Monster-Hunter-Wilds/thunder_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "resistances": [
+        {
+          "name": "Water",
+          "icon": "/file/Monster-Hunter-Wilds/water_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Windward Plains",
+          "icon": "/file/Monster-Hunter-Wilds/plains_icon_location_mhwilds_wiki_guide24px.png"
+        }
+      ]
+    }
+  },
+  {
+    "index": 4,
+    "name": "Blangonga",
+    "imagePath": "/file/Monster-Hunter-Wilds/blangonga_monsters_mhwilds_wiki_guide200px.png",
+    "location": "Unknown",
+    "tooltipUrl": "https://monsterhunterwilds.wiki.fextralife.com/_tooltip_Blangonga",
+    "tp": {
+      "name": "Blangonga",
+      "image": "/file/Monster-Hunter-Wilds/blangonga_large_monster_monsters_mhwilds_wiki_guide300px.png",
+      "enemyType": "Large Monster",
+      "species": {
+        "name": "Fanged Beast",
+        "icon": "/file/Monster-Hunter-Wilds/blangonga_monsters_mhwilds_wiki_guide24px.png"
+      },
+      "elements": [
+        {
+          "name": "Ice",
+          "icon": "/file/Monster-Hunter-Wilds/ice_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "ailments": [
+        {
+          "name": "Iceblight",
+          "icon": "/file/Monster-Hunter-Wilds/ice_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "weaknesses": [
+        {
+          "name": "Fire",
+          "icon": "/file/Monster-Hunter-Wilds/fire_icon_mhwilds_wiki_guide_25px.png"
+        },
+        {
+          "name": "Thunder",
+          "icon": "/file/Monster-Hunter-Wilds/thunder_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "resistances": [
+        {
+          "name": "Ice",
+          "icon": "/file/Monster-Hunter-Wilds/ice_icon_mhwilds_wiki_guide_25px.png"
+        },
+        {
+          "name": "Dragon",
+          "icon": "/file/Monster-Hunter-Wilds/dragon_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Iceshard Cliffs",
+          "icon": "/file/Monster-Hunter-Wilds/iceshard_cliffs_icon_location_mhwilds_wiki_guide24px.png"
+        }
+      ]
+    }
+  },
+  {
+    "index": 5,
+    "name": "Chatacabra",
+    "imagePath": "/file/Monster-Hunter-Wilds/chatacabra_monsters_mhwilds_wiki_guide200px.png",
+    "location": "Unknown",
+    "tooltipUrl": "https://monsterhunterwilds.wiki.fextralife.com/_tooltip_Chatacabra",
+    "tp": {
+      "name": "Chatacabra",
+      "image": "/file/Monster-Hunter-Wilds/chatacabra-large-monster-mhwilds-wiki-guide-300px.png",
+      "enemyType": "Large Monster",
+      "species": {
+        "name": "Amphibian",
+        "icon": "/file/Monster-Hunter-Wilds/chatacabra_monsters_mhwilds_wiki_guide24px.png"
+      },
+      "elements": [],
+      "ailments": [],
+      "weaknesses": [
+        {
+          "name": "Ice",
+          "icon": "/file/Monster-Hunter-Wilds/ice_icon_mhwilds_wiki_guide_25px.png"
+        },
+        {
+          "name": "Thunder",
+          "icon": "/file/Monster-Hunter-Wilds/thunder_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "resistances": [
+        {
+          "name": "Dragon",
+          "icon": "/file/Monster-Hunter-Wilds/dragon_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Windward Plains",
+          "icon": "/file/Monster-Hunter-Wilds/plains_icon_location_mhwilds_wiki_guide24px.png"
+        }
+      ]
+    }
+  },
+  {
+    "index": 6,
+    "name": "Congalala",
+    "imagePath": "/file/Monster-Hunter-Wilds/congalala_monsters_mhwilds_wiki_guide200px.png",
+    "location": "Unknown",
+    "tooltipUrl": "https://monsterhunterwilds.wiki.fextralife.com/_tooltip_Congalala",
+    "tp": {
+      "name": "Congalala",
+      "image": "/file/Monster-Hunter-Wilds/congalala_large_monster_monsters_mhwilds_wiki_guide300px.png",
+      "enemyType": "Large Monster",
+      "species": {
+        "name": "Fanged Beast",
+        "icon": "/file/Monster-Hunter-Wilds/congalala_monsters_mhwilds_wiki_guide24px.png"
+      },
+      "elements": [
+        {
+          "name": "Blast",
+          "icon": "/file/Monster-Hunter-Wilds/blast_icon_mhwilds_wiki_guide_25px.png"
+        },
+        {
+          "name": "Poison",
+          "icon": "/file/Monster-Hunter-Wilds/poison_icon_mhwilds_wiki_guide_25px.png"
+        },
+        {
+          "name": "",
+          "icon": ""
+        }
+      ],
+      "ailments": [
+        {
+          "name": "Blastblight",
+          "icon": "/file/Monster-Hunter-Wilds/blast_icon_mhwilds_wiki_guide_25px.png"
+        },
+        {
+          "name": "Poison",
+          "icon": "/file/Monster-Hunter-Wilds/poison_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "weaknesses": [
+        {
+          "name": "Fire",
+          "icon": "/file/Monster-Hunter-Wilds/fire_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "resistances": [],
+      "locations": [
+        {
+          "name": "Scarlet Forest",
+          "icon": "/file/Monster-Hunter-Wilds/forest_icon_location_mhwilds_wiki_guide24px.png"
+        },
+        {
+          "name": "Ruins of Wyveria",
+          "icon": "/file/Monster-Hunter-Wilds/ruins_of_wyveria_cliffs_icon_location_mhwilds_wiki_guide24px.png"
+        }
+      ]
+    }
+  },
+  {
+    "index": 7,
+    "name": "Doshaguma",
+    "imagePath": "/file/Monster-Hunter-Wilds/doshaguma_monsters_mhwilds_wiki_guide200px.png",
+    "location": "Unknown",
+    "tooltipUrl": "https://monsterhunterwilds.wiki.fextralife.com/_tooltip_Doshaguma",
+    "tp": {
+      "name": "Doshaguma",
+      "image": "/file/Monster-Hunter-Wilds/doshaguma-large-monster-mhwilds-wiki-guide-300px.png",
+      "enemyType": "Large Monster",
+      "species": {
+        "name": "Fanged Beast",
+        "icon": "/file/Monster-Hunter-Wilds/doshaguma_monsters_mhwilds_wiki_guide24px.png"
+      },
+      "elements": [
+        {
+          "name": "Blast",
+          "icon": "/file/Monster-Hunter-Wilds/blast_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "ailments": [
+        {
+          "name": "Blastblight",
+          "icon": "/file/Monster-Hunter-Wilds/blast_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "weaknesses": [
+        {
+          "name": "Fire",
+          "icon": "/file/Monster-Hunter-Wilds/fire_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "resistances": [],
+      "locations": [
+        {
+          "name": "Windward Plains",
+          "icon": "/file/Monster-Hunter-Wilds/plains_icon_location_mhwilds_wiki_guide24px.png"
+        },
+        {
+          "name": "Scarlet Forest",
+          "icon": "/file/Monster-Hunter-Wilds/forest_icon_location_mhwilds_wiki_guide24px.png"
+        },
+        {
+          "name": "Ruins of Wyveria",
+          "icon": "/file/Monster-Hunter-Wilds/ruins_of_wyveria_cliffs_icon_location_mhwilds_wiki_guide24px.png"
+        }
+      ]
+    }
+  },
+  {
+    "index": 8,
+    "name": "Gore Magala",
+    "imagePath": "/file/Monster-Hunter-Wilds/gore_magala_monsters_mhwilds_wiki_guide200px.png",
+    "location": "Unknown",
+    "tooltipUrl": "https://monsterhunterwilds.wiki.fextralife.com/_tooltip_Gore+Magala",
+    "tp": {
+      "name": "Gore Magala",
+      "image": "/file/Monster-Hunter-Wilds/gore_magala_large_monster_monsters_mhwilds_wiki_guide300px.png",
+      "enemyType": "Large Monster",
+      "species": {
+        "name": "Demi Elder",
+        "icon": "/file/Monster-Hunter-Wilds/gore_magala_monsters_mhwilds_wiki_guide24px.png"
+      },
+      "elements": [],
+      "ailments": [],
+      "weaknesses": [
+        {
+          "name": "Fire",
+          "icon": "/file/Monster-Hunter-Wilds/fire_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "resistances": [
+        {
+          "name": "Water",
+          "icon": "/file/Monster-Hunter-Wilds/water_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Iceshard Cliffs",
+          "icon": "/file/Monster-Hunter-Wilds/iceshard_cliffs_icon_location_mhwilds_wiki_guide24px.png"
+        }
+      ]
+    }
+  },
+  {
+    "index": 9,
+    "name": "Gravios",
+    "imagePath": "/file/Monster-Hunter-Wilds/gravios_monsters_mhwilds_wiki_guide200px.png",
+    "location": "Unknown",
+    "tooltipUrl": "https://monsterhunterwilds.wiki.fextralife.com/_tooltip_Gravios",
+    "tp": {
+      "name": "Gravios",
+      "image": "/file/Monster-Hunter-Wilds/gravios_large_monster_monsters_mhwilds_wiki_guide300px.png",
+      "enemyType": "Large Monster",
+      "species": {
+        "name": "Flying Wyvern",
+        "icon": "/file/Monster-Hunter-Wilds/gravios_monsters_mhwilds_wiki_guide24px.png"
+      },
+      "elements": [
+        {
+          "name": "Fire",
+          "icon": "/file/Monster-Hunter-Wilds/fire_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "ailments": [
+        {
+          "name": "Fireblight",
+          "icon": "/file/Monster-Hunter-Wilds/fire_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "weaknesses": [
+        {
+          "name": "Water",
+          "icon": "/file/Monster-Hunter-Wilds/water_icon_mhwilds_wiki_guide_25px.png"
+        },
+        {
+          "name": "Ice",
+          "icon": "/file/Monster-Hunter-Wilds/ice_icon_mhwilds_wiki_guide_25px.png"
+        },
+        {
+          "name": "Dragon",
+          "icon": "/file/Monster-Hunter-Wilds/dragon_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "resistances": [
+        {
+          "name": "Fire",
+          "icon": "/file/Monster-Hunter-Wilds/fire_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Oilwell Basin",
+          "icon": "/file/Monster-Hunter-Wilds/oilwell_basin_icon_location_mhwilds_wiki_guide24px.png"
+        },
+        {
+          "name": "Ruins of Wyveria",
+          "icon": "/file/Monster-Hunter-Wilds/ruins_of_wyveria_cliffs_icon_location_mhwilds_wiki_guide24px.png"
+        }
+      ]
+    }
+  },
+  {
+    "index": 10,
+    "name": "Guardian Arkveld",
+    "imagePath": "/file/Monster-Hunter-Wilds/guardian_arkveld_monsters_mhwilds_wiki_guide200px.png",
+    "location": "Unknown",
+    "tooltipUrl": "https://monsterhunterwilds.wiki.fextralife.com/_tooltip_Guardian+Arkveld",
+    "tp": {
+      "name": "Guardian Arkveld",
+      "image": "/file/Monster-Hunter-Wilds/guardian_arkveld_monsters_mhwilds_wiki_guide200px.png",
+      "enemyType": "Large Monster",
+      "species": {
+        "name": "Construct",
+        "icon": "/file/Monster-Hunter-Wilds/guardian_arkveld_monsters_mhwilds_wiki_guide24px.png"
+      },
+      "elements": [
+        {
+          "name": "Dragon",
+          "icon": "/file/Monster-Hunter-Wilds/dragon_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "ailments": [
+        {
+          "name": "Dragonblight",
+          "icon": "/file/Monster-Hunter-Wilds/dragon_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "weaknesses": [
+        {
+          "name": "Dragon",
+          "icon": "/file/Monster-Hunter-Wilds/dragon_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "resistances": [],
+      "locations": [
+        {
+          "name": "Ruins of Wyveria",
+          "icon": "/file/Monster-Hunter-Wilds/ruins_of_wyveria_cliffs_icon_location_mhwilds_wiki_guide24px.png"
+        }
+      ]
+    }
+  },
+  {
+    "index": 11,
+    "name": "Guardian Doshaguma",
+    "imagePath": "/file/Monster-Hunter-Wilds/guardian_doshaguma_monsters_mhwilds_wiki_guide200px.png",
+    "location": "Unknown",
+    "tooltipUrl": "https://monsterhunterwilds.wiki.fextralife.com/_tooltip_Guardian+Doshaguma",
+    "tp": {
+      "name": "Guardian Doshaguma",
+      "image": "/file/Monster-Hunter-Wilds/guardian_doshaguma_monsters_mhwilds_wiki_guide200px.png",
+      "enemyType": "Large Monster",
+      "species": {
+        "name": "Construct",
+        "icon": "/file/Monster-Hunter-Wilds/guardian_doshaguma_monsters_mhwilds_wiki_guide24px.png"
+      },
+      "elements": [],
+      "ailments": [],
+      "weaknesses": [
+        {
+          "name": "",
+          "icon": ""
+        },
+        {
+          "name": "Ice",
+          "icon": "/file/Monster-Hunter-Wilds/ice_icon_mhwilds_wiki_guide_25px.png"
+        },
+        {
+          "name": "",
+          "icon": ""
+        },
+        {
+          "name": "",
+          "icon": ""
+        }
+      ],
+      "resistances": [],
+      "locations": [
+        {
+          "name": "Ruins of Wyveria",
+          "icon": "/file/Monster-Hunter-Wilds/ruins_of_wyveria_cliffs_icon_location_mhwilds_wiki_guide24px.png"
+        }
+      ]
+    }
+  },
+  {
+    "index": 12,
+    "name": "Guardian Ebony Odogaron",
+    "imagePath": "/file/Monster-Hunter-Wilds/guardian_ebony_odogaron_monsters_mhwilds_wiki_guide200px.png",
+    "location": "Unknown",
+    "tooltipUrl": "https://monsterhunterwilds.wiki.fextralife.com/_tooltip_Guardian+Ebony+Odogaron",
+    "tp": {
+      "name": "Guardian Ebony Odogaron",
+      "image": "/file/Monster-Hunter-Wilds/guardian_ebony_odogaron_monsters_mhwilds_wiki_guide200px.png",
+      "enemyType": "Large Monster",
+      "species": {
+        "name": "Construct",
+        "icon": "/file/Monster-Hunter-Wilds/guardian_ebony_odogaron_monsters_mhwilds_wiki_guide24px.png"
+      },
+      "elements": [],
+      "ailments": [],
+      "weaknesses": [
+        {
+          "name": "Water",
+          "icon": "/file/Monster-Hunter-Wilds/water_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "resistances": [],
+      "locations": [
+        {
+          "name": "Ruins of Wyveria",
+          "icon": "/file/Monster-Hunter-Wilds/ruins_of_wyveria_cliffs_icon_location_mhwilds_wiki_guide24px.png"
+        }
+      ]
+    }
+  },
+  {
+    "index": 13,
+    "name": "Guardian Fulgur Anjanath",
+    "imagePath": "/file/Monster-Hunter-Wilds/guardian_fulgur_anjanath_monsters_mhwilds_wiki_guide200px.png",
+    "location": "Unknown",
+    "tooltipUrl": "https://monsterhunterwilds.wiki.fextralife.com/_tooltip_Guardian+Fulgur+Anjanath",
+    "tp": {
+      "name": "Guardian Fulgur Anjanath",
+      "image": "/file/Monster-Hunter-Wilds/guardian_fulgur_anjanath_monsters_mhwilds_wiki_guide200px.png",
+      "enemyType": "Large Monster",
+      "species": {
+        "name": "Construct",
+        "icon": "/file/Monster-Hunter-Wilds/guardian_fulgur_anjanath_monsters_mhwilds_wiki_guide24px.png"
+      },
+      "elements": [
+        {
+          "name": "Thunder",
+          "icon": "/file/Monster-Hunter-Wilds/thunder_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "ailments": [
+        {
+          "name": "Thunderblight",
+          "icon": ""
+        }
+      ],
+      "weaknesses": [
+        {
+          "name": "Ice",
+          "icon": "/file/Monster-Hunter-Wilds/ice_icon_mhwilds_wiki_guide_25px.png"
+        },
+        {
+          "name": "",
+          "icon": ""
+        },
+        {
+          "name": "Water",
+          "icon": "/file/Monster-Hunter-Wilds/water_icon_mhwilds_wiki_guide_25px.png"
+        },
+        {
+          "name": "Dragon",
+          "icon": "/file/Monster-Hunter-Wilds/dragon_icon_mhwilds_wiki_guide_25px.png"
+        },
+        {
+          "name": "",
+          "icon": ""
+        }
+      ],
+      "resistances": [],
+      "locations": [
+        {
+          "name": "Ruins of Wyveria",
+          "icon": "/file/Monster-Hunter-Wilds/ruins_of_wyveria_cliffs_icon_location_mhwilds_wiki_guide24px.png"
+        }
+      ]
+    }
+  },
+  {
+    "index": 14,
+    "name": "Guardian Rathalos",
+    "imagePath": "/file/Monster-Hunter-Wilds/guardian_rathalos_monsters_mhwilds_wiki_guide200px.png",
+    "location": "Unknown",
+    "tooltipUrl": "https://monsterhunterwilds.wiki.fextralife.com/_tooltip_Guardian+Rathalos",
+    "tp": {
+      "name": "Guardian Rathalos",
+      "image": "/file/Monster-Hunter-Wilds/guardian_rathalos_monsters_mhwilds_wiki_guide200px.png",
+      "enemyType": "Large Monster",
+      "species": {
+        "name": "Construct",
+        "icon": "/file/Monster-Hunter-Wilds/guardian_rathalos_monsters_mhwilds_wiki_guide24px.png"
+      },
+      "elements": [
+        {
+          "name": "Fire",
+          "icon": "/file/Monster-Hunter-Wilds/fire_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "ailments": [
+        {
+          "name": "Fireblight",
+          "icon": "/file/Monster-Hunter-Wilds/fire_icon_mhwilds_wiki_guide_25px.png"
+        },
+        {
+          "name": "Poison",
+          "icon": "/file/Monster-Hunter-Wilds/poison_icon_mhwilds_wiki_guide_25px.png"
+        },
+        {
+          "name": "",
+          "icon": ""
+        }
+      ],
+      "weaknesses": [
+        {
+          "name": "Thunder",
+          "icon": "/file/Monster-Hunter-Wilds/thunder_icon_mhwilds_wiki_guide_25px.png"
+        },
+        {
+          "name": "Dragon",
+          "icon": "/file/Monster-Hunter-Wilds/dragon_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "resistances": [
+        {
+          "name": "Fire",
+          "icon": "/file/Monster-Hunter-Wilds/fire_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Ruins of Wyveria",
+          "icon": "/file/Monster-Hunter-Wilds/ruins_of_wyveria_cliffs_icon_location_mhwilds_wiki_guide24px.png"
+        }
+      ]
+    }
+  },
+  {
+    "index": 15,
+    "name": "Gypceros",
+    "imagePath": "/file/Monster-Hunter-Wilds/gypceros_monsters_mhwilds_wiki_guide200px.png",
+    "location": "Unknown",
+    "tooltipUrl": "https://monsterhunterwilds.wiki.fextralife.com/_tooltip_Gypceros",
+    "tp": {
+      "name": "Gypceros",
+      "image": "/file/Monster-Hunter-Wilds/gypceros-monster-monster-hunter-wilds-wiki-guide-300px.png",
+      "enemyType": "Large Monster",
+      "species": {
+        "name": "Bird Wyvern",
+        "icon": "/file/Monster-Hunter-Wilds/gypceros_monsters_mhwilds_wiki_guide24px.png"
+      },
+      "elements": [],
+      "ailments": [
+        {
+          "name": "Poison",
+          "icon": "/file/Monster-Hunter-Wilds/poison_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "weaknesses": [
+        {
+          "name": "Fire",
+          "icon": "/file/Monster-Hunter-Wilds/fire_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "resistances": [],
+      "locations": [
+        {
+          "name": "Windward Plains",
+          "icon": "/file/Monster-Hunter-Wilds/plains_icon_location_mhwilds_wiki_guide24px.png"
+        },
+        {
+          "name": "Oilwell Basin",
+          "icon": "/file/Monster-Hunter-Wilds/oilwell_basin_icon_location_mhwilds_wiki_guide24px.png"
+        },
+        {
+          "name": "Iceshard Cliffs",
+          "icon": "/file/Monster-Hunter-Wilds/iceshard_cliffs_icon_location_mhwilds_wiki_guide24px.png"
+        },
+        {
+          "name": "Ruins of Wyveria",
+          "icon": "/file/Monster-Hunter-Wilds/ruins_of_wyveria_cliffs_icon_location_mhwilds_wiki_guide24px.png"
+        }
+      ]
+    }
+  },
+  {
+    "index": 16,
+    "name": "Hirabami",
+    "imagePath": "/file/Monster-Hunter-Wilds/hirabami_monsters_mhwilds_wiki_guide200px.png",
+    "location": "Unknown",
+    "tooltipUrl": "https://monsterhunterwilds.wiki.fextralife.com/_tooltip_Hirabami",
+    "tp": {
+      "name": "Hirabami",
+      "image": "/file/Monster-Hunter-Wilds/hirabami_large_monster_monsters_mhwilds_wiki_guide300px.png",
+      "enemyType": "Large Monster",
+      "species": {
+        "name": "Leviathan",
+        "icon": "/file/Monster-Hunter-Wilds/hirabami_monsters_mhwilds_wiki_guide24px.png"
+      },
+      "elements": [
+        {
+          "name": "Ice",
+          "icon": "/file/Monster-Hunter-Wilds/ice_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "ailments": [
+        {
+          "name": "Frostblight",
+          "icon": "/file/Monster-Hunter-Wilds/frostblight_status_effect_mhwilds_wiki_guide24px.png"
+        }
+      ],
+      "weaknesses": [
+        {
+          "name": "Fire",
+          "icon": "/file/Monster-Hunter-Wilds/fire_icon_mhwilds_wiki_guide_25px.png"
+        },
+        {
+          "name": "Thunder",
+          "icon": "/file/Monster-Hunter-Wilds/thunder_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "resistances": [
+        {
+          "name": "Ice",
+          "icon": "/file/Monster-Hunter-Wilds/ice_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Iceshard Cliffs",
+          "icon": "/file/Monster-Hunter-Wilds/iceshard_cliffs_icon_location_mhwilds_wiki_guide24px.png"
+        },
+        {
+          "name": "Ruins of Wyveria",
+          "icon": "/file/Monster-Hunter-Wilds/ruins_of_wyveria_cliffs_icon_location_mhwilds_wiki_guide24px.png"
+        }
+      ]
+    }
+  },
+  {
+    "index": 17,
+    "name": "Jin Dahaad",
+    "imagePath": "/file/Monster-Hunter-Wilds/jin_dahaad_monsters_mhwilds_wiki_guide200px.png",
+    "location": "Unknown",
+    "tooltipUrl": "https://monsterhunterwilds.wiki.fextralife.com/_tooltip_Jin+Dahaad",
+    "tp": {
+      "name": "Jin Dahaad",
+      "image": "/file/Monster-Hunter-Wilds/jin_dahaad_large_monster_monsters_mhwilds_wiki_guide300px.png",
+      "enemyType": "Large Monster",
+      "species": {
+        "name": "Leviathan",
+        "icon": "/file/Monster-Hunter-Wilds/jin_dahaad_monsters_mhwilds_wiki_guide24px.png"
+      },
+      "elements": [
+        {
+          "name": "Ice",
+          "icon": "/file/Monster-Hunter-Wilds/ice_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "ailments": [
+        {
+          "name": "Iceblight",
+          "icon": "/file/Monster-Hunter-Wilds/ice_icon_mhwilds_wiki_guide_25px.png"
+        },
+        {
+          "name": "Frostblight",
+          "icon": "/file/Monster-Hunter-Wilds/frostblight_status_effect_mhwilds_wiki_guide24px.png"
+        }
+      ],
+      "weaknesses": [
+        {
+          "name": "Fire",
+          "icon": "/file/Monster-Hunter-Wilds/fire_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "resistances": [
+        {
+          "name": "Ice",
+          "icon": "/file/Monster-Hunter-Wilds/ice_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Iceshard Cliffs",
+          "icon": "/file/Monster-Hunter-Wilds/iceshard_cliffs_icon_location_mhwilds_wiki_guide24px.png"
+        }
+      ]
+    }
+  },
+  {
+    "index": 18,
+    "name": "Lala Barina",
+    "imagePath": "/file/Monster-Hunter-Wilds/lala_barina_monsters_mhwilds_wiki_guide200px.png",
+    "location": "Unknown",
+    "tooltipUrl": "https://monsterhunterwilds.wiki.fextralife.com/_tooltip_Lala+Barina",
+    "tp": {
+      "name": "Lala Barina",
+      "image": "/file/Monster-Hunter-Wilds/lala_barina_large_monsters_mhw_wiki_guide300px.png",
+      "enemyType": "Large Monster",
+      "species": {
+        "name": "Temnoceran",
+        "icon": "/file/Monster-Hunter-Wilds/lala_barina_monsters_mhwilds_wiki_guide24px.png"
+      },
+      "elements": [],
+      "ailments": [
+        {
+          "name": "Paralysis",
+          "icon": "/file/Monster-Hunter-Wilds/paralysis_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "weaknesses": [
+        {
+          "name": "Fire",
+          "icon": "/file/Monster-Hunter-Wilds/fire_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "resistances": [
+        {
+          "name": "Water",
+          "icon": "/file/Monster-Hunter-Wilds/water_icon_mhwilds_wiki_guide_25px.png"
+        },
+        {
+          "name": "Dragon",
+          "icon": "/file/Monster-Hunter-Wilds/dragon_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Scarlet Forest",
+          "icon": "/file/Monster-Hunter-Wilds/forest_icon_location_mhwilds_wiki_guide24px.png"
+        },
+        {
+          "name": "Ruins of Wyveria",
+          "icon": "/file/Monster-Hunter-Wilds/ruins_of_wyveria_cliffs_icon_location_mhwilds_wiki_guide24px.png"
+        }
+      ]
+    }
+  },
+  {
+    "index": 19,
+    "name": "Nerscylla",
+    "imagePath": "/file/Monster-Hunter-Wilds/nerscylla_monsters_mhwilds_wiki_guide200px.png",
+    "location": "Unknown",
+    "tooltipUrl": "https://monsterhunterwilds.wiki.fextralife.com/_tooltip_Nerscylla",
+    "tp": {
+      "name": "Nerscylla",
+      "image": "/file/Monster-Hunter-Wilds/nerscylla_large_monster_monsters_mhwilds_wiki_guide300px.png",
+      "enemyType": "Large Monster",
+      "species": {
+        "name": "Temnoceran",
+        "icon": "/file/Monster-Hunter-Wilds/nerscylla_monsters_mhwilds_wiki_guide24px.png"
+      },
+      "elements": [],
+      "ailments": [
+        {
+          "name": "Poison",
+          "icon": "/file/Monster-Hunter-Wilds/poison_icon_mhwilds_wiki_guide_25px.png"
+        },
+        {
+          "name": "Sleep",
+          "icon": "/file/Monster-Hunter-Wilds/sleep_icon_mhwilds_wiki_guide_25px.png"
+        },
+        {
+          "name": "Webbed",
+          "icon": "/file/Monster-Hunter-Wilds/webbed_status_effect_mhwilds_wiki_guide24px.png"
+        }
+      ],
+      "weaknesses": [
+        {
+          "name": "Fire",
+          "icon": "/file/Monster-Hunter-Wilds/fire_icon_mhwilds_wiki_guide_25px.png"
+        },
+        {
+          "name": "",
+          "icon": ""
+        }
+      ],
+      "resistances": [
+        {
+          "name": "Water",
+          "icon": "/file/Monster-Hunter-Wilds/water_icon_mhwilds_wiki_guide_25px.png"
+        },
+        {
+          "name": "Dragon",
+          "icon": "/file/Monster-Hunter-Wilds/dragon_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Oilwell Basin",
+          "icon": "/file/Monster-Hunter-Wilds/oilwell_basin_icon_location_mhwilds_wiki_guide24px.png"
+        },
+        {
+          "name": "Iceshard Cliffs",
+          "icon": "/file/Monster-Hunter-Wilds/iceshard_cliffs_icon_location_mhwilds_wiki_guide24px.png"
+        },
+        {
+          "name": "Ruins of Wyveria",
+          "icon": "/file/Monster-Hunter-Wilds/ruins_of_wyveria_cliffs_icon_location_mhwilds_wiki_guide24px.png"
+        }
+      ]
+    }
+  },
+  {
+    "index": 20,
+    "name": "Nu Udra",
+    "imagePath": "/file/Monster-Hunter-Wilds/nu_udra_monsters_mhwilds_wiki_guide200px.png",
+    "location": "Unknown",
+    "tooltipUrl": "https://monsterhunterwilds.wiki.fextralife.com/_tooltip_Nu+Udra",
+    "tp": {
+      "name": "Nu Udra",
+      "image": "/file/Monster-Hunter-Wilds/nu_udra_large_monster_monsters_mhwilds_wiki_guide300px.png",
+      "enemyType": "Large Monster",
+      "species": {
+        "name": "Cephalopod",
+        "icon": "/file/Monster-Hunter-Wilds/nu_udra_monsters_mhwilds_wiki_guide24px.png"
+      },
+      "elements": [
+        {
+          "name": "Fire",
+          "icon": "/file/Monster-Hunter-Wilds/fire_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "ailments": [
+        {
+          "name": "Fireblight",
+          "icon": "/file/Monster-Hunter-Wilds/fire_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "weaknesses": [
+        {
+          "name": "Water",
+          "icon": "/file/Monster-Hunter-Wilds/water_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "resistances": [
+        {
+          "name": "Fire",
+          "icon": "/file/Monster-Hunter-Wilds/fire_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Oilwell Basin",
+          "icon": "/file/Monster-Hunter-Wilds/oilwell_basin_icon_location_mhwilds_wiki_guide24px.png"
+        }
+      ]
+    }
+  },
+  {
+    "index": 21,
+    "name": "Quematrice",
+    "imagePath": "/file/Monster-Hunter-Wilds/quematrice_monsters_mhwilds_wiki_guide200px.png",
+    "location": "Unknown",
+    "tooltipUrl": "https://monsterhunterwilds.wiki.fextralife.com/_tooltip_Quematrice",
+    "tp": {
+      "name": "Quematrice",
+      "image": "/file/Monster-Hunter-Wilds/quematrice_large_monsters_mhwilds_wiki_guide_300px.png",
+      "enemyType": "Large Monster",
+      "species": {
+        "name": "Brute Wyvern",
+        "icon": "/file/Monster-Hunter-Wilds/quematrice_monsters_mhwilds_wiki_guide24px.png"
+      },
+      "elements": [
+        {
+          "name": "Fire",
+          "icon": "/file/Monster-Hunter-Wilds/fire_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "ailments": [
+        {
+          "name": "Fireblight",
+          "icon": "/file/Monster-Hunter-Wilds/fire_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "weaknesses": [
+        {
+          "name": "Water",
+          "icon": "/file/Monster-Hunter-Wilds/water_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "resistances": [
+        {
+          "name": "Fire",
+          "icon": "/file/Monster-Hunter-Wilds/fire_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Windward Plains",
+          "icon": "/file/Monster-Hunter-Wilds/plains_icon_location_mhwilds_wiki_guide24px.png"
+        },
+        {
+          "name": "Ruins of Wyveria",
+          "icon": "/file/Monster-Hunter-Wilds/ruins_of_wyveria_cliffs_icon_location_mhwilds_wiki_guide24px.png"
+        }
+      ]
+    }
+  },
+  {
+    "index": 22,
+    "name": "Rathalos",
+    "imagePath": "/file/Monster-Hunter-Wilds/rathalos_monsters_mhwilds_wiki_guide200px.png",
+    "location": "Unknown",
+    "tooltipUrl": "https://monsterhunterwilds.wiki.fextralife.com/_tooltip_Rathalos",
+    "tp": {
+      "name": "Rathalos",
+      "image": "/file/Monster-Hunter-Wilds/rathalos_monsters_mhwilds_wiki_guide200px.png",
+      "enemyType": "Large Monster",
+      "species": {
+        "name": "Flying Wyvern",
+        "icon": "/file/Monster-Hunter-Wilds/rathalos_monsters_mhwilds_wiki_guide24px.png"
+      },
+      "elements": [
+        {
+          "name": "Fire",
+          "icon": "/file/Monster-Hunter-Wilds/fire_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "ailments": [
+        {
+          "name": "Fireblight",
+          "icon": "/file/Monster-Hunter-Wilds/fire_icon_mhwilds_wiki_guide_25px.png"
+        },
+        {
+          "name": "Poison",
+          "icon": "/file/Monster-Hunter-Wilds/poison_icon_mhwilds_wiki_guide_25px.png"
+        },
+        {
+          "name": "",
+          "icon": ""
+        }
+      ],
+      "weaknesses": [
+        {
+          "name": "Dragon",
+          "icon": "/file/Monster-Hunter-Wilds/dragon_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "resistances": [
+        {
+          "name": "Fire",
+          "icon": "/file/Monster-Hunter-Wilds/fire_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Scarlet Forest",
+          "icon": "/file/Monster-Hunter-Wilds/forest_icon_location_mhwilds_wiki_guide24px.png"
+        },
+        {
+          "name": "Oilwell Basin",
+          "icon": "/file/Monster-Hunter-Wilds/oilwell_basin_icon_location_mhwilds_wiki_guide24px.png"
+        },
+        {
+          "name": "Ruins of Wyveria",
+          "icon": "/file/Monster-Hunter-Wilds/ruins_of_wyveria_cliffs_icon_location_mhwilds_wiki_guide24px.png"
+        }
+      ]
+    }
+  },
+  {
+    "index": 23,
+    "name": "Rathian",
+    "imagePath": "/file/Monster-Hunter-Wilds/rathian_monsters_mhwilds_wiki_guide200px.png",
+    "location": "Unknown",
+    "tooltipUrl": "https://monsterhunterwilds.wiki.fextralife.com/_tooltip_Rathian",
+    "tp": {
+      "name": "Rathian",
+      "image": "/file/Monster-Hunter-Wilds/rathian_large_monster_monsters_mhwilds_wiki_guide300px.png",
+      "enemyType": "Large Monster",
+      "species": {
+        "name": "Flying Wyvern",
+        "icon": "/file/Monster-Hunter-Wilds/rathian_monsters_mhwilds_wiki_guide24px.png"
+      },
+      "elements": [
+        {
+          "name": "Fire",
+          "icon": "/file/Monster-Hunter-Wilds/fire_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "ailments": [
+        {
+          "name": "Fireblight",
+          "icon": "/file/Monster-Hunter-Wilds/fire_icon_mhwilds_wiki_guide_25px.png"
+        },
+        {
+          "name": "Poison",
+          "icon": "/file/Monster-Hunter-Wilds/poison_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "weaknesses": [
+        {
+          "name": "Dragon",
+          "icon": "/file/Monster-Hunter-Wilds/dragon_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "resistances": [
+        {
+          "name": "Fire",
+          "icon": "/file/Monster-Hunter-Wilds/fire_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Windward Plains",
+          "icon": "/file/Monster-Hunter-Wilds/plains_icon_location_mhwilds_wiki_guide24px.png"
+        },
+        {
+          "name": "Scarlet Forest",
+          "icon": "/file/Monster-Hunter-Wilds/forest_icon_location_mhwilds_wiki_guide24px.png"
+        },
+        {
+          "name": "Oilwell Basin",
+          "icon": "/file/Monster-Hunter-Wilds/oilwell_basin_icon_location_mhwilds_wiki_guide24px.png"
+        }
+      ]
+    }
+  },
+  {
+    "index": 24,
+    "name": "Rey Dau",
+    "imagePath": "/file/Monster-Hunter-Wilds/rey_dau_monsters_mhwilds_wiki_guide200px.png",
+    "location": "Unknown",
+    "tooltipUrl": "https://monsterhunterwilds.wiki.fextralife.com/_tooltip_Rey+Dau",
+    "tp": {
+      "name": "Rey Dau",
+      "image": "/file/Monster-Hunter-Wilds/rey-dau-monster-hunter-wilds-wiki-guide-resized.png",
+      "enemyType": "Large Monster",
+      "species": {
+        "name": "Flying Wyvern",
+        "icon": "/file/Monster-Hunter-Wilds/rey_dau_monsters_mhwilds_wiki_guide24px.png"
+      },
+      "elements": [
+        {
+          "name": "Thunder",
+          "icon": "/file/Monster-Hunter-Wilds/thunder_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "ailments": [
+        {
+          "name": "Thunderblight",
+          "icon": ""
+        }
+      ],
+      "weaknesses": [
+        {
+          "name": "Ice",
+          "icon": "/file/Monster-Hunter-Wilds/ice_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "resistances": [
+        {
+          "name": "Thunder",
+          "icon": "/file/Monster-Hunter-Wilds/thunder_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Windward Plains",
+          "icon": "/file/Monster-Hunter-Wilds/plains_icon_location_mhwilds_wiki_guide24px.png"
+        }
+      ]
+    }
+  },
+  {
+    "index": 25,
+    "name": "Rompopolo",
+    "imagePath": "/file/Monster-Hunter-Wilds/rompopolo_monsters_mhwilds_wiki_guide200px.png",
+    "location": "Unknown",
+    "tooltipUrl": "https://monsterhunterwilds.wiki.fextralife.com/_tooltip_Rompopolo",
+    "tp": {
+      "name": "Rompopolo",
+      "image": "/file/Monster-Hunter-Wilds/rompopolo_monsterhunterwilds_wiki_guide300px.png",
+      "enemyType": "Large Monster",
+      "species": {
+        "name": "Brute Wyvern",
+        "icon": "/file/Monster-Hunter-Wilds/rompopolo_monsters_mhwilds_wiki_guide24px.png"
+      },
+      "elements": [],
+      "ailments": [
+        {
+          "name": "Poison",
+          "icon": "/file/Monster-Hunter-Wilds/poison_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "weaknesses": [
+        {
+          "name": "Water",
+          "icon": "/file/Monster-Hunter-Wilds/water_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "resistances": [
+        {
+          "name": "Poison",
+          "icon": "/file/Monster-Hunter-Wilds/poison_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Oilwell Basin",
+          "icon": "/file/Monster-Hunter-Wilds/oilwell_basin_icon_location_mhwilds_wiki_guide24px.png"
+        }
+      ]
+    }
+  },
+  {
+    "index": 26,
+    "name": "Uth Duna",
+    "imagePath": "/file/Monster-Hunter-Wilds/uth_duna_monsters_mhwilds_wiki_guide200px.png",
+    "location": "Unknown",
+    "tooltipUrl": "https://monsterhunterwilds.wiki.fextralife.com/_tooltip_Uth+Duna",
+    "tp": {
+      "name": "Uth Duna",
+      "image": "/file/Monster-Hunter-Wilds/uth_duna2_monster_monterhunsterwilds_wiki_guide300px.png",
+      "enemyType": "Large Monster",
+      "species": {
+        "name": "Leviathan",
+        "icon": "/file/Monster-Hunter-Wilds/uth_duna_monsters_mhwilds_wiki_guide24px.png"
+      },
+      "elements": [
+        {
+          "name": "Water",
+          "icon": "/file/Monster-Hunter-Wilds/water_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "ailments": [
+        {
+          "name": "Waterblight",
+          "icon": "/file/Monster-Hunter-Wilds/water_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "weaknesses": [
+        {
+          "name": "Thunder",
+          "icon": "/file/Monster-Hunter-Wilds/thunder_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "resistances": [
+        {
+          "name": "Water",
+          "icon": "/file/Monster-Hunter-Wilds/water_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Scarlet Forest",
+          "icon": "/file/Monster-Hunter-Wilds/forest_icon_location_mhwilds_wiki_guide24px.png"
+        }
+      ]
+    }
+  },
+  {
+    "index": 27,
+    "name": "Xu Wu",
+    "imagePath": "/file/Monster-Hunter-Wilds/xu_wu_monsters_mhwilds_wiki_guide200px.png",
+    "location": "Unknown",
+    "tooltipUrl": "https://monsterhunterwilds.wiki.fextralife.com/_tooltip_Xu+Wu",
+    "tp": {
+      "name": "Xu Wu",
+      "image": "/file/Monster-Hunter-Wilds/xu_wu_monsters_mhwilds_wiki_guide200px.png",
+      "enemyType": "Large Monster",
+      "species": {
+        "name": "Cephalopod",
+        "icon": "/file/Monster-Hunter-Wilds/xu_wu_monsters_mhwilds_wiki_guide24px.png"
+      },
+      "elements": [
+        {
+          "name": "Dragon",
+          "icon": "/file/Monster-Hunter-Wilds/dragon_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "ailments": [],
+      "weaknesses": [
+        {
+          "name": "Ice",
+          "icon": "/file/Monster-Hunter-Wilds/ice_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "resistances": [
+        {
+          "name": "Dragon",
+          "icon": "/file/Monster-Hunter-Wilds/dragon_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Ruins of Wyveria",
+          "icon": "/file/Monster-Hunter-Wilds/ruins_of_wyveria_cliffs_icon_location_mhwilds_wiki_guide24px.png"
+        }
+      ]
+    }
+  },
+  {
+    "index": 28,
+    "name": "Yian Kut-Ku",
+    "imagePath": "/file/Monster-Hunter-Wilds/yian_kut-ku_monsters_mhwilds_wiki_guide200px.png",
+    "location": "Unknown",
+    "tooltipUrl": "https://monsterhunterwilds.wiki.fextralife.com/_tooltip_Yian+Kut-Ku",
+    "tp": {
+      "name": "Yian Kut-Ku",
+      "image": "/file/Monster-Hunter-Wilds/yian_kut_ku_large_monster_monsters_mhwilds_wiki_guide300px.png",
+      "enemyType": "Large Monster",
+      "species": {
+        "name": "Bird Wyvern",
+        "icon": "/file/Monster-Hunter-Wilds/yian_kut-ku_monsters_mhwilds_wiki_guide24px.png"
+      },
+      "elements": [
+        {
+          "name": "Fire",
+          "icon": "/file/Monster-Hunter-Wilds/fire_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "ailments": [],
+      "weaknesses": [
+        {
+          "name": "",
+          "icon": "/file/Monster-Hunter-Wilds/thunder_icon_mhwilds_wiki_guide_25px.png"
+        },
+        {
+          "name": "Thunder",
+          "icon": ""
+        },
+        {
+          "name": "",
+          "icon": "/file/Monster-Hunter-Wilds/ice_icon_mhwilds_wiki_guide_25px.png"
+        },
+        {
+          "name": "Ice",
+          "icon": ""
+        },
+        {
+          "name": "",
+          "icon": ""
+        }
+      ],
+      "resistances": [
+        {
+          "name": "Dragon",
+          "icon": "/file/Monster-Hunter-Wilds/dragon_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Scarlet Forest",
+          "icon": "/file/Monster-Hunter-Wilds/forest_icon_location_mhwilds_wiki_guide24px.png"
+        },
+        {
+          "name": "Iceshard Cliffs",
+          "icon": "/file/Monster-Hunter-Wilds/iceshard_cliffs_icon_location_mhwilds_wiki_guide24px.png"
+        }
+      ]
+    }
+  },
+  {
+    "index": 29,
+    "name": "Zoh Shia",
+    "imagePath": "/file/Monster-Hunter-Wilds/zoh_shia_monsters_mhwilds_wiki_guide200px.png",
+    "location": "Unknown",
+    "tooltipUrl": "https://monsterhunterwilds.wiki.fextralife.com/_tooltip_Zoh+Shia",
+    "tp": {
+      "name": "Zoh Shia",
+      "image": "/file/Monster-Hunter-Wilds/zoh_shia_monsters_mhwilds_wiki_guide200px.png",
+      "enemyType": "Large Monster",
+      "species": {
+        "name": "Construct",
+        "icon": "/file/Monster-Hunter-Wilds/zoh_shia_monsters_mhwilds_wiki_guide24px.png"
+      },
+      "elements": [],
+      "ailments": [
+        {
+          "name": "Fireblight",
+          "icon": "/file/Monster-Hunter-Wilds/fire_icon_mhwilds_wiki_guide_25px.png"
+        },
+        {
+          "name": "Thunderblight",
+          "icon": ""
+        }
+      ],
+      "weaknesses": [
+        {
+          "name": "Dragon",
+          "icon": "/file/Monster-Hunter-Wilds/dragon_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "resistances": [],
+      "locations": [
+        {
+          "name": "Ruins of Wyveria",
+          "icon": "/file/Monster-Hunter-Wilds/ruins_of_wyveria_cliffs_icon_location_mhwilds_wiki_guide24px.png"
+        }
+      ]
+    }
+  },
+  {
+    "index": 30,
+    "name": "Mizutsune",
+    "imagePath": "Not specified in the data",
+    "location": "Unknown",
+    "tooltipUrl": "https://monsterhunterwilds.wiki.fextralife.com/_tooltip_Mizutsune",
+    "tp": {
+      "name": "Mizutsune",
+      "image": "",
+      "enemyType": "Large Monster",
+      "species": {
+        "name": "Leviathans",
+        "icon": ""
+      },
+      "elements": [
+        {
+          "name": "Water",
+          "icon": "/file/Monster-Hunter-Wilds/water_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "ailments": [
+        {
+          "name": "Waterblight",
+          "icon": "/file/Monster-Hunter-Wilds/water_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "weaknesses": [
+        {
+          "name": "Thunder",
+          "icon": "/file/Monster-Hunter-Wilds/thunder_icon_mhwilds_wiki_guide_25px.png"
+        },
+        {
+          "name": "Dragon",
+          "icon": "/file/Monster-Hunter-Wilds/dragon_icon_mhwilds_wiki_guide_25px.png"
+        },
+        {
+          "name": "Ice",
+          "icon": "/file/Monster-Hunter-Wilds/ice_icon_mhwilds_wiki_guide_25px.png"
+        },
+        {
+          "name": "",
+          "icon": ""
+        }
+      ],
+      "resistances": [
+        {
+          "name": "Water",
+          "icon": "/file/Monster-Hunter-Wilds/water_icon_mhwilds_wiki_guide_25px.png"
+        },
+        {
+          "name": "Fire",
+          "icon": "/file/Monster-Hunter-Wilds/fire_icon_mhwilds_wiki_guide_25px.png"
+        }
+      ],
+      "locations": []
+    }
+  }
+]
