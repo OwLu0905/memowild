@@ -19,6 +19,7 @@
 		"vite": "^6.0.0"
 	},
 	"dependencies": {
-		"color-thief-browser": "^2.0.2"
+		"color-thief-browser": "^2.0.2",
+		"lucide-svelte": "^0.479.0"
 	}
 }
