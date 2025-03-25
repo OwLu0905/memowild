@@ -8,12 +8,12 @@
 	let fetchedData;
 
 	function handleError(event) {
-		event.target.src = "/wild/unknown.png";
+		event.target.src = `${base}/wild/unknown.png`;
 		event.target.onerror = null;
 	}
 
 	onMount(async () => {
-		const response = await fetch("/monster.json");
+		const response = await fetch(`${base}/monster.json`);
 
 		if (!response.ok) return;
 
