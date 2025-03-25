@@ -3,6 +3,8 @@
 
 	import Audio from "$lib/components/Audio.svelte";
 
+	import { base } from "$app/paths";
+
 	let fetchedData;
 
 	function handleError(event) {
@@ -26,9 +28,7 @@
 				<div class="flex gap-4 rounded-4xl px-2 py-1">
 					<div class="shrink-0 rounded-full">
 						<img
-							src={"/wild/" +
-								monster.name.toLocaleLowerCase().split(" ").join("_") +
-								".png"}
+							src={`${base}/wild/${monster.name.toLocaleLowerCase().split(" ").join("_")}.png`}
 							class="rotate w-14 h-14 object-scale-down p-1 rounded-full"
 							alt={monster.name}
 							onerror={handleError}

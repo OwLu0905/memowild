@@ -4,6 +4,8 @@
 	import "../app.css";
 	let { children } = $props();
 
+	import { base } from "$app/paths";
+
 	const nav = [
 		{ id: 0, name: "Home", href: "/" },
 		{ id: 1, name: "Decoration", href: "/decoration" },
@@ -37,7 +39,7 @@
 		class="ml-auto opacity-0 group-hover:opacity-100 translate-x-5 group-hover:translate-x-0 invisible group-hover:visible transition-all duration-500 ease-linear"
 	>
 		<img
-			src={"/wild/arkveld.png"}
+			src="{base}/wild/arkveld.png"
 			class="rotate w-14 h-14 object-scale-down p-1 rounded-full"
 			alt={"arkveld"}
 		/>
@@ -47,12 +49,6 @@
 {@render children()}
 
 <style>
-	.underline-container {
-		text-align: center;
-		background: transparent;
-		/* border-radius: 0.5rem; */
-		/* box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); */
-	}
 	.underline-transition {
 		position: relative;
 		cursor: pointer;

@@ -8,7 +8,7 @@ const config = {
 		// See https://svelte.dev/docs/kit/adapters for more information about adapters.
 		adapter: adapter(),
 		paths: {
-			base: "/memowild",
+			base: process.argv.includes("dev") ? "" : "/memowild",
 		},
 		prerender: {
 			handleHttpError: ({ path, referrer, message }) => {
