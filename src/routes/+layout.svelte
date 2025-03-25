@@ -7,8 +7,8 @@
 	import { base } from "$app/paths";
 
 	const nav = [
-		{ id: 0, name: "Home", href: "/" },
-		{ id: 1, name: "Decoration", href: "/decoration" },
+		{ id: 0, name: "Home", href: `${base}/` },
+		{ id: 1, name: "Decoration", href: `${base}/decoration` },
 	];
 
 	let url = $derived(page.url.pathname);
