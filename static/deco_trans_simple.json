@@ -1,0 +1,3614 @@
+{
+	"decorations": [
+		{
+			"englishName": "Adapt Jewel 1",
+			"chineseName": "適應珠【1】",
+			"englishDescription": "Grants protection against environmental damage, such as from heat or cold.",
+			"chineseDescription": "提供對環境傷害的保護，例如熱或冷帶來的傷害。",
+			"skillName": {
+				"english": "Adaptability",
+				"chinese": "適應力"
+			}
+		},
+		{
+			"englishName": "Ambush Jewel 2",
+			"chineseName": "伏擊珠【2】",
+			"englishDescription": "Temporarily increases damage to large monsters with a successful Sneak Attack.",
+			"chineseDescription": "成功進行潛行攻擊後，暫時增加對大型怪物的傷害。",
+			"skillName": {
+				"english": "Ambush",
+				"chinese": "伏擊"
+			}
+		},
+		{
+			"englishName": "Antiblast Jewel 1",
+			"chineseName": "防爆珠【1】",
+			"englishDescription": "Grants protection against blastblight.",
+			"chineseDescription": "提供對爆破異常狀態的抵抗力。",
+			"skillName": {
+				"english": "Blast Resistance",
+				"chinese": "爆破抵抗"
+			}
+		},
+		{
+			"englishName": "Antidote Jewel 1",
+			"chineseName": "解毒珠【1】",
+			"englishDescription": "Reduces damage while poisoned.",
+			"chineseDescription": "減少中毒時受到的傷害。",
+			"skillName": {
+				"english": "Poison Resistance",
+				"chinese": "毒抵抗"
+			}
+		},
+		{
+			"englishName": "Antipara Jewel 1",
+			"chineseName": "麻痺珠【1】",
+			"englishDescription": "Reduces the duration of paralysis.",
+			"chineseDescription": "減少麻痺狀態的持續時間。",
+			"skillName": {
+				"english": "Paralysis Resistance",
+				"chinese": "麻痺抵抗"
+			}
+		},
+		{
+			"englishName": "Artillery Jewel 1",
+			"chineseName": "炮術珠【1】",
+			"englishDescription": "Strengthens explosive attacks like shells, Wyvern's Fire, charge blade phial attacks, and Sticky Ammo.",
+			"chineseDescription": "強化爆炸類攻擊，如砲彈、龍息、充能斧的瓶子攻擊和黏著彈。",
+			"skillName": {
+				"english": "Artillery",
+				"chinese": "炮術"
+			}
+		},
+		{
+			"englishName": "Artillery Jewel II 2",
+			"chineseName": "炮術珠II【2】",
+			"englishDescription": "Strengthens explosive attacks like shells, Wyvern's Fire, charge blade phial attacks, and Sticky Ammo.",
+			"chineseDescription": "強化爆炸類攻擊，如砲彈、龍息、充能斧的瓶子攻擊和黏著彈。",
+			"skillName": {
+				"english": "Artillery",
+				"chinese": "炮術"
+			}
+		},
+		{
+			"englishName": "Artillery Jewel III 3",
+			"chineseName": "炮術珠III【3】",
+			"englishDescription": "Strengthens explosive attacks like shells, Wyvern's Fire, charge blade phial attacks, and Sticky Ammo.",
+			"chineseDescription": "強化爆炸類攻擊，如砲彈、龍息、充能斧的瓶子攻擊和黏著彈。",
+			"skillName": {
+				"english": "Artillery",
+				"chinese": "炮術"
+			}
+		},
+		{
+			"englishName": "Attack Jewel 1",
+			"chineseName": "攻擊珠【1】",
+			"englishDescription": "Increases attack power.",
+			"chineseDescription": "提高攻擊力。",
+			"skillName": {
+				"english": "Attack Boost",
+				"chinese": "攻擊強化"
+			}
+		},
+		{
+			"englishName": "Attack Jewel II 2",
+			"chineseName": "攻擊珠II【2】",
+			"englishDescription": "Increases attack power.",
+			"chineseDescription": "提高攻擊力。",
+			"skillName": {
+				"english": "Attack Boost",
+				"chinese": "攻擊強化"
+			}
+		},
+		{
+			"englishName": "Attack Jewel III 3",
+			"chineseName": "攻擊珠III【3】",
+			"englishDescription": "Increases attack power.",
+			"chineseDescription": "提高攻擊力。",
+			"skillName": {
+				"english": "Attack Boost",
+				"chinese": "攻擊強化"
+			}
+		},
+		{
+			"englishName": "Bandolier Jewel 1",
+			"chineseName": "彈帶珠【1】",
+			"englishDescription": "Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots.",
+			"chineseDescription": "增加從第四發開始的彈藥/塗層的會心率，以及第四和第六發攻擊的威力。",
+			"skillName": {
+				"english": "Tetrad Shot",
+				"chinese": "四連射擊"
+			}
+		},
+		{
+			"englishName": "Bandolier Jewel II 2",
+			"chineseName": "彈帶珠II【2】",
+			"englishDescription": "Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots.",
+			"chineseDescription": "增加從第四發開始的彈藥/塗層的會心率，以及第四和第六發攻擊的威力。",
+			"skillName": {
+				"english": "Tetrad Shot",
+				"chinese": "四連射擊"
+			}
+		},
+		{
+			"englishName": "Bandolier Jewel III 3",
+			"chineseName": "彈帶珠III【3】",
+			"englishDescription": "Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots.",
+			"chineseDescription": "增加從第四發開始的彈藥/塗層的會心率，以及第四和第六發攻擊的威力。",
+			"skillName": {
+				"english": "Tetrad Shot",
+				"chinese": "四連射擊"
+			}
+		},
+		{
+			"englishName": "Bandolier-Blaze Jwl 3",
+			"chineseName": "彈帶-火焰珠【3】",
+			"englishDescription": "Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots. Increases fire element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "增加從第四發開始的彈藥/塗層的會心率，以及第四和第六發攻擊的威力。增加火屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Tetrad Shot / Fire Attack",
+				"chinese": "四連射擊 / 火屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Bandolier-Bolt Jwl 3",
+			"chineseName": "彈帶-雷電珠【3】",
+			"englishDescription": "Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots. Increases thunder element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "增加從第四發開始的彈藥/塗層的會心率，以及第四和第六發攻擊的威力。增加雷屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Tetrad Shot / Thunder Attack",
+				"chinese": "四連射擊 / 雷屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Bandolier-Dragon Jwl 3",
+			"chineseName": "彈帶-龍珠【3】",
+			"englishDescription": "Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots. Increases dragon element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "增加從第四發開始的彈藥/塗層的會心率，以及第四和第六發攻擊的威力。增加龍屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Tetrad Shot / Dragon Attack",
+				"chinese": "四連射擊 / 龍屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Bandolier-Frost Jwl 3",
+			"chineseName": "彈帶-冰結珠【3】",
+			"englishDescription": "Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots. Increases ice element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "增加從第四發開始的彈藥/塗層的會心率，以及第四和第六發攻擊的威力。增加冰屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Tetrad Shot / Ice Attack",
+				"chinese": "四連射擊 / 冰屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Bandolier-Ironwall Jwl 3",
+			"chineseName": "彈帶-鐵壁珠【3】",
+			"englishDescription": "Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots. Reduces knockbacks and stamina depletion when guarding.",
+			"chineseDescription": "增加從第四發開始的彈藥/塗層的會心率，以及第四和第六發攻擊的威力。減少防禦時的後座力和體力消耗。",
+			"skillName": {
+				"english": "Tetrad Shot / Guard",
+				"chinese": "四連射擊 / 防禦"
+			}
+		},
+		{
+			"englishName": "Bandolier-Precise Jwl 3",
+			"chineseName": "彈帶-精確珠【3】",
+			"englishDescription": "Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots. Extends the range in which ammo and arrows have maximum power.",
+			"chineseDescription": "增加從第四發開始的彈藥/塗層的會心率，以及第四和第六發攻擊的威力。延長彈藥和箭矢發揮最大威力的距離範圍。",
+			"skillName": {
+				"english": "Tetrad Shot / Ballistics",
+				"chinese": "四連射擊 / 彈道學"
+			}
+		},
+		{
+			"englishName": "Bandolier-Stream Jwl 3",
+			"chineseName": "彈帶-流水珠【3】",
+			"englishDescription": "Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots. Increases water element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "增加從第四發開始的彈藥/塗層的會心率，以及第四和第六發攻擊的威力。增加水屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Tetrad Shot / Water Attack",
+				"chinese": "四連射擊 / 水屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Blast Jewel 1",
+			"chineseName": "爆破珠【1】",
+			"englishDescription": "Increases the rate of blast buildup. (Blast buildup has a maximum limit.)",
+			"chineseDescription": "增加爆破蓄積速度。（爆破蓄積有上限。）",
+			"skillName": {
+				"english": "Blast Attack",
+				"chinese": "爆破屬性強化"
+			}
+		},
+		{
+			"englishName": "Blast Jewel II 2",
+			"chineseName": "爆破珠II【2】",
+			"englishDescription": "Increases the rate of blast buildup. (Blast buildup has a maximum limit.)",
+			"chineseDescription": "增加爆破蓄積速度。（爆破蓄積有上限。）",
+			"skillName": {
+				"english": "Blast Attack",
+				"chinese": "爆破屬性強化"
+			}
+		},
+		{
+			"englishName": "Blast Jewel III 3",
+			"chineseName": "爆破珠III【3】",
+			"englishDescription": "Increases the rate of blast buildup. (Blast buildup has a maximum limit.)",
+			"chineseDescription": "增加爆破蓄積速度。（爆破蓄積有上限。）",
+			"skillName": {
+				"english": "Blast Attack",
+				"chinese": "爆破屬性強化"
+			}
+		},
+		{
+			"englishName": "Blastcoat Jewel 2",
+			"chineseName": "爆破塗層珠【2】",
+			"englishDescription": "Allows you to apply blast coatings.",
+			"chineseDescription": "使你能夠使用爆破塗層。",
+			"skillName": {
+				"english": "Blast Functionality",
+				"chinese": "爆破塗層機能"
+			}
+		},
+		{
+			"englishName": "Blaze Jewel 1",
+			"chineseName": "火焰珠【1】",
+			"englishDescription": "Increases fire element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "增加火屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Fire Attack",
+				"chinese": "火屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Blaze Jewel II 2",
+			"chineseName": "火焰珠II【2】",
+			"englishDescription": "Increases fire element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "增加火屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Fire Attack",
+				"chinese": "火屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Blaze Jewel III 3",
+			"chineseName": "火焰珠III【3】",
+			"englishDescription": "Increases fire element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "增加火屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Fire Attack",
+				"chinese": "火屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Blaze-Bandolier Jwl 3",
+			"chineseName": "火焰-彈帶珠【3】",
+			"englishDescription": "Increases fire element attack power. (Elemental attack power has a maximum limit.) Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots.",
+			"chineseDescription": "增加火屬性攻擊力。（屬性攻擊力有上限。）增加從第四發開始的彈藥/塗層的會心率，以及第四和第六發攻擊的威力。",
+			"skillName": {
+				"english": "Fire Attack / Tetrad Shot",
+				"chinese": "火屬性攻擊強化 / 四連射擊"
+			}
+		},
+		{
+			"englishName": "Blaze-Crit Elem Jwl 3",
+			"chineseName": "火焰-會心屬性珠【3】",
+			"englishDescription": "Increases fire element attack power. (Elemental attack power has a maximum limit.) Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits.",
+			"chineseDescription": "增加火屬性攻擊力。（屬性攻擊力有上限。）命中要害時增加屬性傷害（火、水、雷、冰、龍）。",
+			"skillName": {
+				"english": "Fire Attack / Critical Element",
+				"chinese": "火屬性攻擊強化 / 會心屬性"
+			}
+		},
+		{
+			"englishName": "Blaze-Enhancer Jwl 3",
+			"chineseName": "火焰-強化珠【3】",
+			"englishDescription": "Increases fire element attack power. (Elemental attack power has a maximum limit.) Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer.",
+			"chineseDescription": "增加火屬性攻擊力。（屬性攻擊力有上限。）延長太刀、雙劍、操蟲棍、斬擊斧和充能斧的強化狀態持續時間。",
+			"skillName": {
+				"english": "Fire Attack / Power Prolonger",
+				"chinese": "火屬性攻擊強化 / 強化持續"
+			}
+		},
+		{
+			"englishName": "Blaze-Focus Jewel 3",
+			"chineseName": "火焰-集中珠【3】",
+			"englishDescription": "Increases fire element attack power. (Elemental attack power has a maximum limit.) Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks.",
+			"chineseDescription": "增加火屬性攻擊力。（屬性攻擊力有上限。）提高有量表武器的填充速率和有蓄力攻擊武器的蓄力速度。",
+			"skillName": {
+				"english": "Fire Attack / Focus",
+				"chinese": "火屬性攻擊強化 / 集中"
+			}
+		},
+		{
+			"englishName": "Blaze-Guardian Jewel 3",
+			"chineseName": "火焰-防御珠【3】",
+			"englishDescription": "Increases fire element attack power. (Elemental attack power has a maximum limit.) Temporarily increases attack power after executing a perfectly-timed guard.",
+			"chineseDescription": "增加火屬性攻擊力。（屬性攻擊力有上限。）在完美時機防禦後暫時提高攻擊力。",
+			"skillName": {
+				"english": "Fire Attack / Offensive Guard",
+				"chinese": "火屬性攻擊強化 / 攻擊防禦"
+			}
+		},
+		{
+			"englishName": "Blaze-Handicraft Jwl 3",
+			"chineseName": "火焰-匠珠【3】",
+			"englishDescription": "Increases fire element attack power. (Elemental attack power has a maximum limit.) Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.",
+			"chineseDescription": "增加火屬性攻擊力。（屬性攻擊力有上限。）延長武器的銳利度量表。但不會使量表超過其最大值。",
+			"skillName": {
+				"english": "Fire Attack / Handicraft",
+				"chinese": "火屬性攻擊強化 / 匠"
+			}
+		},
+		{
+			"englishName": "Blaze-Ironwall Jwl 3",
+			"chineseName": "火焰-鐵壁珠【3】",
+			"englishDescription": "Increases fire element attack power. (Elemental attack power has a maximum limit.) Reduces knockbacks and stamina depletion when guarding.",
+			"chineseDescription": "增加火屬性攻擊力。（屬性攻擊力有上限。）減少防禦時的後座力和體力消耗。",
+			"skillName": {
+				"english": "Fire Attack / Guard",
+				"chinese": "火屬性攻擊強化 / 防禦"
+			}
+		},
+		{
+			"englishName": "Blaze-KO Jewel 3",
+			"chineseName": "火焰-擊昏珠【3】",
+			"englishDescription": "Increases fire element attack power. (Elemental attack power has a maximum limit.) Makes it easier to stun monsters.",
+			"chineseDescription": "增加火屬性攻擊力。（屬性攻擊力有上限。）更容易使怪物陷入眩暈狀態。",
+			"skillName": {
+				"english": "Fire Attack / Slugger",
+				"chinese": "火屬性攻擊強化 / 氣絕術"
+			}
+		},
+		{
+			"englishName": "Blaze-Opener Jewel 3",
+			"chineseName": "火焰-開場珠【3】",
+			"englishDescription": "Increases fire element attack power. (Elemental attack power has a maximum limit.) Increases the bowgun's reload speed and increases the power of bullets when fully loaded.",
+			"chineseDescription": "增加火屬性攻擊力。（屬性攻擊力有上限。）提高弩槍的裝填速度並在彈倉充滿時增加子彈威力。",
+			"skillName": {
+				"english": "Fire Attack / Opening Shot",
+				"chinese": "火屬性攻擊強化 / 開場強化"
+			}
+		},
+		{
+			"englishName": "Blaze-Precise Jewel 3",
+			"chineseName": "火焰-精確珠【3】",
+			"englishDescription": "Increases fire element attack power. (Elemental attack power has a maximum limit.) Extends the range in which ammo and arrows have maximum power.",
+			"chineseDescription": "增加火屬性攻擊力。（屬性攻擊力有上限。）延長彈藥和箭矢發揮最大威力的距離範圍。",
+			"skillName": {
+				"english": "Fire Attack / Ballistics",
+				"chinese": "火屬性攻擊強化 / 彈道學"
+			}
+		},
+		{
+			"englishName": "Blaze-Quickswitch Jwl 3",
+			"chineseName": "火焰-迅變珠【3】",
+			"englishDescription": "Increases fire element attack power. (Elemental attack power has a maximum limit.) Increases switch speed and power for switch axes and charge blades.",
+			"chineseDescription": "增加火屬性攻擊力。（屬性攻擊力有上限。）提高斬擊斧和充能斧的變形速度和威力。",
+			"skillName": {
+				"english": "Fire Attack / Rapid Morph",
+				"chinese": "火屬性攻擊強化 / 高速變形"
+			}
+		},
+		{
+			"englishName": "Blaze-Rzr Sharp Jwl 3",
+			"chineseName": "火焰-利刃珠【3】",
+			"englishDescription": "Increases fire element attack power. (Elemental attack power has a maximum limit.) Prevents your weapon from losing sharpness.",
+			"chineseDescription": "增加火屬性攻擊力。（屬性攻擊力有上限。）防止你的武器失去銳利度。",
+			"skillName": {
+				"english": "Fire Attack / Razor Sharp",
+				"chinese": "火屬性攻擊強化 / 利刃"
+			}
+		},
+		{
+			"englishName": "Blaze-Shield Jewel 3",
+			"chineseName": "火焰-護盾珠【3】",
+			"englishDescription": "Increases fire element attack power. (Elemental attack power has a maximum limit.) Allows you to guard against ordinarily unblockable attacks.",
+			"chineseDescription": "增加火屬性攻擊力。（屬性攻擊力有上限。）使你能夠防禦通常無法格擋的攻擊。",
+			"skillName": {
+				"english": "Fire Attack / Guard Up",
+				"chinese": "火屬性攻擊強化 / 防禦強化"
+			}
+		},
+		{
+			"englishName": "Blunt Jewel 1",
+			"chineseName": "鈍器珠【1】",
+			"englishDescription": "Increases attack power when your weapon sharpness is low.",
+			"chineseDescription": "當武器銳利度較低時增加攻擊力。",
+			"skillName": {
+				"english": "Bludgeoner",
+				"chinese": "鈍器能手"
+			}
+		},
+		{
+			"englishName": "Blunt Jewel II 2",
+			"chineseName": "鈍器珠II【2】",
+			"englishDescription": "Increases attack power when your weapon sharpness is low.",
+			"chineseDescription": "當武器銳利度較低時增加攻擊力。",
+			"skillName": {
+				"english": "Bludgeoner",
+				"chinese": "鈍器能手"
+			}
+		},
+		{
+			"englishName": "Blunt Jewel III 3",
+			"chineseName": "鈍器珠III【3】",
+			"englishDescription": "Increases attack power when your weapon sharpness is low.",
+			"chineseDescription": "當武器銳利度較低時增加攻擊力。",
+			"skillName": {
+				"english": "Bludgeoner",
+				"chinese": "鈍器能手"
+			}
+		},
+		{
+			"englishName": "Bolt Jewel 1",
+			"chineseName": "雷電珠【1】",
+			"englishDescription": "Increases thunder element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "增加雷屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Thunder Attack",
+				"chinese": "雷屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Bolt Jewel II 2",
+			"chineseName": "雷電珠II【2】",
+			"englishDescription": "Increases thunder element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "增加雷屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Thunder Attack",
+				"chinese": "雷屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Bolt Jewel III 3",
+			"chineseName": "雷電珠III【3】",
+			"englishDescription": "Increases thunder element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "增加雷屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Thunder Attack",
+				"chinese": "雷屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Bolt-Bandolier Jwl 3",
+			"chineseName": "雷電-彈帶珠【3】",
+			"englishDescription": "Increases thunder element attack power. (Elemental attack power has a maximum limit.) Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots.",
+			"chineseDescription": "增加雷屬性攻擊力。（屬性攻擊力有上限。）增加從第四發開始的彈藥/塗層的會心率，以及第四和第六發攻擊的威力。",
+			"skillName": {
+				"english": "Thunder Attack / Tetrad Shot",
+				"chinese": "雷屬性攻擊強化 / 四連射擊"
+			}
+		},
+		{
+			"englishName": "Bolt-Crit Elem Jwl 3",
+			"chineseName": "雷電-會心屬性珠【3】",
+			"englishDescription": "Increases thunder element attack power. (Elemental attack power has a maximum limit.) Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits.",
+			"chineseDescription": "增加雷屬性攻擊力。（屬性攻擊力有上限。）命中要害時增加屬性傷害（火、水、雷、冰、龍）。",
+			"skillName": {
+				"english": "Thunder Attack / Critical Element",
+				"chinese": "雷屬性攻擊強化 / 會心屬性"
+			}
+		},
+		{
+			"englishName": "Bolt-Enhancer Jwl 3",
+			"chineseName": "雷電-強化珠【3】",
+			"englishDescription": "Increases thunder element attack power. (Elemental attack power has a maximum limit.) Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer.",
+			"chineseDescription": "增加雷屬性攻擊力。（屬性攻擊力有上限。）延長太刀、雙劍、操蟲棍、斬擊斧和充能斧的強化狀態持續時間。",
+			"skillName": {
+				"english": "Thunder Attack / Power Prolonger",
+				"chinese": "雷屬性攻擊強化 / 強化持續"
+			}
+		},
+		{
+			"englishName": "Bolt-Focus Jewel 3",
+			"chineseName": "雷電-集中珠【3】",
+			"englishDescription": "Increases thunder element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "增加雷屬性攻擊力。（屬性攻擊力有上限。）提高有量表武器的填充速率和有蓄力攻擊武器的蓄力速度。",
+			"skillName": {
+				"english": "Thunder Attack / Focus",
+				"chinese": "雷屬性攻擊強化 / 集中"
+			}
+		},
+		{
+			"englishName": "Bolt-Guardian Jwl 3",
+			"chineseName": "雷電-防御珠【3】",
+			"englishDescription": "Increases thunder element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "增加雷屬性攻擊力。（屬性攻擊力有上限。）在完美時機防禦後暫時提高攻擊力。",
+			"skillName": {
+				"english": "Thunder Attack / Offensive Guard",
+				"chinese": "雷屬性攻擊強化 / 攻擊防禦"
+			}
+		},
+		{
+			"englishName": "Bolt-Handicraft Jwl 3",
+			"chineseName": "雷電-匠珠【3】",
+			"englishDescription": "Increases thunder element attack power. (Elemental attack power has a maximum limit.) Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks.",
+			"chineseDescription": "增加雷屬性攻擊力。（屬性攻擊力有上限。）延長武器的銳利度量表。但不會使量表超過其最大值。",
+			"skillName": {
+				"english": "Thunder Attack / Handicraft",
+				"chinese": "雷屬性攻擊強化 / 匠"
+			}
+		},
+		{
+			"englishName": "Bolt-Ironwall Jewel 3",
+			"chineseName": "雷電-鐵壁珠【3】",
+			"englishDescription": "Increases thunder element attack power. (Elemental attack power has a maximum limit.) Reduces knockbacks and stamina depletion when guarding.",
+			"chineseDescription": "增加雷屬性攻擊力。（屬性攻擊力有上限。）減少防禦時的後座力和體力消耗。",
+			"skillName": {
+				"english": "Thunder Attack / Guard",
+				"chinese": "雷屬性攻擊強化 / 防禦"
+			}
+		},
+		{
+			"englishName": "Bolt-KO Jewel 3",
+			"chineseName": "雷電-擊昏珠【3】",
+			"englishDescription": "Increases thunder element attack power. (Elemental attack power has a maximum limit.) Makes it easier to stun monsters.",
+			"chineseDescription": "增加雷屬性攻擊力。（屬性攻擊力有上限。）更容易使怪物陷入眩暈狀態。",
+			"skillName": {
+				"english": "Thunder Attack / Slugger",
+				"chinese": "雷屬性攻擊強化 / 氣絕術"
+			}
+		},
+		{
+			"englishName": "Bolt-Opener Jewel 3",
+			"chineseName": "雷電-開場珠【3】",
+			"englishDescription": "Increases thunder element attack power. (Elemental attack power has a maximum limit.) Increases the bowgun's reload speed and increases the power of bullets when fully loaded.",
+			"chineseDescription": "增加雷屬性攻擊力。（屬性攻擊力有上限。）提高弩槍的裝填速度並在彈倉充滿時增加子彈威力。",
+			"skillName": {
+				"english": "Thunder Attack / Opening Shot",
+				"chinese": "雷屬性攻擊強化 / 開場強化"
+			}
+		},
+		{
+			"englishName": "Bolt-Precise Jewel 3",
+			"chineseName": "雷電-精確珠【3】",
+			"englishDescription": "Increases thunder element attack power. (Elemental attack power has a maximum limit.) Extends the range in which ammo and arrows have maximum power.",
+			"chineseDescription": "增加雷屬性攻擊力。（屬性攻擊力有上限。）延長彈藥和箭矢發揮最大威力的距離範圍。",
+			"skillName": {
+				"english": "Thunder Attack / Ballistics",
+				"chinese": "雷屬性攻擊強化 / 彈道學"
+			}
+		},
+		{
+			"englishName": "Bolt-Quickswitch Jwl 3",
+			"chineseName": "雷電-迅變珠【3】",
+			"englishDescription": "Increases thunder element attack power. (Elemental attack power has a maximum limit.) Increases switch speed and power for switch axes and charge blades.",
+			"chineseDescription": "增加雷屬性攻擊力。（屬性攻擊力有上限。）提高斬擊斧和充能斧的變形速度和威力。",
+			"skillName": {
+				"english": "Thunder Attack / Rapid Morph",
+				"chinese": "雷屬性攻擊強化 / 高速變形"
+			}
+		},
+		{
+			"englishName": "Bolt-Rzr Sharp Jwl 3",
+			"chineseName": "雷電-利刃珠【3】",
+			"englishDescription": "Increases thunder element attack power. (Elemental attack power has a maximum limit.) Prevents your weapon from losing sharpness.",
+			"chineseDescription": "增加雷屬性攻擊力。（屬性攻擊力有上限。）防止你的武器失去銳利度。",
+			"skillName": {
+				"english": "Thunder Attack / Razor Sharp",
+				"chinese": "雷屬性攻擊強化 / 利刃"
+			}
+		},
+		{
+			"englishName": "Bolt-Shield Jewel 3",
+			"chineseName": "雷電-護盾珠【3】",
+			"englishDescription": "Increases thunder element attack power. (Elemental attack power has a maximum limit.) Allows you to guard against ordinarily unblockable attacks.",
+			"chineseDescription": "增加雷屬性攻擊力。（屬性攻擊力有上限。）使你能夠防禦通常無法格擋的攻擊。",
+			"skillName": {
+				"english": "Thunder Attack / Guard Up",
+				"chinese": "雷屬性攻擊強化 / 防禦強化"
+			}
+		},
+		{
+			"englishName": "Bomber Jewel 1",
+			"chineseName": "炸彈珠【1】",
+			"englishDescription": "Increases the damage of explosive items.",
+			"chineseDescription": "提高爆炸物品的傷害。",
+			"skillName": {
+				"english": "Bombardier",
+				"chinese": "炸彈客"
+			}
+		},
+		{
+			"englishName": "Botany Jewel 1",
+			"chineseName": "植物學珠【1】",
+			"englishDescription": "Increases the quantity of herbs and other consumable items you gather.",
+			"chineseDescription": "增加採集的藥草和其他消耗品的數量。",
+			"skillName": {
+				"english": "Botanist",
+				"chinese": "植物學家"
+			}
+		},
+		{
+			"englishName": "Brace Jewel 1",
+			"chineseName": "強力珠【1】",
+			"englishDescription": "Prevents knockbacks and other reactions to small damage.",
+			"chineseDescription": "防止小傷害造成的擊退和其他反應。",
+			"skillName": {
+				"english": "Flinch Free",
+				"chinese": "耐震"
+			}
+		},
+		{
+			"englishName": "Chain Jewel 3",
+			"chineseName": "連擊珠【3】",
+			"englishDescription": "Continuously landing hits gradually increases attack and elemental attack. (Amount increased depends on weapon.)",
+			"chineseDescription": "持續命中逐漸提高攻擊力和屬性攻擊力。（增加量取決於武器。）",
+			"skillName": {
+				"english": "Burst",
+				"chinese": "爆發"
+			}
+		},
+		{
+			"englishName": "Challenger Jewel 3",
+			"chineseName": "挑戰珠【3】",
+			"englishDescription": "Increases attack power and affinity when large monsters become enraged.",
+			"chineseDescription": "當大型怪物進入憤怒狀態時增加攻擊力和會心率。",
+			"skillName": {
+				"english": "Agitator",
+				"chinese": "挑戰者"
+			}
+		},
+		{
+			"englishName": "Charge Jewel 1",
+			"chineseName": "蓄力珠【1】",
+			"englishDescription": "Increases element power and status buildup for charged attacks.",
+			"chineseDescription": "提高蓄力攻擊的屬性威力和狀態蓄積。",
+			"skillName": {
+				"english": "Charge Master",
+				"chinese": "蓄力大師"
+			}
+		},
+		{
+			"englishName": "Charge Jewel II 2",
+			"chineseName": "蓄力珠II【2】",
+			"englishDescription": "Increases element power and status buildup for charged attacks.",
+			"chineseDescription": "提高蓄力攻擊的屬性威力和狀態蓄積。",
+			"skillName": {
+				"english": "Charge Master",
+				"chinese": "蓄力大師"
+			}
+		},
+		{
+			"englishName": "Charge Jewel III 3",
+			"chineseName": "蓄力珠III【3】",
+			"englishDescription": "Increases element power and status buildup for charged attacks.",
+			"chineseDescription": "提高蓄力攻擊的屬性威力和狀態蓄積。",
+			"skillName": {
+				"english": "Charge Master",
+				"chinese": "蓄力大師"
+			}
+		},
+		{
+			"englishName": "Charge Up Jewel 2",
+			"chineseName": "蓄能珠【2】",
+			"englishDescription": "Increases your power to induce stun when you hit a monster with a hammer's charged attack.",
+			"chineseDescription": "使用大錘的蓄力攻擊擊中怪物時增加造成眩暈的能力。",
+			"skillName": {
+				"english": "Charge Up",
+				"chinese": "蓄能"
+			}
+		},
+		{
+			"englishName": "Charge Up-Attack Jwl 3",
+			"chineseName": "蓄能-攻擊珠【3】",
+			"englishDescription": "Increases your power to induce stun when you hit a monster with a hammer's charged attack. Increases attack power.",
+			"chineseDescription": "使用大錘的蓄力攻擊擊中怪物時增加造成眩暈的能力。提高攻擊力。",
+			"skillName": {
+				"english": "Charge Up / Attack Boost",
+				"chinese": "蓄能 / 攻擊強化"
+			}
+		},
+		{
+			"englishName": "Charge Up-Draw Jwl 3",
+			"chineseName": "蓄能-拔刀珠【3】",
+			"englishDescription": "Increases your power to induce stun when you hit a monster with a hammer's charged attack. Increases affinity when performing draw attacks. (Not effective while riding.)",
+			"chineseDescription": "使用大錘的蓄力攻擊擊中怪物時增加造成眩暈的能力。進行拔刀攻擊時提高會心率。（騎乘時無效。）",
+			"skillName": {
+				"english": "Charge Up / Critical Draw",
+				"chinese": "蓄能 / 拔刀會心"
+			}
+		},
+		{
+			"englishName": "Charge Up-Expert Jwl 3",
+			"chineseName": "蓄能-專家珠【3】",
+			"englishDescription": "Increases your power to induce stun when you hit a monster with a hammer's charged attack. Increases affinity.",
+			"chineseDescription": "使用大錘的蓄力攻擊擊中怪物時增加造成眩暈的能力。提高會心率。",
+			"skillName": {
+				"english": "Charge Up / Critical Eye",
+				"chinese": "蓄能 / 看破"
+			}
+		},
+		{
+			"englishName": "Charge Up-Handicraft Jwl 3",
+			"chineseName": "蓄能-匠珠【3】",
+			"englishDescription": "Increases your power to induce stun when you hit a monster with a hammer's charged attack. Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.",
+			"chineseDescription": "使用大錘的蓄力攻擊擊中怪物時增加造成眩暈的能力。延長武器的銳利度量表。但不會使量表超過其最大值。",
+			"skillName": {
+				"english": "Charge Up / Handicraft",
+				"chinese": "蓄能 / 匠"
+			}
+		},
+		{
+			"englishName": "Charge Up-KO Jewel 3",
+			"chineseName": "蓄能-擊昏珠【3】",
+			"englishDescription": "Increases your power to induce stun when you hit a monster with a hammer's charged attack. Makes it easier to stun monsters.",
+			"chineseDescription": "使用大錘的蓄力攻擊擊中怪物時增加造成眩暈的能力。更容易使怪物陷入眩暈狀態。",
+			"skillName": {
+				"english": "Charge Up / Slugger",
+				"chinese": "蓄能 / 氣絕術"
+			}
+		},
+		{
+			"englishName": "Charge-Handicraft Jwl 3",
+			"chineseName": "蓄力-匠珠【3】",
+			"englishDescription": "Increases element power and status buildup for charged attacks. Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.",
+			"chineseDescription": "提高蓄力攻擊的屬性威力和狀態蓄積。延長武器的銳利度量表。但不會使量表超過其最大值。",
+			"skillName": {
+				"english": "Charge Master / Handicraft",
+				"chinese": "蓄力大師 / 匠"
+			}
+		},
+		{
+			"englishName": "Charge-KO Jewel 3",
+			"chineseName": "蓄力-擊昏珠【3】",
+			"englishDescription": "Increases element power and status buildup for charged attacks. Makes it easier to stun monsters.",
+			"chineseDescription": "提高蓄力攻擊的屬性威力和狀態蓄積。更容易使怪物陷入眩暈狀態。",
+			"skillName": {
+				"english": "Charge Master / Slugger",
+				"chinese": "蓄力大師 / 氣絕術"
+			}
+		},
+		{
+			"englishName": "Climber Jewel 1",
+			"chineseName": "攀岩珠【1】",
+			"englishDescription": "Decreases stamina depletion when climbing on vines.",
+			"chineseDescription": "在藤蔓上攀爬時減少體力消耗。",
+			"skillName": {
+				"english": "Cliffhanger",
+				"chinese": "懸崖攀登者"
+			}
+		},
+		{
+			"englishName": "Counter Jewel 2",
+			"chineseName": "反擊珠【2】",
+			"englishDescription": "Temporarily increases attack power after being knocked back.",
+			"chineseDescription": "被擊退後暫時提高攻擊力。",
+			"skillName": {
+				"english": "Counterstrike",
+				"chinese": "反擊"
+			}
+		},
+		{
+			"englishName": "Counterattack Jewel 3",
+			"chineseName": "反擊珠【3】",
+			"englishDescription": "Temporarily increases attack power after executing a perfectly-timed evade just as a monster attacks.",
+			"chineseDescription": "在怪物攻擊時完美時機迴避後暫時提高攻擊力。",
+			"skillName": {
+				"english": "Adrenaline Rush",
+				"chinese": "腎上腺素爆發"
+			}
+		},
+		{
+			"englishName": "Crit Elem Jwl III 3",
+			"chineseName": "會心屬性珠III【3】",
+			"englishDescription": "Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits.",
+			"chineseDescription": "命中要害時增加屬性傷害（火、水、雷、冰、龍）。",
+			"skillName": {
+				"english": "Critical Element",
+				"chinese": "會心屬性"
+			}
+		},
+		{
+			"englishName": "Crit Elem-Blaze Jwl 3",
+			"chineseName": "會心屬性-火焰珠【3】",
+			"englishDescription": "Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits. Increases fire element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "命中要害時增加屬性傷害（火、水、雷、冰、龍）。增加火屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Critical Element / Fire Attack",
+				"chinese": "會心屬性 / 火屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Crit Elem-Bolt Jwl 3",
+			"chineseName": "會心屬性-雷電珠【3】",
+			"englishDescription": "Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits. Increases thunder element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "命中要害時增加屬性傷害（火、水、雷、冰、龍）。增加雷屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Critical Element / Thunder Attack",
+				"chinese": "會心屬性 / 雷屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Crit Elem-Dragon Jwl 3",
+			"chineseName": "會心屬性-龍珠【3】",
+			"englishDescription": "Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits. Increases dragon element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "命中要害時增加屬性傷害（火、水、雷、冰、龍）。增加龍屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Critical Element / Dragon Attack",
+				"chinese": "會心屬性 / 龍屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Crit Elem-Frost Jwl 3",
+			"chineseName": "會心屬性-冰結珠【3】",
+			"englishDescription": "Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits. Increases ice element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "命中要害時增加屬性傷害（火、水、雷、冰、龍）。增加冰屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Critical Element / Ice Attack",
+				"chinese": "會心屬性 / 冰屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Crit Elem-Handicraft Jwl 3",
+			"chineseName": "會心屬性-匠珠【3】",
+			"englishDescription": "Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits. Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.",
+			"chineseDescription": "命中要害時增加屬性傷害（火、水、雷、冰、龍）。延長武器的銳利度量表。但不會使量表超過其最大值。",
+			"skillName": {
+				"english": "Critical Element / Handicraft",
+				"chinese": "會心屬性 / 匠"
+			}
+		},
+		{
+			"englishName": "Crit Elem-Ironwall Jwl 3",
+			"chineseName": "會心屬性-鐵壁珠【3】",
+			"englishDescription": "Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits. Reduces knockbacks and stamina depletion when guarding.",
+			"chineseDescription": "命中要害時增加屬性傷害（火、水、雷、冰、龍）。減少防禦時的後座力和體力消耗。",
+			"skillName": {
+				"english": "Critical Element / Guard",
+				"chinese": "會心屬性 / 防禦"
+			}
+		},
+		{
+			"englishName": "Crit Elem-KO Jewel 3",
+			"chineseName": "會心屬性-擊昏珠【3】",
+			"englishDescription": "Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits. Makes it easier to stun monsters.",
+			"chineseDescription": "命中要害時增加屬性傷害（火、水、雷、冰、龍）。更容易使怪物陷入眩暈狀態。",
+			"skillName": {
+				"english": "Critical Element / Slugger",
+				"chinese": "會心屬性 / 氣絕術"
+			}
+		},
+		{
+			"englishName": "Crit Elem-Stream Jwl 3",
+			"chineseName": "會心屬性-流水珠【3】",
+			"englishDescription": "Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits. Increases water element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "命中要害時增加屬性傷害（火、水、雷、冰、龍）。增加水屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Critical Element / Water Attack",
+				"chinese": "會心屬性 / 水屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Crit Element Jewel 1",
+			"chineseName": "會心屬性珠【1】",
+			"englishDescription": "Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits.",
+			"chineseDescription": "命中要害時增加屬性傷害（火、水、雷、冰、龍）。",
+			"skillName": {
+				"english": "Critical Element",
+				"chinese": "會心屬性"
+			}
+		},
+		{
+			"englishName": "Crit Element Jewel II 2",
+			"chineseName": "會心屬性珠II【2】",
+			"englishDescription": "Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits.",
+			"chineseDescription": "命中要害時增加屬性傷害（火、水、雷、冰、龍）。",
+			"skillName": {
+				"english": "Critical Element",
+				"chinese": "會心屬性"
+			}
+		},
+		{
+			"englishName": "Crit Element-Precise Jwl 3",
+			"chineseName": "會心屬性-精確珠【3】",
+			"englishDescription": "Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits. Extends the range in which ammo and arrows have maximum power.",
+			"chineseDescription": "命中要害時增加屬性傷害（火、水、雷、冰、龍）。延長彈藥和箭矢發揮最大威力的距離範圍。",
+			"skillName": {
+				"english": "Critical Element / Ballistics",
+				"chinese": "會心屬性 / 彈道學"
+			}
+		},
+		{
+			"englishName": "Crit Stat Jwl III 3",
+			"chineseName": "會心異常珠III【3】",
+			"englishDescription": "Increases abnormal status effects (paralysis, poison, sleep, blast) when landing critical hits.",
+			"chineseDescription": "命中要害時增加異常狀態效果（麻痺、毒、睡眠、爆破）。",
+			"skillName": {
+				"english": "Critical Status",
+				"chinese": "會心異常狀態"
+			}
+		},
+		{
+			"englishName": "Crit Stat-Handicraft Jwl 3",
+			"chineseName": "會心異常-匠珠【3】",
+			"englishDescription": "Increases abnormal status effects (paralysis, poison, sleep, blast) when landing critical hits. Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.",
+			"chineseDescription": "命中要害時增加異常狀態效果（麻痺、毒、睡眠、爆破）。延長武器的銳利度量表。但不會使量表超過其最大值。",
+			"skillName": {
+				"english": "Critical Status / Handicraft",
+				"chinese": "會心異常狀態 / 匠"
+			}
+		},
+		{
+			"englishName": "Crit Stat-Ironwall Jwl 3",
+			"chineseName": "會心異常-鐵壁珠【3】",
+			"englishDescription": "Increases abnormal status effects (paralysis, poison, sleep, blast) when landing critical hits. Reduces knockbacks and stamina depletion when guarding.",
+			"chineseDescription": "命中要害時增加異常狀態效果（麻痺、毒、睡眠、爆破）。減少防禦時的後座力和體力消耗。",
+			"skillName": {
+				"english": "Critical Status / Guard",
+				"chinese": "會心異常狀態 / 防禦"
+			}
+		},
+		{
+			"englishName": "Crit Stat-Precise Jwl 3",
+			"chineseName": "會心異常-精確珠【3】",
+			"englishDescription": "Increases abnormal status effects (paralysis, poison, sleep, blast) when landing critical hits. Extends the range in which ammo and arrows have maximum power.",
+			"chineseDescription": "命中要害時增加異常狀態效果（麻痺、毒、睡眠、爆破）。延長彈藥和箭矢發揮最大威力的距離範圍。",
+			"skillName": {
+				"english": "Critical Status / Ballistics",
+				"chinese": "會心異常狀態 / 彈道學"
+			}
+		},
+		{
+			"englishName": "Crit Status Jewel 1",
+			"chineseName": "會心異常珠【1】",
+			"englishDescription": "Increases abnormal status effects (paralysis, poison, sleep, blast) when landing critical hits.",
+			"chineseDescription": "命中要害時增加異常狀態效果（麻痺、毒、睡眠、爆破）。",
+			"skillName": {
+				"english": "Critical Status",
+				"chinese": "會心異常狀態"
+			}
+		},
+		{
+			"englishName": "Crit Status Jewel II 2",
+			"chineseName": "會心異常珠II【2】",
+			"englishDescription": "Increases abnormal status effects (paralysis, poison, sleep, blast) when landing critical hits.",
+			"chineseDescription": "命中要害時增加異常狀態效果（麻痺、毒、睡眠、爆破）。",
+			"skillName": {
+				"english": "Critical Status",
+				"chinese": "會心異常狀態"
+			}
+		},
+		{
+			"englishName": "Crit Status-KO Jwl 3",
+			"chineseName": "會心異常-擊昏珠【3】",
+			"englishDescription": "Increases abnormal status effects (paralysis, poison, sleep, blast) when landing critical hits. Makes it easier to stun monsters.",
+			"chineseDescription": "命中要害時增加異常狀態效果（麻痺、毒、睡眠、爆破）。更容易使怪物陷入眩暈狀態。",
+			"skillName": {
+				"english": "Critical Status / Slugger",
+				"chinese": "會心異常狀態 / 氣絕術"
+			}
+		},
+		{
+			"englishName": "Critical Jewel 1",
+			"chineseName": "暴擊珠【1】",
+			"englishDescription": "Increases the damage of critical hits.",
+			"chineseDescription": "增加暴擊的傷害。",
+			"skillName": {
+				"english": "Critical Boost",
+				"chinese": "超會心"
+			}
+		},
+		{
+			"englishName": "Critical Jewel II 2",
+			"chineseName": "暴擊珠II【2】",
+			"englishDescription": "Increases the damage of critical hits.",
+			"chineseDescription": "增加暴擊的傷害。",
+			"skillName": {
+				"english": "Critical Boost",
+				"chinese": "超會心"
+			}
+		},
+		{
+			"englishName": "Critical Jewel III 3",
+			"chineseName": "暴擊珠III【3】",
+			"englishDescription": "Increases the damage of critical hits.",
+			"chineseDescription": "增加暴擊的傷害。",
+			"skillName": {
+				"english": "Critical Boost",
+				"chinese": "超會心"
+			}
+		},
+		{
+			"englishName": "Def Lock Jewel 1",
+			"chineseName": "防禦鎖珠【1】",
+			"englishDescription": "Grants protection against defense down.",
+			"chineseDescription": "提供對防禦力下降的保護。",
+			"skillName": {
+				"english": "Iron Skin",
+				"chinese": "鐵壁皮膚"
+			}
+		},
+		{
+			"englishName": "Defense Jewel 1",
+			"chineseName": "防禦珠【1】",
+			"englishDescription": "Increases defense. Also improves resistances at higher levels.",
+			"chineseDescription": "提高防禦力。在更高等級時也提高抗性。",
+			"skillName": {
+				"english": "Defense Boost",
+				"chinese": "防禦強化"
+			}
+		},
+		{
+			"englishName": "Destroyer Jewel 2",
+			"chineseName": "破壞珠【2】",
+			"englishDescription": "Makes it easier to break large monster parts, and increases damage dealt when destroying a wound with a Focus Strike.",
+			"chineseDescription": "更容易破壞大型怪物的部位，並在使用集中攻擊破壞傷口時增加傷害。",
+			"skillName": {
+				"english": "Partbreaker",
+				"chinese": "破壞王"
+			}
+		},
+		{
+			"englishName": "Dive Jewel 1",
+			"chineseName": "跳躍珠【1】",
+			"englishDescription": "Allows you to do a dive-evade when facing towards large monsters and extends the dive-evade distance.",
+			"chineseDescription": "允許你在面對大型怪物時進行跳躍迴避，並延長跳躍迴避的距離。",
+			"skillName": {
+				"english": "Leap of Faith",
+				"chinese": "信念飛躍"
+			}
+		},
+		{
+			"englishName": "Dragon Jewel 1",
+			"chineseName": "龍珠【1】",
+			"englishDescription": "Increases dragon element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "增加龍屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Dragon Attack",
+				"chinese": "龍屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Dragon Jewel II 2",
+			"chineseName": "龍珠II【2】",
+			"englishDescription": "Increases dragon element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "增加龍屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Dragon Attack",
+				"chinese": "龍屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Dragon Jewel III 3",
+			"chineseName": "龍珠III【3】",
+			"englishDescription": "Increases dragon element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "增加龍屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Dragon Attack",
+				"chinese": "龍屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Dragon Res Jewel 1",
+			"chineseName": "龍耐性珠【1】",
+			"englishDescription": "Increases dragon resistance. Also improves defense at higher levels.",
+			"chineseDescription": "增加龍屬性抗性。在更高等級時也提高防禦力。",
+			"skillName": {
+				"english": "Dragon Resistance",
+				"chinese": "龍屬性抗性"
+			}
+		},
+		{
+			"englishName": "Dragon-Bandolier Jwl 3",
+			"chineseName": "龍-彈帶珠【3】",
+			"englishDescription": "Increases dragon element attack power. (Elemental attack power has a maximum limit.) Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots.",
+			"chineseDescription": "增加龍屬性攻擊力。（屬性攻擊力有上限。）增加從第四發開始的彈藥/塗層的會心率，以及第四和第六發攻擊的威力。",
+			"skillName": {
+				"english": "Dragon Attack / Tetrad Shot",
+				"chinese": "龍屬性攻擊強化 / 四連射擊"
+			}
+		},
+		{
+			"englishName": "Dragon-Crit Elem Jwl 3",
+			"chineseName": "龍-會心屬性珠【3】",
+			"englishDescription": "Increases dragon element attack power. (Elemental attack power has a maximum limit.) Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits.",
+			"chineseDescription": "增加龍屬性攻擊力。（屬性攻擊力有上限。）命中要害時增加屬性傷害（火、水、雷、冰、龍）。",
+			"skillName": {
+				"english": "Dragon Attack / Critical Element",
+				"chinese": "龍屬性攻擊強化 / 會心屬性"
+			}
+		},
+		{
+			"englishName": "Dragon-Enhancer Jwl 3",
+			"chineseName": "龍-強化珠【3】",
+			"englishDescription": "Increases dragon element attack power. (Elemental attack power has a maximum limit.) Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer.",
+			"chineseDescription": "增加龍屬性攻擊力。（屬性攻擊力有上限。）延長太刀、雙劍、操蟲棍、斬擊斧和充能斧的強化狀態持續時間。",
+			"skillName": {
+				"english": "Dragon Attack / Power Prolonger",
+				"chinese": "龍屬性攻擊強化 / 強化持續"
+			}
+		},
+		{
+			"englishName": "Dragon-Focus Jewel 3",
+			"chineseName": "龍-集中珠【3】",
+			"englishDescription": "Increases dragon element attack power. (Elemental attack power has a maximum limit.) Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks.",
+			"chineseDescription": "增加龍屬性攻擊力。（屬性攻擊力有上限。）提高有量表武器的填充速率和有蓄力攻擊武器的蓄力速度。",
+			"skillName": {
+				"english": "Dragon Attack / Focus",
+				"chinese": "龍屬性攻擊強化 / 集中"
+			}
+		},
+		{
+			"englishName": "Dragon-Guardian Jwl 3",
+			"chineseName": "龍-防御珠【3】",
+			"englishDescription": "Increases dragon element attack power. (Elemental attack power has a maximum limit.) Temporarily increases attack power after executing a perfectly-timed guard.",
+			"chineseDescription": "增加龍屬性攻擊力。（屬性攻擊力有上限。）在完美時機防禦後暫時提高攻擊力。",
+			"skillName": {
+				"english": "Dragon Attack / Offensive Guard",
+				"chinese": "龍屬性攻擊強化 / 攻擊防禦"
+			}
+		},
+		{
+			"englishName": "Dragon-Handicraft Jwl 3",
+			"chineseName": "龍-匠珠【3】",
+			"englishDescription": "Increases dragon element attack power. (Elemental attack power has a maximum limit.) Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.",
+			"chineseDescription": "增加龍屬性攻擊力。（屬性攻擊力有上限。）延長武器的銳利度量表。但不會使量表超過其最大值。",
+			"skillName": {
+				"english": "Dragon Attack / Handicraft",
+				"chinese": "龍屬性攻擊強化 / 匠"
+			}
+		},
+		{
+			"englishName": "Dragon-Ironwall Jwl 3",
+			"chineseName": "龍-鐵壁珠【3】",
+			"englishDescription": "Increases dragon element attack power. (Elemental attack power has a maximum limit.) Reduces knockbacks and stamina depletion when guarding.",
+			"chineseDescription": "增加龍屬性攻擊力。（屬性攻擊力有上限。）減少防禦時的後座力和體力消耗。",
+			"skillName": {
+				"english": "Dragon Attack / Guard",
+				"chinese": "龍屬性攻擊強化 / 防禦"
+			}
+		},
+		{
+			"englishName": "Dragon-KO Jewel 3",
+			"chineseName": "龍-擊昏珠【3】",
+			"englishDescription": "Increases dragon element attack power. (Elemental attack power has a maximum limit.) Makes it easier to stun monsters.",
+			"chineseDescription": "增加龍屬性攻擊力。（屬性攻擊力有上限。）更容易使怪物陷入眩暈狀態。",
+			"skillName": {
+				"english": "Dragon Attack / Slugger",
+				"chinese": "龍屬性攻擊強化 / 氣絕術"
+			}
+		},
+		{
+			"englishName": "Dragon-Opener Jewel 3",
+			"chineseName": "龍-開場珠【3】",
+			"englishDescription": "Increases dragon element attack power. (Elemental attack power has a maximum limit.) Increases the bowgun's reload speed and increases the power of bullets when fully loaded.",
+			"chineseDescription": "增加龍屬性攻擊力。（屬性攻擊力有上限。）提高弩槍的裝填速度並在彈倉充滿時增加子彈威力。",
+			"skillName": {
+				"english": "Dragon Attack / Opening Shot",
+				"chinese": "龍屬性攻擊強化 / 開場強化"
+			}
+		},
+		{
+			"englishName": "Dragon-Precise Jewel 3",
+			"chineseName": "龍-精確珠【3】",
+			"englishDescription": "Increases dragon element attack power. (Elemental attack power has a maximum limit.) Extends the range in which ammo and arrows have maximum power.",
+			"chineseDescription": "增加龍屬性攻擊力。（屬性攻擊力有上限。）延長彈藥和箭矢發揮最大威力的距離範圍。",
+			"skillName": {
+				"english": "Dragon Attack / Ballistics",
+				"chinese": "龍屬性攻擊強化 / 彈道學"
+			}
+		},
+		{
+			"englishName": "Dragon-Quickswitch Jwl 3",
+			"chineseName": "龍-迅變珠【3】",
+			"englishDescription": "Increases dragon element attack power. (Elemental attack power has a maximum limit.) Increases switch speed and power for switch axes and charge blades.",
+			"chineseDescription": "增加龍屬性攻擊力。（屬性攻擊力有上限。）提高斬擊斧和充能斧的變形速度和威力。",
+			"skillName": {
+				"english": "Dragon Attack / Rapid Morph",
+				"chinese": "龍屬性攻擊強化 / 高速變形"
+			}
+		},
+		{
+			"englishName": "Dragon-Rzr Sharp Jwl 3",
+			"chineseName": "龍-利刃珠【3】",
+			"englishDescription": "Increases dragon element attack power. (Elemental attack power has a maximum limit.) Prevents your weapon from losing sharpness.",
+			"chineseDescription": "增加龍屬性攻擊力。（屬性攻擊力有上限。）防止你的武器失去銳利度。",
+			"skillName": {
+				"english": "Dragon Attack / Razor Sharp",
+				"chinese": "龍屬性攻擊強化 / 利刃"
+			}
+		},
+		{
+			"englishName": "Dragon-Shield Jewel 3",
+			"chineseName": "龍-護盾珠【3】",
+			"englishDescription": "Increases dragon element attack power. (Elemental attack power has a maximum limit.) Allows you to guard against ordinarily unblockable attacks.",
+			"chineseDescription": "增加龍屬性攻擊力。（屬性攻擊力有上限。）使你能夠防禦通常無法格擋的攻擊。",
+			"skillName": {
+				"english": "Dragon Attack / Guard Up",
+				"chinese": "龍屬性攻擊強化 / 防禦強化"
+			}
+		},
+		{
+			"englishName": "Drain Jewel 1",
+			"chineseName": "體力珠【1】",
+			"englishDescription": "Increases certain attacks' ability to exhaust monsters.",
+			"chineseDescription": "增加某些攻擊使怪物疲勞的能力。",
+			"skillName": {
+				"english": "Stamina Thief",
+				"chinese": "奪取耐力"
+			}
+		},
+		{
+			"englishName": "Drain Jewel II 2",
+			"chineseName": "體力珠II【2】",
+			"englishDescription": "Increases certain attacks' ability to exhaust monsters.",
+			"chineseDescription": "增加某些攻擊使怪物疲勞的能力。",
+			"skillName": {
+				"english": "Stamina Thief",
+				"chinese": "奪取耐力"
+			}
+		},
+		{
+			"englishName": "Drain Jewel III 3",
+			"chineseName": "體力珠III【3】",
+			"englishDescription": "Increases certain attacks' ability to exhaust monsters.",
+			"chineseDescription": "增加某些攻擊使怪物疲勞的能力。",
+			"skillName": {
+				"english": "Stamina Thief",
+				"chinese": "奪取耐力"
+			}
+		},
+		{
+			"englishName": "Draincoat Jewel 2",
+			"chineseName": "疲勞塗層珠【2】",
+			"englishDescription": "Allows you to apply exhaust coatings.",
+			"chineseDescription": "使你能夠使用疲勞塗層。",
+			"skillName": {
+				"english": "Exhaust Functionality",
+				"chinese": "疲勞塗層機能"
+			}
+		},
+		{
+			"englishName": "Draw Jewel 1",
+			"chineseName": "拔刀珠【1】",
+			"englishDescription": "Increases affinity when performing draw attacks. (Not effective while riding.)",
+			"chineseDescription": "進行拔刀攻擊時提高會心率。（騎乘時無效。）",
+			"skillName": {
+				"english": "Critical Draw",
+				"chinese": "拔刀會心"
+			}
+		},
+		{
+			"englishName": "Draw Jewel II 2",
+			"chineseName": "拔刀珠II【2】",
+			"englishDescription": "Increases affinity when performing draw attacks. (Not effective while riding.)",
+			"chineseDescription": "進行拔刀攻擊時提高會心率。（騎乘時無效。）",
+			"skillName": {
+				"english": "Critical Draw",
+				"chinese": "拔刀會心"
+			}
+		},
+		{
+			"englishName": "Draw Jewel III 3",
+			"chineseName": "拔刀珠III【3】",
+			"englishDescription": "Increases affinity when performing draw attacks. (Not effective while riding.)",
+			"chineseDescription": "進行拔刀攻擊時提高會心率。（騎乘時無效。）",
+			"skillName": {
+				"english": "Critical Draw",
+				"chinese": "拔刀會心"
+			}
+		},
+		{
+			"englishName": "Earplugs Jewel 2",
+			"chineseName": "耳塞珠【2】",
+			"englishDescription": "Grants protection from large monsters' roars.",
+			"chineseDescription": "提供對大型怪物吼叫的保護。",
+			"skillName": {
+				"english": "Earplugs",
+				"chinese": "耳塞"
+			}
+		},
+		{
+			"englishName": "Enduring Jewel 1",
+			"chineseName": "持續珠【1】",
+			"englishDescription": "Extends the duration of some item effects.",
+			"chineseDescription": "延長某些物品效果的持續時間。",
+			"skillName": {
+				"english": "Item Prolonger",
+				"chinese": "道具延長"
+			}
+		},
+		{
+			"englishName": "Enhancer Jewel 1",
+			"chineseName": "強化珠【1】",
+			"englishDescription": "Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer.",
+			"chineseDescription": "延長太刀、雙劍、操蟲棍、斬擊斧和充能斧的強化狀態持續時間。",
+			"skillName": {
+				"english": "Power Prolonger",
+				"chinese": "強化持續"
+			}
+		},
+		{
+			"englishName": "Enhancer Jewel II 2",
+			"chineseName": "強化珠II【2】",
+			"englishDescription": "Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer.",
+			"chineseDescription": "延長太刀、雙劍、操蟲棍、斬擊斧和充能斧的強化狀態持續時間。",
+			"skillName": {
+				"english": "Power Prolonger",
+				"chinese": "強化持續"
+			}
+		},
+		{
+			"englishName": "Enhancer Jewel III 3",
+			"chineseName": "強化珠III【3】",
+			"englishDescription": "Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer.",
+			"chineseDescription": "延長太刀、雙劍、操蟲棍、斬擊斧和充能斧的強化狀態持續時間。",
+			"skillName": {
+				"english": "Power Prolonger",
+				"chinese": "強化持續"
+			}
+		},
+		{
+			"englishName": "Enhancer-Blaze Jewel 3",
+			"chineseName": "強化-火焰珠【3】",
+			"englishDescription": "Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer. Increases fire element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "延長太刀、雙劍、操蟲棍、斬擊斧和充能斧的強化狀態持續時間。增加火屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Power Prolonger / Fire Attack",
+				"chinese": "強化持續 / 火屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Enhancer-Bolt Jewel 3",
+			"chineseName": "強化-雷電珠【3】",
+			"englishDescription": "Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer. Increases thunder element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "延長太刀、雙劍、操蟲棍、斬擊斧和充能斧的強化狀態持續時間。增加雷屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Power Prolonger / Thunder Attack",
+				"chinese": "強化持續 / 雷屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Enhancer-Dragon Jwl 3",
+			"chineseName": "強化-龍珠【3】",
+			"englishDescription": "Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer. Increases dragon element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "延長太刀、雙劍、操蟲棍、斬擊斧和充能斧的強化狀態持續時間。增加龍屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Power Prolonger / Dragon Attack",
+				"chinese": "強化持續 / 龍屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Enhancer-Frost Jwl 3",
+			"chineseName": "強化-冰結珠【3】",
+			"englishDescription": "Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer. Increases ice element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "延長太刀、雙劍、操蟲棍、斬擊斧和充能斧的強化狀態持續時間。增加冰屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Power Prolonger / Ice Attack",
+				"chinese": "強化持續 / 冰屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Enhancer-Handicraft Jwl 3",
+			"chineseName": "強化-匠珠【3】",
+			"englishDescription": "Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer. Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.",
+			"chineseDescription": "延長太刀、雙劍、操蟲棍、斬擊斧和充能斧的強化狀態持續時間。延長武器的銳利度量表。但不會使量表超過其最大值。",
+			"skillName": {
+				"english": "Power Prolonger / Handicraft",
+				"chinese": "強化持續 / 匠"
+			}
+		},
+		{
+			"englishName": "Enhancer-Stream Jwl 3",
+			"chineseName": "強化-流水珠【3】",
+			"englishDescription": "Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer. Increases water element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "延長太刀、雙劍、操蟲棍、斬擊斧和充能斧的強化狀態持續時間。增加水屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Power Prolonger / Water Attack",
+				"chinese": "強化持續 / 水屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Escape Jewel 1",
+			"chineseName": "脫身珠【1】",
+			"englishDescription": "Grants protection against webbed status and frostblight.",
+			"chineseDescription": "提供對束縛狀態和冰霜異常的保護。",
+			"skillName": {
+				"english": "Bind Resistance",
+				"chinese": "束縛耐性"
+			}
+		},
+		{
+			"englishName": "Evasion Jewel 2",
+			"chineseName": "迴避珠【2】",
+			"englishDescription": "Extends the invulnerability period when evading.",
+			"chineseDescription": "延長迴避時的無敵時間。",
+			"skillName": {
+				"english": "Evade Window",
+				"chinese": "迴避性能"
+			}
+		},
+		{
+			"englishName": "Expert Jewel 1",
+			"chineseName": "專家珠【1】",
+			"englishDescription": "Increases affinity.",
+			"chineseDescription": "提高會心率。",
+			"skillName": {
+				"english": "Critical Eye",
+				"chinese": "看破"
+			}
+		},
+		{
+			"englishName": "Expert Jewel II 2",
+			"chineseName": "專家珠II【2】",
+			"englishDescription": "Increases affinity.",
+			"chineseDescription": "提高會心率。",
+			"skillName": {
+				"english": "Critical Eye",
+				"chinese": "看破"
+			}
+		},
+		{
+			"englishName": "Expert Jewel III 3",
+			"chineseName": "專家珠III【3】",
+			"englishDescription": "Increases affinity.",
+			"chineseDescription": "提高會心率。",
+			"skillName": {
+				"english": "Critical Eye",
+				"chinese": "看破"
+			}
+		},
+		{
+			"englishName": "Fire Res Jewel 1",
+			"chineseName": "火耐性珠【1】",
+			"englishDescription": "Increases fire resistance. Also improves defense at higher levels.",
+			"chineseDescription": "增加火屬性抗性。在更高等級時也提高防禦力。",
+			"skillName": {
+				"english": "Fire Resistance",
+				"chinese": "火屬性抗性"
+			}
+		},
+		{
+			"englishName": "Flash Jewel 1",
+			"chineseName": "閃光珠【1】",
+			"englishDescription": "Improves the effectiveness of flash attacks and items.",
+			"chineseDescription": "提高閃光攻擊和物品的效果。",
+			"skillName": {
+				"english": "Blindsider",
+				"chinese": "閃光強化"
+			}
+		},
+		{
+			"englishName": "Flawless Jewel 2",
+			"chineseName": "無暇珠【2】",
+			"englishDescription": "Increases attack when your health is full.",
+			"chineseDescription": "在生命值全滿時提高攻擊力。",
+			"skillName": {
+				"english": "Peak Performance",
+				"chinese": "巔峰性能"
+			}
+		},
+		{
+			"englishName": "Flayer Jewel 3",
+			"chineseName": "剝皮珠【3】",
+			"englishDescription": "Makes it easier to inflict wounds. Upon inflicting enough damage, also deals additional non-elemental damage.",
+			"chineseDescription": "更容易造成傷口。造成足夠傷害後，也會造成額外的無屬性傷害。",
+			"skillName": {
+				"english": "Flayer",
+				"chinese": "剝皮師"
+			}
+		},
+		{
+			"englishName": "Flight Jewel 2",
+			"chineseName": "飛行珠【2】",
+			"englishDescription": "Increases the damage caused by jumping attacks.",
+			"chineseDescription": "增加跳躍攻擊造成的傷害。",
+			"skillName": {
+				"english": "Airborne",
+				"chinese": "飛燕"
+			}
+		},
+		{
+			"englishName": "Flight-Attack Jwl 3",
+			"chineseName": "飛行-攻擊珠【3】",
+			"englishDescription": "Increases the damage caused by jumping attacks. Increases attack power.",
+			"chineseDescription": "增加跳躍攻擊造成的傷害。提高攻擊力。",
+			"skillName": {
+				"english": "Airborne / Attack Boost",
+				"chinese": "飛燕 / 攻擊強化"
+			}
+		},
+		{
+			"englishName": "Flight-Draw Jewel 3",
+			"chineseName": "飛行-拔刀珠【3】",
+			"englishDescription": "Increases the damage caused by jumping attacks. Increases affinity when performing draw attacks. (Not effective while riding.)",
+			"chineseDescription": "增加跳躍攻擊造成的傷害。進行拔刀攻擊時提高會心率。（騎乘時無效。）",
+			"skillName": {
+				"english": "Airborne / Critical Draw",
+				"chinese": "飛燕 / 拔刀會心"
+			}
+		},
+		{
+			"englishName": "Flight-Expert Jewel 3",
+			"chineseName": "飛行-專家珠【3】",
+			"englishDescription": "Increases the damage caused by jumping attacks. Increases affinity.",
+			"chineseDescription": "增加跳躍攻擊造成的傷害。提高會心率。",
+			"skillName": {
+				"english": "Airborne / Critical Eye",
+				"chinese": "飛燕 / 看破"
+			}
+		},
+		{
+			"englishName": "Flight-Handicraft Jwl 3",
+			"chineseName": "飛行-匠珠【3】",
+			"englishDescription": "Increases the damage caused by jumping attacks. Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.",
+			"chineseDescription": "增加跳躍攻擊造成的傷害。延長武器的銳利度量表。但不會使量表超過其最大值。",
+			"skillName": {
+				"english": "Airborne / Handicraft",
+				"chinese": "飛燕 / 匠"
+			}
+		},
+		{
+			"englishName": "Focus Jewel 1",
+			"chineseName": "集中珠【1】",
+			"englishDescription": "Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks.",
+			"chineseDescription": "提高有量表武器的填充速率和有蓄力攻擊武器的蓄力速度。",
+			"skillName": {
+				"english": "Focus",
+				"chinese": "集中"
+			}
+		},
+		{
+			"englishName": "Focus Jewel II 2",
+			"chineseName": "集中珠II【2】",
+			"englishDescription": "Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks.",
+			"chineseDescription": "提高有量表武器的填充速率和有蓄力攻擊武器的蓄力速度。",
+			"skillName": {
+				"english": "Focus",
+				"chinese": "集中"
+			}
+		},
+		{
+			"englishName": "Focus Jewel III 3",
+			"chineseName": "集中珠III【3】",
+			"englishDescription": "Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks.",
+			"chineseDescription": "提高有量表武器的填充速率和有蓄力攻擊武器的蓄力速度。",
+			"skillName": {
+				"english": "Focus",
+				"chinese": "集中"
+			}
+		},
+		{
+			"englishName": "Focus-Blaze Jewel 3",
+			"chineseName": "集中-火焰珠【3】",
+			"englishDescription": "Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks. Increases fire element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "提高有量表武器的填充速率和有蓄力攻擊武器的蓄力速度。增加火屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Focus / Fire Attack",
+				"chinese": "集中 / 火屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Focus-Bolt Jwl 3",
+			"chineseName": "集中-雷電珠【3】",
+			"englishDescription": "Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks. Increases thunder element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "提高有量表武器的填充速率和有蓄力攻擊武器的蓄力速度。增加雷屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Focus / Thunder Attack",
+				"chinese": "集中 / 雷屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Focus-Dragon Jewel 3",
+			"chineseName": "集中-龍珠【3】",
+			"englishDescription": "Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks. Increases dragon element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "提高有量表武器的填充速率和有蓄力攻擊武器的蓄力速度。增加龍屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Focus / Dragon Attack",
+				"chinese": "集中 / 龍屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Focus-Frost Jewel 3",
+			"chineseName": "集中-冰結珠【3】",
+			"englishDescription": "Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks. Increases ice element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "提高有量表武器的填充速率和有蓄力攻擊武器的蓄力速度。增加冰屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Focus / Ice Attack",
+				"chinese": "集中 / 冰屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Focus-Handicraft Jewel 3",
+			"chineseName": "集中-匠珠【3】",
+			"englishDescription": "Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks. Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.",
+			"chineseDescription": "提高有量表武器的填充速率和有蓄力攻擊武器的蓄力速度。延長武器的銳利度量表。但不會使量表超過其最大值。",
+			"skillName": {
+				"english": "Focus / Handicraft",
+				"chinese": "集中 / 匠"
+			}
+		},
+		{
+			"englishName": "Focus-KO Jewel 3",
+			"chineseName": "集中-擊昏珠【3】",
+			"englishDescription": "Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks. Makes it easier to stun monsters.",
+			"chineseDescription": "提高有量表武器的填充速率和有蓄力攻擊武器的蓄力速度。更容易使怪物陷入眩暈狀態。",
+			"skillName": {
+				"english": "Focus / Slugger",
+				"chinese": "集中 / 氣絕術"
+			}
+		},
+		{
+			"englishName": "Focus-Precise Jewel 3",
+			"chineseName": "集中-精確珠【3】",
+			"englishDescription": "Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks. Extends the range in which ammo and arrows have maximum power.",
+			"chineseDescription": "提高有量表武器的填充速率和有蓄力攻擊武器的蓄力速度。延長彈藥和箭矢發揮最大威力的距離範圍。",
+			"skillName": {
+				"english": "Focus / Ballistics",
+				"chinese": "集中 / 彈道學"
+			}
+		},
+		{
+			"englishName": "Focus-Stream Jewel 3",
+			"chineseName": "集中-流水珠【3】",
+			"englishDescription": "Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks. Increases water element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "提高有量表武器的填充速率和有蓄力攻擊武器的蓄力速度。增加水屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Focus / Water Attack",
+				"chinese": "集中 / 水屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Footing Jewel 1",
+			"chineseName": "制震珠【1】",
+			"englishDescription": "Grants protection against ground tremors.",
+			"chineseDescription": "提供對地面震動的保護。",
+			"skillName": {
+				"english": "Tremor Resistance",
+				"chinese": "耐震"
+			}
+		},
+		{
+			"englishName": "Foray Jewel 3",
+			"chineseName": "毒襲珠【3】",
+			"englishDescription": "Increases attack power and affinity against large monsters affected by poison or paralysis.",
+			"chineseDescription": "對受到毒或麻痺影響的大型怪物增加攻擊力和會心率。",
+			"skillName": {
+				"english": "Foray",
+				"chinese": "毒襲"
+			}
+		},
+		{
+			"englishName": "Forceshot Jewel 3",
+			"chineseName": "強擊珠【3】",
+			"englishDescription": "Increases the attack power of Normal Ammo, normal arrows, and Flying Swallow Shot.",
+			"chineseDescription": "增加通常彈、通常箭和飛燕射擊的攻擊力。",
+			"skillName": {
+				"english": "Normal Shots",
+				"chinese": "通常彈強化"
+			}
+		},
+		{
+			"englishName": "Friendship Jewel 1",
+			"chineseName": "友愛珠【1】",
+			"englishDescription": "Allows the effects of certain items to also affect nearby allies.",
+			"chineseDescription": "使某些物品的效果也能影響附近的隊友。",
+			"skillName": {
+				"english": "Wide-Range",
+				"chinese": "廣域化"
+			}
+		},
+		{
+			"englishName": "Frost Jewel 1",
+			"chineseName": "冰結珠【1】",
+			"englishDescription": "Increases ice element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "增加冰屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Ice Attack",
+				"chinese": "冰屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Frost Jewel II 2",
+			"chineseName": "冰結珠II【2】",
+			"englishDescription": "Increases ice element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "增加冰屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Ice Attack",
+				"chinese": "冰屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Frost Jewel III 3",
+			"chineseName": "冰結珠III【3】",
+			"englishDescription": "Increases ice element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "增加冰屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Ice Attack",
+				"chinese": "冰屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Frost-Bandolier Jwl 3",
+			"chineseName": "冰結-彈帶珠【3】",
+			"englishDescription": "Increases ice element attack power. (Elemental attack power has a maximum limit.) Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots.",
+			"chineseDescription": "增加冰屬性攻擊力。（屬性攻擊力有上限。）增加從第四發開始的彈藥/塗層的會心率，以及第四和第六發攻擊的威力。",
+			"skillName": {
+				"english": "Ice Attack / Tetrad Shot",
+				"chinese": "冰屬性攻擊強化 / 四連射擊"
+			}
+		},
+		{
+			"englishName": "Frost-Crit Elem Jwl 3",
+			"chineseName": "冰結-會心屬性珠【3】",
+			"englishDescription": "Increases ice element attack power. (Elemental attack power has a maximum limit.) Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits.",
+			"chineseDescription": "增加冰屬性攻擊力。（屬性攻擊力有上限。）命中要害時增加屬性傷害（火、水、雷、冰、龍）。",
+			"skillName": {
+				"english": "Ice Attack / Critical Element",
+				"chinese": "冰屬性攻擊強化 / 會心屬性"
+			}
+		},
+		{
+			"englishName": "Frost-Enhancer Jwl 3",
+			"chineseName": "冰結-強化珠【3】",
+			"englishDescription": "Increases ice element attack power. (Elemental attack power has a maximum limit.) Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer.",
+			"chineseDescription": "增加冰屬性攻擊力。（屬性攻擊力有上限。）延長太刀、雙劍、操蟲棍、斬擊斧和充能斧的強化狀態持續時間。",
+			"skillName": {
+				"english": "Ice Attack / Power Prolonger",
+				"chinese": "冰屬性攻擊強化 / 強化持續"
+			}
+		},
+		{
+			"englishName": "Frost-Focus Jewel 3",
+			"chineseName": "冰結-集中珠【3】",
+			"englishDescription": "Increases ice element attack power. (Elemental attack power has a maximum limit.) Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks.",
+			"chineseDescription": "增加冰屬性攻擊力。（屬性攻擊力有上限。）提高有量表武器的填充速率和有蓄力攻擊武器的蓄力速度。",
+			"skillName": {
+				"english": "Ice Attack / Focus",
+				"chinese": "冰屬性攻擊強化 / 集中"
+			}
+		},
+		{
+			"englishName": "Frost-Guardian Jwl 3",
+			"chineseName": "冰結-防御珠【3】",
+			"englishDescription": "Increases ice element attack power. (Elemental attack power has a maximum limit.) Temporarily increases attack power after executing a perfectly-timed guard.",
+			"chineseDescription": "增加冰屬性攻擊力。（屬性攻擊力有上限。）在完美時機防禦後暫時提高攻擊力。",
+			"skillName": {
+				"english": "Ice Attack / Offensive Guard",
+				"chinese": "冰屬性攻擊強化 / 攻擊防禦"
+			}
+		},
+		{
+			"englishName": "Frost-Handicraft Jwl 3",
+			"chineseName": "冰結-匠珠【3】",
+			"englishDescription": "Increases ice element attack power. (Elemental attack power has a maximum limit.) Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.",
+			"chineseDescription": "增加冰屬性攻擊力。（屬性攻擊力有上限。）延長武器的銳利度量表。但不會使量表超過其最大值。",
+			"skillName": {
+				"english": "Ice Attack / Handicraft",
+				"chinese": "冰屬性攻擊強化 / 匠"
+			}
+		},
+		{
+			"englishName": "Frost-Ironwall Jwl 3",
+			"chineseName": "冰結-鐵壁珠【3】",
+			"englishDescription": "Increases ice element attack power. (Elemental attack power has a maximum limit.) Reduces knockbacks and stamina depletion when guarding.",
+			"chineseDescription": "增加冰屬性攻擊力。（屬性攻擊力有上限。）減少防禦時的後座力和體力消耗。",
+			"skillName": {
+				"english": "Ice Attack / Guard",
+				"chinese": "冰屬性攻擊強化 / 防禦"
+			}
+		},
+		{
+			"englishName": "Frost-KO Jewel 3",
+			"chineseName": "冰結-擊昏珠【3】",
+			"englishDescription": "Increases ice element attack power. (Elemental attack power has a maximum limit.) Makes it easier to stun monsters.",
+			"chineseDescription": "增加冰屬性攻擊力。（屬性攻擊力有上限。）更容易使怪物陷入眩暈狀態。",
+			"skillName": {
+				"english": "Ice Attack / Slugger",
+				"chinese": "冰屬性攻擊強化 / 氣絕術"
+			}
+		},
+		{
+			"englishName": "Frost-Opener Jewel 3",
+			"chineseName": "冰結-開場珠【3】",
+			"englishDescription": "Increases ice element attack power. (Elemental attack power has a maximum limit.) Increases the bowgun's reload speed and increases the power of bullets when fully loaded.",
+			"chineseDescription": "增加冰屬性攻擊力。（屬性攻擊力有上限。）提高弩槍的裝填速度並在彈倉充滿時增加子彈威力。",
+			"skillName": {
+				"english": "Ice Attack / Opening Shot",
+				"chinese": "冰屬性攻擊強化 / 開場強化"
+			}
+		},
+		{
+			"englishName": "Frost-Precise Jewel 3",
+			"chineseName": "冰結-精確珠【3】",
+			"englishDescription": "Increases ice element attack power. (Elemental attack power has a maximum limit.) Extends the range in which ammo and arrows have maximum power.",
+			"chineseDescription": "增加冰屬性攻擊力。（屬性攻擊力有上限。）延長彈藥和箭矢發揮最大威力的距離範圍。",
+			"skillName": {
+				"english": "Ice Attack / Ballistics",
+				"chinese": "冰屬性攻擊強化 / 彈道學"
+			}
+		},
+		{
+			"englishName": "Frost-Quickswitch Jwl 3",
+			"chineseName": "冰結-迅變珠【3】",
+			"englishDescription": "Increases ice element attack power. (Elemental attack power has a maximum limit.) Increases switch speed and power for switch axes and charge blades.",
+			"chineseDescription": "增加冰屬性攻擊力。（屬性攻擊力有上限。）提高斬擊斧和充能斧的變形速度和威力。",
+			"skillName": {
+				"english": "Ice Attack / Rapid Morph",
+				"chinese": "冰屬性攻擊強化 / 高速變形"
+			}
+		},
+		{
+			"englishName": "Frost-Rzr Sharp Jwl 3",
+			"chineseName": "冰結-利刃珠【3】",
+			"englishDescription": "Increases ice element attack power. (Elemental attack power has a maximum limit.) Prevents your weapon from losing sharpness.",
+			"chineseDescription": "增加冰屬性攻擊力。（屬性攻擊力有上限。）防止你的武器失去銳利度。",
+			"skillName": {
+				"english": "Ice Attack / Razor Sharp",
+				"chinese": "冰屬性攻擊強化 / 利刃"
+			}
+		},
+		{
+			"englishName": "Frost-Shield Jewel 3",
+			"chineseName": "冰結-護盾珠【3】",
+			"englishDescription": "Increases ice element attack power. (Elemental attack power has a maximum limit.) Allows you to guard against ordinarily unblockable attacks.",
+			"chineseDescription": "增加冰屬性攻擊力。（屬性攻擊力有上限。）使你能夠防禦通常無法格擋的攻擊。",
+			"skillName": {
+				"english": "Ice Attack / Guard Up",
+				"chinese": "冰屬性攻擊強化 / 防禦強化"
+			}
+		},
+		{
+			"englishName": "Fungiform Jewel 2",
+			"chineseName": "茸食珠【2】",
+			"englishDescription": "Lets you digest mushrooms that would otherwise be inedible and gain their advantageous effects.",
+			"chineseDescription": "使你能夠消化原本無法食用的蘑菇並獲得其有利效果。",
+			"skillName": {
+				"english": "Mushroomancer",
+				"chinese": "茸食達人"
+			}
+		},
+		{
+			"englishName": "Furor Jewel 2",
+			"chineseName": "怨恨珠【2】",
+			"englishDescription": "Increases attack when you have recoverable damage (the red portion of your Health Gauge).",
+			"chineseDescription": "當你有可恢復傷害（生命值條中的紅色部分）時增加攻擊力。",
+			"skillName": {
+				"english": "Resentment",
+				"chinese": "怨恨"
+			}
+		},
+		{
+			"englishName": "Gambit Jewel 1",
+			"chineseName": "懲戒珠【1】",
+			"englishDescription": "Adds a stun effect to draw attacks and slightly increases attack power. (Not effective while riding.)",
+			"chineseDescription": "為拔刀攻擊添加眩暈效果，並略微提高攻擊力。（騎乘時無效。）",
+			"skillName": {
+				"english": "Punishing Draw",
+				"chinese": "拔刀術【技】"
+			}
+		},
+		{
+			"englishName": "Gambit Jewel II 2",
+			"chineseName": "懲戒珠II【2】",
+			"englishDescription": "Adds a stun effect to draw attacks and slightly increases attack power. (Not effective while riding.)",
+			"chineseDescription": "為拔刀攻擊添加眩暈效果，並略微提高攻擊力。（騎乘時無效。）",
+			"skillName": {
+				"english": "Punishing Draw",
+				"chinese": "拔刀術【技】"
+			}
+		},
+		{
+			"englishName": "Gambit Jewel III 3",
+			"chineseName": "懲戒珠III【3】",
+			"englishDescription": "Adds a stun effect to draw attacks and slightly increases attack power. (Not effective while riding.)",
+			"chineseDescription": "為拔刀攻擊添加眩暈效果，並略微提高攻擊力。（騎乘時無效。）",
+			"skillName": {
+				"english": "Punishing Draw",
+				"chinese": "拔刀術【技】"
+			}
+		},
+		{
+			"englishName": "Gambit-Handicraft Jwl 3",
+			"chineseName": "懲戒-匠珠【3】",
+			"englishDescription": "Adds a stun effect to draw attacks and slightly increases attack power. (Not effective while riding.) Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.",
+			"chineseDescription": "為拔刀攻擊添加眩暈效果，並略微提高攻擊力。（騎乘時無效。）延長武器的銳利度量表。但不會使量表超過其最大值。",
+			"skillName": {
+				"english": "Punishing Draw / Handicraft",
+				"chinese": "拔刀術【技】 / 匠"
+			}
+		},
+		{
+			"englishName": "Gambit-Ironwall Jwl 3",
+			"chineseName": "懲戒-鐵壁珠【3】",
+			"englishDescription": "Adds a stun effect to draw attacks and slightly increases attack power. (Not effective while riding.) Reduces knockbacks and stamina depletion when guarding.",
+			"chineseDescription": "為拔刀攻擊添加眩暈效果，並略微提高攻擊力。（騎乘時無效。）減少防禦時的後座力和體力消耗。",
+			"skillName": {
+				"english": "Punishing Draw / Guard",
+				"chinese": "拔刀術【技】 / 防禦"
+			}
+		},
+		{
+			"englishName": "Gambit-KO Jewel 3",
+			"chineseName": "懲戒-擊昏珠【3】",
+			"englishDescription": "Adds a stun effect to draw attacks and slightly increases attack power. (Not effective while riding.) Makes it easier to stun monsters.",
+			"chineseDescription": "為拔刀攻擊添加眩暈效果，並略微提高攻擊力。（騎乘時無效。）更容易使怪物陷入眩暈狀態。",
+			"skillName": {
+				"english": "Punishing Draw / Slugger",
+				"chinese": "拔刀術【技】 / 氣絕術"
+			}
+		},
+		{
+			"englishName": "Geology Jewel 1",
+			"chineseName": "地質學珠【1】",
+			"englishDescription": "Increases the number of items you gain at gathering points.",
+			"chineseDescription": "增加在採集點獲得的物品數量。",
+			"skillName": {
+				"english": "Geologist",
+				"chinese": "地質學家"
+			}
+		},
+		{
+			"englishName": "Gobbler Jewel 1",
+			"chineseName": "快食珠【1】",
+			"englishDescription": "Increases meat-eating and item-consumption speed.",
+			"chineseDescription": "提高食肉和物品消耗速度。",
+			"skillName": {
+				"english": "Speed Eating",
+				"chinese": "快速食事"
+			}
+		},
+		{
+			"englishName": "Grinder Jewel 1",
+			"chineseName": "砥石珠【1】",
+			"englishDescription": "Speeds up weapon sharpening when using a whetstone.",
+			"chineseDescription": "使用砥石時加快武器磨利速度。",
+			"skillName": {
+				"english": "Speed Sharpening",
+				"chinese": "砥石使用高速化"
+			}
+		},
+		{
+			"englishName": "Grinder Jewel II 2",
+			"chineseName": "砥石珠II【2】",
+			"englishDescription": "Speeds up weapon sharpening when using a whetstone.",
+			"chineseDescription": "使用砥石時加快武器磨利速度。",
+			"skillName": {
+				"english": "Speed Sharpening",
+				"chinese": "砥石使用高速化"
+			}
+		},
+		{
+			"englishName": "Grinder-Attack Jewel 3",
+			"chineseName": "砥石-攻擊珠【3】",
+			"englishDescription": "Speeds up weapon sharpening when using a whetstone. Increases attack power.",
+			"chineseDescription": "使用砥石時加快武器磨利速度。提高攻擊力。",
+			"skillName": {
+				"english": "Speed Sharpening / Attack Boost",
+				"chinese": "砥石使用高速化 / 攻擊強化"
+			}
+		},
+		{
+			"englishName": "Grinder-Draw Jewel 3",
+			"chineseName": "砥石-拔刀珠【3】",
+			"englishDescription": "Speeds up weapon sharpening when using a whetstone. Increases affinity when performing draw attacks. (Not effective while riding.)",
+			"chineseDescription": "使用砥石時加快武器磨利速度。進行拔刀攻擊時提高會心率。（騎乘時無效。）",
+			"skillName": {
+				"english": "Speed Sharpening / Critical Draw",
+				"chinese": "砥石使用高速化 / 拔刀會心"
+			}
+		},
+		{
+			"englishName": "Grinder-Expert Jewel 3",
+			"chineseName": "砥石-專家珠【3】",
+			"englishDescription": "Speeds up weapon sharpening when using a whetstone. Increases affinity.",
+			"chineseDescription": "使用砥石時加快武器磨利速度。提高會心率。",
+			"skillName": {
+				"english": "Speed Sharpening / Critical Eye",
+				"chinese": "砥石使用高速化 / 看破"
+			}
+		},
+		{
+			"englishName": "Grinder-Handicraft Jwl 3",
+			"chineseName": "砥石-匠珠【3】",
+			"englishDescription": "Speeds up weapon sharpening when using a whetstone. Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.",
+			"chineseDescription": "使用砥石時加快武器磨利速度。延長武器的銳利度量表。但不會使量表超過其最大值。",
+			"skillName": {
+				"english": "Speed Sharpening / Handicraft",
+				"chinese": "砥石使用高速化 / 匠"
+			}
+		},
+		{
+			"englishName": "Grinder-Ironwall Jewel 3",
+			"chineseName": "砥石-鐵壁珠【3】",
+			"englishDescription": "Speeds up weapon sharpening when using a whetstone. Reduces knockbacks and stamina depletion when guarding.",
+			"chineseDescription": "使用砥石時加快武器磨利速度。減少防禦時的後座力和體力消耗。",
+			"skillName": {
+				"english": "Speed Sharpening / Guard",
+				"chinese": "砥石使用高速化 / 防禦"
+			}
+		},
+		{
+			"englishName": "Grinder-KO Jewel 3",
+			"chineseName": "砥石-擊昏珠【3】",
+			"englishDescription": "Speeds up weapon sharpening when using a whetstone. Makes it easier to stun monsters.",
+			"chineseDescription": "使用砥石時加快武器磨利速度。更容易使怪物陷入眩暈狀態。",
+			"skillName": {
+				"english": "Speed Sharpening / Slugger",
+				"chinese": "砥石使用高速化 / 氣絕術"
+			}
+		},
+		{
+			"englishName": "Growth Jewel 1",
+			"chineseName": "成長珠【1】",
+			"englishDescription": "Attack and defense increase as time passes while on a quest. (The maximum is reached after 30 minutes.)",
+			"chineseDescription": "在任務中隨著時間推移增加攻擊力和防禦力。（30分鐘後達到最大值。）",
+			"skillName": {
+				"english": "Self-Improvement",
+				"chinese": "自我強化"
+			}
+		},
+		{
+			"englishName": "Guardian Jewel 1",
+			"chineseName": "守護珠【1】",
+			"englishDescription": "Temporarily increases attack power after executing a perfectly-timed guard.",
+			"chineseDescription": "在完美時機防禦後暫時提高攻擊力。",
+			"skillName": {
+				"english": "Offensive Guard",
+				"chinese": "攻擊防禦"
+			}
+		},
+		{
+			"englishName": "Guardian Jewel II 2",
+			"chineseName": "守護珠II【2】",
+			"englishDescription": "Temporarily increases attack power after executing a perfectly-timed guard.",
+			"chineseDescription": "在完美時機防禦後暫時提高攻擊力。",
+			"skillName": {
+				"english": "Offensive Guard",
+				"chinese": "攻擊防禦"
+			}
+		},
+		{
+			"englishName": "Guardian Jewel III 3",
+			"chineseName": "守護珠III【3】",
+			"englishDescription": "Temporarily increases attack power after executing a perfectly-timed guard.",
+			"chineseDescription": "在完美時機防禦後暫時提高攻擊力。",
+			"skillName": {
+				"english": "Offensive Guard",
+				"chinese": "攻擊防禦"
+			}
+		},
+		{
+			"englishName": "Guardian-Blaze Jwl 3",
+			"chineseName": "守護-火焰珠【3】",
+			"englishDescription": "Temporarily increases attack power after executing a perfectly-timed guard. Increases fire element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "在完美時機防禦後暫時提高攻擊力。增加火屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Offensive Guard / Fire Attack",
+				"chinese": "攻擊防禦 / 火屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Guardian-Bolt Jwl 3",
+			"chineseName": "守護-雷電珠【3】",
+			"englishDescription": "Temporarily increases attack power after executing a perfectly-timed guard. Increases thunder element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "在完美時機防禦後暫時提高攻擊力。增加雷屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Offensive Guard / Thunder Attack",
+				"chinese": "攻擊防禦 / 雷屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Guardian-Dragon Jwl 3",
+			"chineseName": "守護-龍珠【3】",
+			"englishDescription": "Temporarily increases attack power after executing a perfectly-timed guard. Increases dragon element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "在完美時機防禦後暫時提高攻擊力。增加龍屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Offensive Guard / Dragon Attack",
+				"chinese": "攻擊防禦 / 龍屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Guardian-Frost Jwl 3",
+			"chineseName": "守護-冰結珠【3】",
+			"englishDescription": "Temporarily increases attack power after executing a perfectly-timed guard. Increases ice element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "在完美時機防禦後暫時提高攻擊力。增加冰屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Offensive Guard / Ice Attack",
+				"chinese": "攻擊防禦 / 冰屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Guardian-Handicraft Jwl 3",
+			"chineseName": "守護-匠珠【3】",
+			"englishDescription": "Temporarily increases attack power after executing a perfectly-timed guard. Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.",
+			"chineseDescription": "在完美時機防禦後暫時提高攻擊力。延長武器的銳利度量表。但不會使量表超過其最大值。",
+			"skillName": {
+				"english": "Offensive Guard / Handicraft",
+				"chinese": "攻擊防禦 / 匠"
+			}
+		},
+		{
+			"englishName": "Guardian-Ironwall Jwl 3",
+			"chineseName": "守護-鐵壁珠【3】",
+			"englishDescription": "Temporarily increases attack power after executing a perfectly-timed guard. Reduces knockbacks and stamina depletion when guarding.",
+			"chineseDescription": "在完美時機防禦後暫時提高攻擊力。減少防禦時的後座力和體力消耗。",
+			"skillName": {
+				"english": "Offensive Guard / Guard",
+				"chinese": "攻擊防禦 / 防禦"
+			}
+		},
+		{
+			"englishName": "Guardian-Stream Jwl 3",
+			"chineseName": "守護-流水珠【3】",
+			"englishDescription": "Temporarily increases attack power after executing a perfectly-timed guard. Increases water element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "在完美時機防禦後暫時提高攻擊力。增加水屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Offensive Guard / Water Attack",
+				"chinese": "攻擊防禦 / 水屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Handicraft Jewel 1",
+			"chineseName": "匠珠【1】",
+			"englishDescription": "Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.",
+			"chineseDescription": "延長武器的銳利度量表。但不會使量表超過其最大值。",
+			"skillName": {
+				"english": "Handicraft",
+				"chinese": "匠"
+			}
+		},
+		{
+			"englishName": "Handicraft Jewel II 2",
+			"chineseName": "匠珠II【2】",
+			"englishDescription": "Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.",
+			"chineseDescription": "延長武器的銳利度量表。但不會使量表超過其最大值。",
+			"skillName": {
+				"english": "Handicraft",
+				"chinese": "匠"
+			}
+		},
+		{
+			"englishName": "Handicraft Jwl III 3",
+			"chineseName": "匠珠III【3】",
+			"englishDescription": "Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.",
+			"chineseDescription": "延長武器的銳利度量表。但不會使量表超過其最大值。",
+			"skillName": {
+				"english": "Handicraft",
+				"chinese": "匠"
+			}
+		},
+		{
+			"englishName": "Hungerless Jewel 1",
+			"chineseName": "無飢珠【1】",
+			"englishDescription": "Reduces maximum stamina depletion over time.",
+			"chineseDescription": "隨時間推移減少最大體力的消耗。",
+			"skillName": {
+				"english": "Hunger Resistance",
+				"chinese": "飢餓耐性"
+			}
+		},
+		{
+			"englishName": "Ice Res Jewel 1",
+			"chineseName": "冰耐性珠【1】",
+			"englishDescription": "Increases ice resistance. Also improves defense at higher levels.",
+			"chineseDescription": "增加冰屬性抗性。在更高等級時也提高防禦力。",
+			"skillName": {
+				"english": "Ice Resistance",
+				"chinese": "冰屬性抗性"
+			}
+		},
+		{
+			"englishName": "Intimidator Jewel 1",
+			"chineseName": "威嚇珠【1】",
+			"englishDescription": "Reduces the chance small monsters will attack after spotting you. (Has no effect on certain monsters.)",
+			"chineseDescription": "減少小型怪物在發現你後攻擊的機會。（對某些怪物無效。）",
+			"skillName": {
+				"english": "Intimidator",
+				"chinese": "威嚇"
+			}
+		},
+		{
+			"englishName": "Ironwall Jewel 1",
+			"chineseName": "鐵壁珠【1】",
+			"englishDescription": "Reduces knockbacks and stamina depletion when guarding.",
+			"chineseDescription": "減少防禦時的後座力和體力消耗。",
+			"skillName": {
+				"english": "Guard",
+				"chinese": "防禦"
+			}
+		},
+		{
+			"englishName": "Ironwall Jewel II 2",
+			"chineseName": "鐵壁珠II【2】",
+			"englishDescription": "Reduces knockbacks and stamina depletion when guarding.",
+			"chineseDescription": "減少防禦時的後座力和體力消耗。",
+			"skillName": {
+				"english": "Guard",
+				"chinese": "防禦"
+			}
+		},
+		{
+			"englishName": "Ironwall Jewel III 3",
+			"chineseName": "鐵壁珠III【3】",
+			"englishDescription": "Reduces knockbacks and stamina depletion when guarding.",
+			"chineseDescription": "減少防禦時的後座力和體力消耗。",
+			"skillName": {
+				"english": "Guard",
+				"chinese": "防禦"
+			}
+		},
+		{
+			"englishName": "Jumping Jewel 2",
+			"chineseName": "跳躍珠【2】",
+			"englishDescription": "Increases evade distance.",
+			"chineseDescription": "增加迴避距離。",
+			"skillName": {
+				"english": "Evade Extender",
+				"chinese": "迴避距離"
+			}
+		},
+		{
+			"englishName": "KO Jewel 1",
+			"chineseName": "擊昏珠【1】",
+			"englishDescription": "Makes it easier to stun monsters.",
+			"chineseDescription": "更容易使怪物陷入眩暈狀態。",
+			"skillName": {
+				"english": "Slugger",
+				"chinese": "氣絕術"
+			}
+		},
+		{
+			"englishName": "KO Jewel II 2",
+			"chineseName": "擊昏珠II【2】",
+			"englishDescription": "Makes it easier to stun monsters.",
+			"chineseDescription": "更容易使怪物陷入眩暈狀態。",
+			"skillName": {
+				"english": "Slugger",
+				"chinese": "氣絕術"
+			}
+		},
+		{
+			"englishName": "KO Jewel III 3",
+			"chineseName": "擊昏珠III【3】",
+			"englishDescription": "Makes it easier to stun monsters.",
+			"chineseDescription": "更容易使怪物陷入眩暈狀態。",
+			"skillName": {
+				"english": "Slugger",
+				"chinese": "氣絕術"
+			}
+		},
+		{
+			"englishName": "Leap Jewel 1",
+			"chineseName": "飛躍珠【1】",
+			"englishDescription": "Prevents attacks from knocking you back during a jump.",
+			"chineseDescription": "防止在跳躍過程中被攻擊擊退。",
+			"skillName": {
+				"english": "Jump Master",
+				"chinese": "跳躍達人"
+			}
+		},
+		{
+			"englishName": "Magazine Jewel 1",
+			"chineseName": "彈倉珠【1】",
+			"englishDescription": "Improves reloading, and increases the gunlance's shell capacity and charge blade's phial capacity.",
+			"chineseDescription": "改善裝填，並增加銃槍的砲彈容量和充能斧的瓶子容量。",
+			"skillName": {
+				"english": "Load Shells",
+				"chinese": "砲彈裝填"
+			}
+		},
+		{
+			"englishName": "Magazine Jewel II 2",
+			"chineseName": "彈倉珠II【2】",
+			"englishDescription": "Improves reloading, and increases the gunlance's shell capacity and charge blade's phial capacity.",
+			"chineseDescription": "改善裝填，並增加銃槍的砲彈容量和充能斧的瓶子容量。",
+			"skillName": {
+				"english": "Load Shells",
+				"chinese": "砲彈裝填"
+			}
+		},
+		{
+			"englishName": "Magazine-Attack Jwl 3",
+			"chineseName": "彈倉-攻擊珠【3】",
+			"englishDescription": "Improves reloading, and increases the gunlance's shell capacity and charge blade's phial capacity. Increases attack power.",
+			"chineseDescription": "改善裝填，並增加銃槍的砲彈容量和充能斧的瓶子容量。提高攻擊力。",
+			"skillName": {
+				"english": "Load Shells / Attack Boost",
+				"chinese": "砲彈裝填 / 攻擊強化"
+			}
+		},
+		{
+			"englishName": "Magazine-Draw Jwl 3",
+			"chineseName": "彈倉-拔刀珠【3】",
+			"englishDescription": "Improves reloading, and increases the gunlance's shell capacity and charge blade's phial capacity. Increases affinity when performing draw attacks. (Not effective while riding.)",
+			"chineseDescription": "改善裝填，並增加銃槍的砲彈容量和充能斧的瓶子容量。進行拔刀攻擊時提高會心率。（騎乘時無效。）",
+			"skillName": {
+				"english": "Load Shells / Critical Draw",
+				"chinese": "砲彈裝填 / 拔刀會心"
+			}
+		},
+		{
+			"englishName": "Magazine-Expert Jwl 3",
+			"chineseName": "彈倉-專家珠【3】",
+			"englishDescription": "Improves reloading, and increases the gunlance's shell capacity and charge blade's phial capacity. Increases affinity.",
+			"chineseDescription": "改善裝填，並增加銃槍的砲彈容量和充能斧的瓶子容量。提高會心率。",
+			"skillName": {
+				"english": "Load Shells / Critical Eye",
+				"chinese": "砲彈裝填 / 看破"
+			}
+		},
+		{
+			"englishName": "Magazine-Handicraft Jwl 3",
+			"chineseName": "彈倉-匠珠【3】",
+			"englishDescription": "Improves reloading, and increases the gunlance's shell capacity and charge blade's phial capacity. Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.",
+			"chineseDescription": "改善裝填，並增加銃槍的砲彈容量和充能斧的瓶子容量。延長武器的銳利度量表。但不會使量表超過其最大值。",
+			"skillName": {
+				"english": "Load Shells / Handicraft",
+				"chinese": "砲彈裝填 / 匠"
+			}
+		},
+		{
+			"englishName": "Magazine-Ironwall Jwl 3",
+			"chineseName": "彈倉-鐵壁珠【3】",
+			"englishDescription": "Improves reloading, and increases the gunlance's shell capacity and charge blade's phial capacity. Reduces knockbacks and stamina depletion when guarding.",
+			"chineseDescription": "改善裝填，並增加銃槍的砲彈容量和充能斧的瓶子容量。減少防禦時的後座力和體力消耗。",
+			"skillName": {
+				"english": "Load Shells / Guard",
+				"chinese": "砲彈裝填 / 防禦"
+			}
+		},
+		{
+			"englishName": "Maintenance Jewel 2",
+			"chineseName": "維護珠【2】",
+			"englishDescription": "Reduces the recharge time for specialized tools.",
+			"chineseDescription": "減少特殊工具的冷卻時間。",
+			"skillName": {
+				"english": "Tool Specialist",
+				"chinese": "道具延長術"
+			}
+		},
+		{
+			"englishName": "Mastery Jewel 3",
+			"chineseName": "大師珠【3】",
+			"englishDescription": "Prevents your weapon from losing sharpness during critical hits.",
+			"chineseDescription": "在命中要害時防止武器失去銳利度。",
+			"skillName": {
+				"english": "Master's Touch",
+				"chinese": "達人技巧"
+			}
+		},
+		{
+			"englishName": "Medicine Jewel 1",
+			"chineseName": "醫療珠【1】",
+			"englishDescription": "Increases the amount recovered when restoring health.",
+			"chineseDescription": "增加恢復生命值時的恢復量。",
+			"skillName": {
+				"english": "Recovery Up",
+				"chinese": "體力回復量UP"
+			}
+		},
+		{
+			"englishName": "Mighty Jewel 2",
+			"chineseName": "強力珠【2】",
+			"englishDescription": "Increases affinity if stamina is kept full for a period of time.",
+			"chineseDescription": "如果體力保持全滿一段時間後提高會心率。",
+			"skillName": {
+				"english": "Maximum Might",
+				"chinese": "精神抖擻"
+			}
+		},
+		{
+			"englishName": "Mind's Eye Jewel 1",
+			"chineseName": "心眼珠【1】",
+			"englishDescription": "Your attacks are deflected less and deal more damage to hard targets.",
+			"chineseDescription": "你的攻擊更少被彈開，並對堅硬目標造成更多傷害。",
+			"skillName": {
+				"english": "Mind's Eye",
+				"chinese": "心眼"
+			}
+		},
+		{
+			"englishName": "Mind's Eye Jewel II 2",
+			"chineseName": "心眼珠II【2】",
+			"englishDescription": "Your attacks are deflected less and deal more damage to hard targets.",
+			"chineseDescription": "你的攻擊更少被彈開，並對堅硬目標造成更多傷害。",
+			"skillName": {
+				"english": "Mind's Eye",
+				"chinese": "心眼"
+			}
+		},
+		{
+			"englishName": "Mind's Eye Jwl III 3",
+			"chineseName": "心眼珠III【3】",
+			"englishDescription": "Your attacks are deflected less and deal more damage to hard targets.",
+			"chineseDescription": "你的攻擊更少被彈開，並對堅硬目標造成更多傷害。",
+			"skillName": {
+				"english": "Mind's Eye",
+				"chinese": "心眼"
+			}
+		},
+		{
+			"englishName": "Mirewalker Jewel 1",
+			"chineseName": "泥濘珠【1】",
+			"englishDescription": "Grants resistance against impairments to mobility while in water, oilsilt, or streams.",
+			"chineseDescription": "在水中、油泥或水流中提供對行動障礙的抵抗力。",
+			"skillName": {
+				"english": "Aquatic-Oilsilt Mobility",
+				"chinese": "水場/泥沼移動"
+			}
+		},
+		{
+			"englishName": "Opener Jewel 1",
+			"chineseName": "開場珠【1】",
+			"englishDescription": "Increases the bowgun's reload speed and increases the power of bullets when fully loaded.",
+			"chineseDescription": "提高弩槍的裝填速度並在彈倉充滿時增加子彈威力。",
+			"skillName": {
+				"english": "Opening Shot",
+				"chinese": "開場強化"
+			}
+		},
+		{
+			"englishName": "Opener Jewel II 2",
+			"chineseName": "開場珠II【2】",
+			"englishDescription": "Increases the bowgun's reload speed and increases the power of bullets when fully loaded.",
+			"chineseDescription": "提高弩槍的裝填速度並在彈倉充滿時增加子彈威力。",
+			"skillName": {
+				"english": "Opening Shot",
+				"chinese": "開場強化"
+			}
+		},
+		{
+			"englishName": "Opener Jewel III 3",
+			"chineseName": "開場珠III【3】",
+			"englishDescription": "Increases the bowgun's reload speed and increases the power of bullets when fully loaded.",
+			"chineseDescription": "提高弩槍的裝填速度並在彈倉充滿時增加子彈威力。",
+			"skillName": {
+				"english": "Opening Shot",
+				"chinese": "開場強化"
+			}
+		},
+		{
+			"englishName": "Opener-Blaze Jewel 3",
+			"chineseName": "開場-火焰珠【3】",
+			"englishDescription": "Increases the bowgun's reload speed and increases the power of bullets when fully loaded. Increases fire element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "提高弩槍的裝填速度並在彈倉充滿時增加子彈威力。增加火屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Opening Shot / Fire Attack",
+				"chinese": "開場強化 / 火屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Opener-Bolt Jewel 3",
+			"chineseName": "開場-雷電珠【3】",
+			"englishDescription": "Increases the bowgun's reload speed and increases the power of bullets when fully loaded. Increases thunder element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "提高弩槍的裝填速度並在彈倉充滿時增加子彈威力。增加雷屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Opening Shot / Thunder Attack",
+				"chinese": "開場強化 / 雷屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Opener-Dragon Jewel 3",
+			"chineseName": "開場-龍珠【3】",
+			"englishDescription": "Increases the bowgun's reload speed and increases the power of bullets when fully loaded. Increases dragon element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "提高弩槍的裝填速度並在彈倉充滿時增加子彈威力。增加龍屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Opening Shot / Dragon Attack",
+				"chinese": "開場強化 / 龍屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Opener-Frost Jewel 3",
+			"chineseName": "開場-冰結珠【3】",
+			"englishDescription": "Increases the bowgun's reload speed and increases the power of bullets when fully loaded. Increases ice element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "提高弩槍的裝填速度並在彈倉充滿時增加子彈威力。增加冰屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Opening Shot / Ice Attack",
+				"chinese": "開場強化 / 冰屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Opener-Ironwall Jwl 3",
+			"chineseName": "開場-鐵壁珠【3】",
+			"englishDescription": "Increases the bowgun's reload speed and increases the power of bullets when fully loaded. Reduces knockbacks and stamina depletion when guarding.",
+			"chineseDescription": "提高弩槍的裝填速度並在彈倉充滿時增加子彈威力。減少防禦時的後座力和體力消耗。",
+			"skillName": {
+				"english": "Opening Shot / Guard",
+				"chinese": "開場強化 / 防禦"
+			}
+		},
+		{
+			"englishName": "Opener-Precise Jewel 3",
+			"chineseName": "開場-精確珠【3】",
+			"englishDescription": "Increases the bowgun's reload speed and increases the power of bullets when fully loaded. Extends the range in which ammo and arrows have maximum power.",
+			"chineseDescription": "提高弩槍的裝填速度並在彈倉充滿時增加子彈威力。延長彈藥和箭矢發揮最大威力的距離範圍。",
+			"skillName": {
+				"english": "Opening Shot / Ballistics",
+				"chinese": "開場強化 / 彈道學"
+			}
+		},
+		{
+			"englishName": "Opener-Stream Jwl 3",
+			"chineseName": "開場-流水珠【3】",
+			"englishDescription": "Increases the bowgun's reload speed and increases the power of bullets when fully loaded. Increases water element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "提高弩槍的裝填速度並在彈倉充滿時增加子彈威力。增加水屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Opening Shot / Water Attack",
+				"chinese": "開場強化 / 水屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Paracoat Jewel 3",
+			"chineseName": "麻痺塗層珠【3】",
+			"englishDescription": "Allows you to apply paralysis coatings.",
+			"chineseDescription": "使你能夠使用麻痺塗層。",
+			"skillName": {
+				"english": "Para Functionality",
+				"chinese": "麻痺塗層機能"
+			}
+		},
+		{
+			"englishName": "Paralyzer Jewel 1",
+			"chineseName": "麻痺珠【1】",
+			"englishDescription": "Increases the rate of paralysis buildup. (Paralysis buildup has a maximum limit.)",
+			"chineseDescription": "增加麻痺蓄積速度。（麻痺蓄積有上限。）",
+			"skillName": {
+				"english": "Paralysis Attack",
+				"chinese": "麻痺屬性強化"
+			}
+		},
+		{
+			"englishName": "Paralyzer Jewel II 2",
+			"chineseName": "麻痺珠II【2】",
+			"englishDescription": "Increases the rate of paralysis buildup. (Paralysis buildup has a maximum limit.)",
+			"chineseDescription": "增加麻痺蓄積速度。（麻痺蓄積有上限。）",
+			"skillName": {
+				"english": "Paralysis Attack",
+				"chinese": "麻痺屬性強化"
+			}
+		},
+		{
+			"englishName": "Paralyzer Jwl III 3",
+			"chineseName": "麻痺珠III【3】",
+			"englishDescription": "Increases the rate of paralysis buildup. (Paralysis buildup has a maximum limit.)",
+			"chineseDescription": "增加麻痺蓄積速度。（麻痺蓄積有上限。）",
+			"skillName": {
+				"english": "Paralysis Attack",
+				"chinese": "麻痺屬性強化"
+			}
+		},
+		{
+			"englishName": "Pep Jewel 1",
+			"chineseName": "活力珠【1】",
+			"englishDescription": "Reduces the duration of sleep.",
+			"chineseDescription": "減少睡眠狀態的持續時間。",
+			"skillName": {
+				"english": "Sleep Resistance",
+				"chinese": "睡眠抵抗"
+			}
+		},
+		{
+			"englishName": "Perfume Jewel 1",
+			"chineseName": "芳香珠【1】",
+			"englishDescription": "Grants protection against stench.",
+			"chineseDescription": "提供對惡臭的保護。",
+			"skillName": {
+				"english": "Stench Resistance",
+				"chinese": "惡臭抵抗"
+			}
+		},
+		{
+			"englishName": "Phoenix Jewel 2",
+			"chineseName": "鳳凰珠【2】",
+			"englishDescription": "Temporarily increases elemental attack power and status effects after recovering from blights or abnormal status.",
+			"chineseDescription": "從屬性異常或異常狀態恢復後，暫時增加屬性攻擊力和狀態效果。",
+			"skillName": {
+				"english": "Coalescence",
+				"chinese": "會心撫觸"
+			}
+		},
+		{
+			"englishName": "Physique Jewel 1",
+			"chineseName": "體能珠【1】",
+			"englishDescription": "Reduces stamina depletion when evading, blocking, or doing certain other actions.",
+			"chineseDescription": "減少迴避、防禦或進行某些其他動作時的體力消耗。",
+			"skillName": {
+				"english": "Constitution",
+				"chinese": "體力節約"
+			}
+		},
+		{
+			"englishName": "Pierce Jewel 3",
+			"chineseName": "貫通珠【3】",
+			"englishDescription": "Increases the attack of the bowgun's Pierce Ammo, and the bow's Dragon Piercer and Thousand Dragons.",
+			"chineseDescription": "增加弩槍的貫通彈，以及弓的龍射和千龍的攻擊力。",
+			"skillName": {
+				"english": "Piercing Shots",
+				"chinese": "貫通彈強化"
+			}
+		},
+		{
+			"englishName": "Poison Jewel 2",
+			"chineseName": "毒持續珠【2】",
+			"englishDescription": "Extends the duration of your poison's effect on monsters.",
+			"chineseDescription": "延長你的毒對怪物的持續時間。",
+			"skillName": {
+				"english": "Poison Duration Up",
+				"chinese": "毒持續強化"
+			}
+		},
+		{
+			"englishName": "Poison-Attack Jewel 3",
+			"chineseName": "毒持續-攻擊珠【3】",
+			"englishDescription": "Extends the duration of your poison's effect on monsters. Increases attack power.",
+			"chineseDescription": "延長你的毒對怪物的持續時間。提高攻擊力。",
+			"skillName": {
+				"english": "Poison Duration Up / Attack Boost",
+				"chinese": "毒持續強化 / 攻擊強化"
+			}
+		},
+		{
+			"englishName": "Poison-Draw Jewel 3",
+			"chineseName": "毒持續-拔刀珠【3】",
+			"englishDescription": "Extends the duration of your poison's effect on monsters. Increases affinity when performing draw attacks. (Not effective while riding.)",
+			"chineseDescription": "延長你的毒對怪物的持續時間。進行拔刀攻擊時提高會心率。（騎乘時無效。）",
+			"skillName": {
+				"english": "Poison Duration Up / Critical Draw",
+				"chinese": "毒持續強化 / 拔刀會心"
+			}
+		},
+		{
+			"englishName": "Poison-Expert Jwl 3",
+			"chineseName": "毒持續-專家珠【3】",
+			"englishDescription": "Extends the duration of your poison's effect on monsters. Increases affinity.",
+			"chineseDescription": "延長你的毒對怪物的持續時間。提高會心率。",
+			"skillName": {
+				"english": "Poison Duration Up / Critical Eye",
+				"chinese": "毒持續強化 / 看破"
+			}
+		},
+		{
+			"englishName": "Poison-Handicraft Jwl 3",
+			"chineseName": "毒持續-匠珠【3】",
+			"englishDescription": "Extends the duration of your poison's effect on monsters. Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.",
+			"chineseDescription": "延長你的毒對怪物的持續時間。延長武器的銳利度量表。但不會使量表超過其最大值。",
+			"skillName": {
+				"english": "Poison Duration Up / Handicraft",
+				"chinese": "毒持續強化 / 匠"
+			}
+		},
+		{
+			"englishName": "Poison-Ironwall Jwl 3",
+			"chineseName": "毒持續-鐵壁珠【3】",
+			"englishDescription": "Extends the duration of your poison's effect on monsters. Reduces knockbacks and stamina depletion when guarding.",
+			"chineseDescription": "延長你的毒對怪物的持續時間。減少防禦時的後座力和體力消耗。",
+			"skillName": {
+				"english": "Poison Duration Up / Guard",
+				"chinese": "毒持續強化 / 防禦"
+			}
+		},
+		{
+			"englishName": "Poison-KO Jewel 3",
+			"chineseName": "毒持續-擊昏珠【3】",
+			"englishDescription": "Extends the duration of your poison's effect on monsters. Makes it easier to stun monsters.",
+			"chineseDescription": "延長你的毒對怪物的持續時間。更容易使怪物陷入眩暈狀態。",
+			"skillName": {
+				"english": "Poison Duration Up / Slugger",
+				"chinese": "毒持續強化 / 氣絕術"
+			}
+		},
+		{
+			"englishName": "Poison-Precise Jwl 3",
+			"chineseName": "毒持續-精確珠【3】",
+			"englishDescription": "Extends the duration of your poison's effect on monsters. Extends the range in which ammo and arrows have maximum power.",
+			"chineseDescription": "延長你的毒對怪物的持續時間。延長彈藥和箭矢發揮最大威力的距離範圍。",
+			"skillName": {
+				"english": "Poison Duration Up / Ballistics",
+				"chinese": "毒持續強化 / 彈道學"
+			}
+		},
+		{
+			"englishName": "Poisoncoat Jewel 2",
+			"chineseName": "毒塗層珠【2】",
+			"englishDescription": "Allows you to apply poison coatings.",
+			"chineseDescription": "使你能夠使用毒塗層。",
+			"skillName": {
+				"english": "Poison Functionality",
+				"chinese": "毒塗層機能"
+			}
+		},
+		{
+			"englishName": "Potential Jewel 2",
+			"chineseName": "英雄珠【2】",
+			"englishDescription": "Increases attack power and defense when health drops to 35% or lower.",
+			"chineseDescription": "當生命值降至35%或更低時，增加攻擊力和防禦力。",
+			"skillName": {
+				"english": "Heroics",
+				"chinese": "英雄的戰鬥技巧"
+			}
+		},
+		{
+			"englishName": "Precise Jewel 1",
+			"chineseName": "精確珠【1】",
+			"englishDescription": "Extends the range in which ammo and arrows have maximum power.",
+			"chineseDescription": "延長彈藥和箭矢發揮最大威力的距離範圍。",
+			"skillName": {
+				"english": "Ballistics",
+				"chinese": "彈道學"
+			}
+		},
+		{
+			"englishName": "Precise Jewel II 2",
+			"chineseName": "精確珠II【2】",
+			"englishDescription": "Extends the range in which ammo and arrows have maximum power.",
+			"chineseDescription": "延長彈藥和箭矢發揮最大威力的距離範圍。",
+			"skillName": {
+				"english": "Ballistics",
+				"chinese": "彈道學"
+			}
+		},
+		{
+			"englishName": "Precise Jewel III 3",
+			"chineseName": "精確珠III【3】",
+			"englishDescription": "Extends the range in which ammo and arrows have maximum power.",
+			"chineseDescription": "延長彈藥和箭矢發揮最大威力的距離範圍。",
+			"skillName": {
+				"english": "Ballistics",
+				"chinese": "彈道學"
+			}
+		},
+		{
+			"englishName": "Protection Jewel 1",
+			"chineseName": "神恩珠【1】",
+			"englishDescription": "Has a predetermined chance of reducing the damage you take.",
+			"chineseDescription": "有一定機率減少你受到的傷害。",
+			"skillName": {
+				"english": "Divine Blessing",
+				"chinese": "神之加護"
+			}
+		},
+		{
+			"englishName": "Quickswitch Jewel 1",
+			"chineseName": "迅變珠【1】",
+			"englishDescription": "Increases switch speed and power for switch axes and charge blades.",
+			"chineseDescription": "提高斬擊斧和充能斧的變形速度和威力。",
+			"skillName": {
+				"english": "Rapid Morph",
+				"chinese": "高速變形"
+			}
+		},
+		{
+			"englishName": "Quickswitch Jewel II 2",
+			"chineseName": "迅變珠II【2】",
+			"englishDescription": "Increases switch speed and power for switch axes and charge blades.",
+			"chineseDescription": "提高斬擊斧和充能斧的變形速度和威力。",
+			"skillName": {
+				"english": "Rapid Morph",
+				"chinese": "高速變形"
+			}
+		},
+		{
+			"englishName": "Quickswitch Jewel III 3",
+			"chineseName": "迅變珠III【3】",
+			"englishDescription": "Increases switch speed and power for switch axes and charge blades.",
+			"chineseDescription": "提高斬擊斧和充能斧的變形速度和威力。",
+			"skillName": {
+				"english": "Rapid Morph",
+				"chinese": "高速變形"
+			}
+		},
+		{
+			"englishName": "Quickswitch-Blaze Jwl 3",
+			"chineseName": "迅變-火焰珠【3】",
+			"englishDescription": "Increases switch speed and power for switch axes and charge blades. Increases fire element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "提高斬擊斧和充能斧的變形速度和威力。增加火屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Rapid Morph / Fire Attack",
+				"chinese": "高速變形 / 火屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Quickswitch-Bolt Jwl 3",
+			"chineseName": "迅變-雷電珠【3】",
+			"englishDescription": "Increases switch speed and power for switch axes and charge blades. Increases thunder element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "提高斬擊斧和充能斧的變形速度和威力。增加雷屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Rapid Morph / Thunder Attack",
+				"chinese": "高速變形 / 雷屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Quickswitch-Dragon Jwl 3",
+			"chineseName": "迅變-龍珠【3】",
+			"englishDescription": "Increases switch speed and power for switch axes and charge blades. Increases dragon element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "提高斬擊斧和充能斧的變形速度和威力。增加龍屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Rapid Morph / Dragon Attack",
+				"chinese": "高速變形 / 龍屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Quickswitch-Frost Jwl 3",
+			"chineseName": "迅變-冰結珠【3】",
+			"englishDescription": "Increases switch speed and power for switch axes and charge blades. Increases ice element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "提高斬擊斧和充能斧的變形速度和威力。增加冰屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Rapid Morph / Ice Attack",
+				"chinese": "高速變形 / 冰屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Quickswitch-Handicraft Jwl 3",
+			"chineseName": "迅變-匠珠【3】",
+			"englishDescription": "Increases switch speed and power for switch axes and charge blades. Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.",
+			"chineseDescription": "提高斬擊斧和充能斧的變形速度和威力。延長武器的銳利度量表。但不會使量表超過其最大值。",
+			"skillName": {
+				"english": "Rapid Morph / Handicraft",
+				"chinese": "高速變形 / 匠"
+			}
+		},
+		{
+			"englishName": "Quickswitch-Ironwall Jwl 3",
+			"chineseName": "迅變-鐵壁珠【3】",
+			"englishDescription": "Increases switch speed and power for switch axes and charge blades. Reduces knockbacks and stamina depletion when guarding.",
+			"chineseDescription": "提高斬擊斧和充能斧的變形速度和威力。減少防禦時的後座力和體力消耗。",
+			"skillName": {
+				"english": "Rapid Morph / Guard",
+				"chinese": "高速變形 / 防禦"
+			}
+		},
+		{
+			"englishName": "Quickswitch-KO Jwl 3",
+			"chineseName": "迅變-擊昏珠【3】",
+			"englishDescription": "Increases switch speed and power for switch axes and charge blades. Makes it easier to stun monsters.",
+			"chineseDescription": "提高斬擊斧和充能斧的變形速度和威力。更容易使怪物陷入眩暈狀態。",
+			"skillName": {
+				"english": "Rapid Morph / Slugger",
+				"chinese": "高速變形 / 氣絕術"
+			}
+		},
+		{
+			"englishName": "Quickswitch-Stream Jwl 3",
+			"chineseName": "迅變-流水珠【3】",
+			"englishDescription": "Increases switch speed and power for switch axes and charge blades. Increases water element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "提高斬擊斧和充能斧的變形速度和威力。增加水屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Rapid Morph / Water Attack",
+				"chinese": "高速變形 / 水屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Ranger Jewel 1",
+			"chineseName": "野營珠【1】",
+			"englishDescription": "Improves fishing, grilling, and transporting abilities.",
+			"chineseDescription": "改善釣魚、烤肉和運輸能力。",
+			"skillName": {
+				"english": "Outdoorsman",
+				"chinese": "野營專家"
+			}
+		},
+		{
+			"englishName": "Razor Sharp Jewel 1",
+			"chineseName": "利刃珠【1】",
+			"englishDescription": "Prevents your weapon from losing sharpness.",
+			"chineseDescription": "防止你的武器失去銳利度。",
+			"skillName": {
+				"english": "Razor Sharp",
+				"chinese": "利刃"
+			}
+		},
+		{
+			"englishName": "Razor Sharp Jewel II 2",
+			"chineseName": "利刃珠II【2】",
+			"englishDescription": "Prevents your weapon from losing sharpness.",
+			"chineseDescription": "防止你的武器失去銳利度。",
+			"skillName": {
+				"english": "Razor Sharp",
+				"chinese": "利刃"
+			}
+		},
+		{
+			"englishName": "Razor Sharp-KO Jwl 3",
+			"chineseName": "利刃-擊昏珠【3】",
+			"englishDescription": "Prevents your weapon from losing sharpness. Makes it easier to stun monsters.",
+			"chineseDescription": "防止你的武器失去銳利度。更容易使怪物陷入眩暈狀態。",
+			"skillName": {
+				"english": "Razor Sharp / Slugger",
+				"chinese": "利刃 / 氣絕術"
+			}
+		},
+		{
+			"englishName": "Recovery Jewel 1",
+			"chineseName": "恢復珠【1】",
+			"englishDescription": "Speeds healing of recoverable damage (the red portion of the Health Gauge).",
+			"chineseDescription": "加速可恢復傷害的治療（生命值條中的紅色部分）。",
+			"skillName": {
+				"english": "Recovery Speed",
+				"chinese": "回復速度"
+			}
+		},
+		{
+			"englishName": "Refresh Jewel 2",
+			"chineseName": "回復珠【2】",
+			"englishDescription": "Speeds up stamina recovery.",
+			"chineseDescription": "加速體力恢復。",
+			"skillName": {
+				"english": "Stamina Surge",
+				"chinese": "耐力急速回復"
+			}
+		},
+		{
+			"englishName": "Rzr Sharp Jwl III 3",
+			"chineseName": "利刃珠III【3】",
+			"englishDescription": "Prevents your weapon from losing sharpness.",
+			"chineseDescription": "防止你的武器失去銳利度。",
+			"skillName": {
+				"english": "Razor Sharp",
+				"chinese": "利刃"
+			}
+		},
+		{
+			"englishName": "Rzr Sharp-Blaze Jwl 3",
+			"chineseName": "利刃-火焰珠【3】",
+			"englishDescription": "Prevents your weapon from losing sharpness. Increases fire element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "防止你的武器失去銳利度。增加火屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Razor Sharp / Fire Attack",
+				"chinese": "利刃 / 火屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Rzr Sharp-Bolt Jwl 3",
+			"chineseName": "利刃-雷電珠【3】",
+			"englishDescription": "Prevents your weapon from losing sharpness. Increases thunder element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "防止你的武器失去銳利度。增加雷屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Razor Sharp / Thunder Attack",
+				"chinese": "利刃 / 雷屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Rzr Sharp-Dragon Jwl 3",
+			"chineseName": "利刃-龍珠【3】",
+			"englishDescription": "Prevents your weapon from losing sharpness. Increases dragon element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "防止你的武器失去銳利度。增加龍屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Razor Sharp / Dragon Attack",
+				"chinese": "利刃 / 龍屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Rzr Sharp-Frost Jwl 3",
+			"chineseName": "利刃-冰結珠【3】",
+			"englishDescription": "Prevents your weapon from losing sharpness. Increases ice element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "防止你的武器失去銳利度。增加冰屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Razor Sharp / Ice Attack",
+				"chinese": "利刃 / 冰屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Rzr Sharp-Handicraft Jwl 3",
+			"chineseName": "利刃-匠珠【3】",
+			"englishDescription": "Prevents your weapon from losing sharpness. Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.",
+			"chineseDescription": "防止你的武器失去銳利度。延長武器的銳利度量表。但不會使量表超過其最大值。",
+			"skillName": {
+				"english": "Razor Sharp / Handicraft",
+				"chinese": "利刃 / 匠"
+			}
+		},
+		{
+			"englishName": "Rzr Sharp-Ironwall Jwl 3",
+			"chineseName": "利刃-鐵壁珠【3】",
+			"englishDescription": "Prevents your weapon from losing sharpness. Reduces knockbacks and stamina depletion when guarding.",
+			"chineseDescription": "防止你的武器失去銳利度。減少防禦時的後座力和體力消耗。",
+			"skillName": {
+				"english": "Razor Sharp / Guard",
+				"chinese": "利刃 / 防禦"
+			}
+		},
+		{
+			"englishName": "Rzr Sharp-Stream Jwl 3",
+			"chineseName": "利刃-流水珠【3】",
+			"englishDescription": "Prevents your weapon from losing sharpness. Increases water element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "防止你的武器失去銳利度。增加水屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Razor Sharp / Water Attack",
+				"chinese": "利刃 / 水屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Salvo Jewel 3",
+			"chineseName": "速射珠【3】",
+			"englishDescription": "Improves light bowgun rapid fire.",
+			"chineseDescription": "改善輕弩的速射。",
+			"skillName": {
+				"english": "Rapid Fire Up",
+				"chinese": "速射強化"
+			}
+		},
+		{
+			"englishName": "Sane Jewel 1",
+			"chineseName": "理智珠【1】",
+			"englishDescription": "Once infected, makes it easier to overcome the Frenzy and increases affinity if cured.",
+			"chineseDescription": "一旦感染，更容易克服狂亂病毒，並在治癒後提高會心率。",
+			"skillName": {
+				"english": "Antivirus",
+				"chinese": "抗病毒"
+			}
+		},
+		{
+			"englishName": "Satiated Jewel 1",
+			"chineseName": "滿足珠【1】",
+			"englishDescription": "Gives you a predetermined chance of consuming a food or drink item for free.",
+			"chineseDescription": "給你一定機率免費消耗食物或飲料物品。",
+			"skillName": {
+				"english": "Free Meal",
+				"chinese": "滿足感"
+			}
+		},
+		{
+			"englishName": "Sharp Jewel 1",
+			"chineseName": "護刃珠【1】",
+			"englishDescription": "Weapon sharpness does not decrease for a set time after sharpening.",
+			"chineseDescription": "磨利後的一段時間內，武器銳利度不會降低。",
+			"skillName": {
+				"english": "Protective Polish",
+				"chinese": "護刃"
+			}
+		},
+		{
+			"englishName": "Sharp Jewel II 2",
+			"chineseName": "護刃珠II【2】",
+			"englishDescription": "Weapon sharpness does not decrease for a set time after sharpening.",
+			"chineseDescription": "磨利後的一段時間內，武器銳利度不會降低。",
+			"skillName": {
+				"english": "Protective Polish",
+				"chinese": "護刃"
+			}
+		},
+		{
+			"englishName": "Sharp Jewel III 3",
+			"chineseName": "護刃珠III【3】",
+			"englishDescription": "Weapon sharpness does not decrease for a set time after sharpening.",
+			"chineseDescription": "磨利後的一段時間內，武器銳利度不會降低。",
+			"skillName": {
+				"english": "Protective Polish",
+				"chinese": "護刃"
+			}
+		},
+		{
+			"englishName": "Sheath Jewel 1",
+			"chineseName": "收刀珠【1】",
+			"englishDescription": "Speeds up weapon sheathing.",
+			"chineseDescription": "加快武器收納速度。",
+			"skillName": {
+				"english": "Quick Sheathe",
+				"chinese": "高速收刀"
+			}
+		},
+		{
+			"englishName": "Shield Jewel 1",
+			"chineseName": "護盾珠【1】",
+			"englishDescription": "Allows you to guard against ordinarily unblockable attacks.",
+			"chineseDescription": "使你能夠防禦通常無法格擋的攻擊。",
+			"skillName": {
+				"english": "Guard Up",
+				"chinese": "防禦強化"
+			}
+		},
+		{
+			"englishName": "Shield Jewel II 2",
+			"chineseName": "護盾珠II【2】",
+			"englishDescription": "Allows you to guard against ordinarily unblockable attacks.",
+			"chineseDescription": "使你能夠防禦通常無法格擋的攻擊。",
+			"skillName": {
+				"english": "Guard Up",
+				"chinese": "防禦強化"
+			}
+		},
+		{
+			"englishName": "Shield Jewel III 3",
+			"chineseName": "護盾珠III【3】",
+			"englishDescription": "Allows you to guard against ordinarily unblockable attacks.",
+			"chineseDescription": "使你能夠防禦通常無法格擋的攻擊。",
+			"skillName": {
+				"english": "Guard Up",
+				"chinese": "防禦強化"
+			}
+		},
+		{
+			"englishName": "Shield-Blaze Jewel 3",
+			"chineseName": "護盾-火焰珠【3】",
+			"englishDescription": "Allows you to guard against ordinarily unblockable attacks. Increases fire element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "使你能夠防禦通常無法格擋的攻擊。增加火屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Guard Up / Fire Attack",
+				"chinese": "防禦強化 / 火屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Shield-Bolt Jewel 3",
+			"chineseName": "護盾-雷電珠【3】",
+			"englishDescription": "Allows you to guard against ordinarily unblockable attacks. Increases thunder element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "使你能夠防禦通常無法格擋的攻擊。增加雷屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Guard Up / Thunder Attack",
+				"chinese": "防禦強化 / 雷屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Shield-Dragon Jwl 3",
+			"chineseName": "護盾-龍珠【3】",
+			"englishDescription": "Allows you to guard against ordinarily unblockable attacks. Increases dragon element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "使你能夠防禦通常無法格擋的攻擊。增加龍屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Guard Up / Dragon Attack",
+				"chinese": "防禦強化 / 龍屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Shield-Frost Jewel 3",
+			"chineseName": "護盾-冰結珠【3】",
+			"englishDescription": "Allows you to guard against ordinarily unblockable attacks. Increases ice element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "使你能夠防禦通常無法格擋的攻擊。增加冰屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Guard Up / Ice Attack",
+				"chinese": "防禦強化 / 冰屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Shield-Handicraft Jwl 3",
+			"chineseName": "護盾-匠珠【3】",
+			"englishDescription": "Allows you to guard against ordinarily unblockable attacks. Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.",
+			"chineseDescription": "使你能夠防禦通常無法格擋的攻擊。延長武器的銳利度量表。但不會使量表超過其最大值。",
+			"skillName": {
+				"english": "Guard Up / Handicraft",
+				"chinese": "防禦強化 / 匠"
+			}
+		},
+		{
+			"englishName": "Shield-Ironwall Jwl 3",
+			"chineseName": "護盾-鐵壁珠【3】",
+			"englishDescription": "Allows you to guard against ordinarily unblockable attacks. Reduces knockbacks and stamina depletion when guarding.",
+			"chineseDescription": "使你能夠防禦通常無法格擋的攻擊。減少防禦時的後座力和體力消耗。",
+			"skillName": {
+				"english": "Guard Up / Guard",
+				"chinese": "防禦強化 / 防禦"
+			}
+		},
+		{
+			"englishName": "Shield-Stream Jewel 3",
+			"chineseName": "護盾-流水珠【3】",
+			"englishDescription": "Allows you to guard against ordinarily unblockable attacks. Increases water element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "使你能夠防禦通常無法格擋的攻擊。增加水屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Guard Up / Water Attack",
+				"chinese": "防禦強化 / 水屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Shockproof Jewel 1",
+			"chineseName": "防震珠【1】",
+			"englishDescription": "Disables damage reactions when you hit a friend or when a friend hits you.",
+			"chineseDescription": "當你擊中隊友或隊友擊中你時禁用傷害反應。",
+			"skillName": {
+				"english": "Shock Absorber",
+				"chinese": "震撼吸收"
+			}
+		},
+		{
+			"englishName": "Sleep Jewel 1",
+			"chineseName": "睡眠珠【1】",
+			"englishDescription": "Increases the rate of sleep buildup. (Sleep buildup has a maximum limit.)",
+			"chineseDescription": "增加睡眠蓄積速度。（睡眠蓄積有上限。）",
+			"skillName": {
+				"english": "Sleep Attack",
+				"chinese": "睡眠屬性強化"
+			}
+		},
+		{
+			"englishName": "Sleep Jewel II 2",
+			"chineseName": "睡眠珠II【2】",
+			"englishDescription": "Increases the rate of sleep buildup. (Sleep buildup has a maximum limit.)",
+			"chineseDescription": "增加睡眠蓄積速度。（睡眠蓄積有上限。）",
+			"skillName": {
+				"english": "Sleep Attack",
+				"chinese": "睡眠屬性強化"
+			}
+		},
+		{
+			"englishName": "Sleep Jewel III 3",
+			"chineseName": "睡眠珠III【3】",
+			"englishDescription": "Increases the rate of sleep buildup. (Sleep buildup has a maximum limit.)",
+			"chineseDescription": "增加睡眠蓄積速度。（睡眠蓄積有上限。）",
+			"skillName": {
+				"english": "Sleep Attack",
+				"chinese": "睡眠屬性強化"
+			}
+		},
+		{
+			"englishName": "Sleepcoat Jewel 3",
+			"chineseName": "睡眠塗層珠【3】",
+			"englishDescription": "Allows you to apply sleep coatings.",
+			"chineseDescription": "使你能夠使用睡眠塗層。",
+			"skillName": {
+				"english": "Sleep Functionality",
+				"chinese": "睡眠塗層機能"
+			}
+		},
+		{
+			"englishName": "Sonorous Jewel 2",
+			"chineseName": "笛珠【2】",
+			"englishDescription": "Increases the effect duration of hunting horn melodies. (Effect lost when you change weapons.)",
+			"chineseDescription": "延長狩獵笛旋律的效果持續時間。（更換武器時效果消失。）",
+			"skillName": {
+				"english": "Horn Maestro",
+				"chinese": "笛吹名人"
+			}
+		},
+		{
+			"englishName": "Sonorous-Attack Jwl 3",
+			"chineseName": "笛-攻擊珠【3】",
+			"englishDescription": "Increases the effect duration of hunting horn melodies. (Effect lost when you change weapons.) Increases attack power.",
+			"chineseDescription": "延長狩獵笛旋律的效果持續時間。（更換武器時效果消失。）提高攻擊力。",
+			"skillName": {
+				"english": "Horn Maestro / Attack Boost",
+				"chinese": "笛吹名人 / 攻擊強化"
+			}
+		},
+		{
+			"englishName": "Sonorous-Draw Jwl 3",
+			"chineseName": "笛-拔刀珠【3】",
+			"englishDescription": "Increases the effect duration of hunting horn melodies. (Effect lost when you change weapons.) Increases affinity when performing draw attacks. (Not effective while riding.)",
+			"chineseDescription": "延長狩獵笛旋律的效果持續時間。（更換武器時效果消失。）進行拔刀攻擊時提高會心率。（騎乘時無效。）",
+			"skillName": {
+				"english": "Horn Maestro / Critical Draw",
+				"chinese": "笛吹名人 / 拔刀會心"
+			}
+		},
+		{
+			"englishName": "Sonorous-Expert Jwl 3",
+			"chineseName": "笛-專家珠【3】",
+			"englishDescription": "Increases the effect duration of hunting horn melodies. (Effect lost when you change weapons.) Increases affinity.",
+			"chineseDescription": "延長狩獵笛旋律的效果持續時間。（更換武器時效果消失。）提高會心率。",
+			"skillName": {
+				"english": "Horn Maestro / Critical Eye",
+				"chinese": "笛吹名人 / 看破"
+			}
+		},
+		{
+			"englishName": "Sonorous-Handicraft Jwl 3",
+			"chineseName": "笛-匠珠【3】",
+			"englishDescription": "Increases the effect duration of hunting horn melodies. (Effect lost when you change weapons.) Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.",
+			"chineseDescription": "延長狩獵笛旋律的效果持續時間。（更換武器時效果消失。）延長武器的銳利度量表。但不會使量表超過其最大值。",
+			"skillName": {
+				"english": "Horn Maestro / Handicraft",
+				"chinese": "笛吹名人 / 匠"
+			}
+		},
+		{
+			"englishName": "Sonorous-KO Jewel 3",
+			"chineseName": "笛-擊昏珠【3】",
+			"englishDescription": "Increases the effect duration of hunting horn melodies. (Effect lost when you change weapons.) Makes it easier to stun monsters.",
+			"chineseDescription": "延長狩獵笛旋律的效果持續時間。（更換武器時效果消失。）更容易使怪物陷入眩暈狀態。",
+			"skillName": {
+				"english": "Horn Maestro / Slugger",
+				"chinese": "笛吹名人 / 氣絕術"
+			}
+		},
+		{
+			"englishName": "Specimen Jewel 1",
+			"chineseName": "標本珠【1】",
+			"englishDescription": "The bodies of small insect monsters won't be destroyed, allowing them to be carved.",
+			"chineseDescription": "小型昆蟲怪物的屍體不會被摧毀，允許進行採集。",
+			"skillName": {
+				"english": "Entomologist",
+				"chinese": "昆蟲學家"
+			}
+		},
+		{
+			"englishName": "Spread Jewel 3",
+			"chineseName": "散彈珠【3】",
+			"englishDescription": "Increases the attack of the bowgun's Spread Ammo and the bow's Power Shots and Quick Shots.",
+			"chineseDescription": "增加弩槍的散彈和弓的強力射擊和快速射擊的攻擊力。",
+			"skillName": {
+				"english": "Spread-Power Shots",
+				"chinese": "散彈/強力射擊強化"
+			}
+		},
+		{
+			"englishName": "Sprinter Jewel 1",
+			"chineseName": "跑者珠【1】",
+			"englishDescription": "Slows down stamina depletion for actions that continuously drain stamina (such as dashing).",
+			"chineseDescription": "減緩持續消耗體力的動作（如衝刺）的體力消耗速度。",
+			"skillName": {
+				"english": "Marathon Runner",
+				"chinese": "跑者"
+			}
+		},
+		{
+			"englishName": "Steadfast Jewel 1",
+			"chineseName": "不動珠【1】",
+			"englishDescription": "Reduces the duration of stun.",
+			"chineseDescription": "減少眩暈的持續時間。",
+			"skillName": {
+				"english": "Stun Resistance",
+				"chinese": "昏厥耐性"
+			}
+		},
+		{
+			"englishName": "Stream Jewel 1",
+			"chineseName": "流水珠【1】",
+			"englishDescription": "Increases water element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "增加水屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Water Attack",
+				"chinese": "水屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Stream Jewel II 2",
+			"chineseName": "流水珠II【2】",
+			"englishDescription": "Increases water element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "增加水屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Water Attack",
+				"chinese": "水屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Stream Jewel III 3",
+			"chineseName": "流水珠III【3】",
+			"englishDescription": "Increases water element attack power. (Elemental attack power has a maximum limit.)",
+			"chineseDescription": "增加水屬性攻擊力。（屬性攻擊力有上限。）",
+			"skillName": {
+				"english": "Water Attack",
+				"chinese": "水屬性攻擊強化"
+			}
+		},
+		{
+			"englishName": "Stream-Bandolier Jwl 3",
+			"chineseName": "流水-彈帶珠【3】",
+			"englishDescription": "Increases water element attack power. (Elemental attack power has a maximum limit.) Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots.",
+			"chineseDescription": "增加水屬性攻擊力。（屬性攻擊力有上限。）增加從第四發開始的彈藥/塗層的會心率，以及第四和第六發攻擊的威力。",
+			"skillName": {
+				"english": "Water Attack / Tetrad Shot",
+				"chinese": "水屬性攻擊強化 / 四連射擊"
+			}
+		},
+		{
+			"englishName": "Stream-Crit Elem Jwl 3",
+			"chineseName": "流水-會心屬性珠【3】",
+			"englishDescription": "Increases water element attack power. (Elemental attack power has a maximum limit.) Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits.",
+			"chineseDescription": "增加水屬性攻擊力。（屬性攻擊力有上限。）命中要害時增加屬性傷害（火、水、雷、冰、龍）。",
+			"skillName": {
+				"english": "Water Attack / Critical Element",
+				"chinese": "水屬性攻擊強化 / 會心屬性"
+			}
+		},
+		{
+			"englishName": "Stream-Enhancer Jwl 3",
+			"chineseName": "流水-強化珠【3】",
+			"englishDescription": "Increases water element attack power. (Elemental attack power has a maximum limit.) Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer.",
+			"chineseDescription": "增加水屬性攻擊力。（屬性攻擊力有上限。）延長太刀、雙劍、操蟲棍、斬擊斧和充能斧的強化狀態持續時間。",
+			"skillName": {
+				"english": "Water Attack / Power Prolonger",
+				"chinese": "水屬性攻擊強化 / 強化持續"
+			}
+		},
+		{
+			"englishName": "Stream-Focus Jewel 3",
+			"chineseName": "流水-集中珠【3】",
+			"englishDescription": "Increases water element attack power. (Elemental attack power has a maximum limit.) Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks.",
+			"chineseDescription": "增加水屬性攻擊力。（屬性攻擊力有上限。）提高有量表武器的填充速率和有蓄力攻擊武器的蓄力速度。",
+			"skillName": {
+				"english": "Water Attack / Focus",
+				"chinese": "水屬性攻擊強化 / 集中"
+			}
+		},
+		{
+			"englishName": "Stream-Guardian Jwl 3",
+			"chineseName": "流水-防御珠【3】",
+			"englishDescription": "Increases water element attack power. (Elemental attack power has a maximum limit.) Temporarily increases attack power after executing a perfectly-timed guard.",
+			"chineseDescription": "增加水屬性攻擊力。（屬性攻擊力有上限。）在完美時機防禦後暫時提高攻擊力。",
+			"skillName": {
+				"english": "Water Attack / Offensive Guard",
+				"chinese": "水屬性攻擊強化 / 攻擊防禦"
+			}
+		},
+		{
+			"englishName": "Stream-Handicraft Jwl 3",
+			"chineseName": "流水-匠珠【3】",
+			"englishDescription": "Increases water element attack power. (Elemental attack power has a maximum limit.) Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.",
+			"chineseDescription": "增加水屬性攻擊力。（屬性攻擊力有上限。）延長武器的銳利度量表。但不會使量表超過其最大值。",
+			"skillName": {
+				"english": "Water Attack / Handicraft",
+				"chinese": "水屬性攻擊強化 / 匠"
+			}
+		},
+		{
+			"englishName": "Stream-Ironwall Jwl 3",
+			"chineseName": "流水-鐵壁珠【3】",
+			"englishDescription": "Increases water element attack power. (Elemental attack power has a maximum limit.) Reduces knockbacks and stamina depletion when guarding.",
+			"chineseDescription": "增加水屬性攻擊力。（屬性攻擊力有上限。）減少防禦時的後座力和體力消耗。",
+			"skillName": {
+				"english": "Water Attack / Guard",
+				"chinese": "水屬性攻擊強化 / 防禦"
+			}
+		},
+		{
+			"englishName": "Stream-KO Jewel 3",
+			"chineseName": "流水-擊昏珠【3】",
+			"englishDescription": "Increases water element attack power. (Elemental attack power has a maximum limit.) Makes it easier to stun monsters.",
+			"chineseDescription": "增加水屬性攻擊力。（屬性攻擊力有上限。）更容易使怪物陷入眩暈狀態。",
+			"skillName": {
+				"english": "Water Attack / Slugger",
+				"chinese": "水屬性攻擊強化 / 氣絕術"
+			}
+		},
+		{
+			"englishName": "Stream-Opener Jwl 3",
+			"chineseName": "流水-開場珠【3】",
+			"englishDescription": "Increases water element attack power. (Elemental attack power has a maximum limit.) Increases the bowgun's reload speed and increases the power of bullets when fully loaded.",
+			"chineseDescription": "增加水屬性攻擊力。（屬性攻擊力有上限。）提高弩槍的裝填速度並在彈倉充滿時增加子彈威力。",
+			"skillName": {
+				"english": "Water Attack / Opening Shot",
+				"chinese": "水屬性攻擊強化 / 開場強化"
+			}
+		},
+		{
+			"englishName": "Stream-Precise Jewel 3",
+			"chineseName": "流水-精確珠【3】",
+			"englishDescription": "Increases water element attack power. (Elemental attack power has a maximum limit.) Extends the range in which ammo and arrows have maximum power.",
+			"chineseDescription": "增加水屬性攻擊力。（屬性攻擊力有上限。）延長彈藥和箭矢發揮最大威力的距離範圍。",
+			"skillName": {
+				"english": "Water Attack / Ballistics",
+				"chinese": "水屬性攻擊強化 / 彈道學"
+			}
+		},
+		{
+			"englishName": "Stream-Quickswitch Jwl 3",
+			"chineseName": "流水-迅變珠【3】",
+			"englishDescription": "Increases water element attack power. (Elemental attack power has a maximum limit.) Increases switch speed and power for switch axes and charge blades.",
+			"chineseDescription": "增加水屬性攻擊力。（屬性攻擊力有上限。）提高斬擊斧和充能斧的變形速度和威力。",
+			"skillName": {
+				"english": "Water Attack / Rapid Morph",
+				"chinese": "水屬性攻擊強化 / 高速變形"
+			}
+		},
+		{
+			"englishName": "Stream-Rzr Sharp Jwl 3",
+			"chineseName": "流水-利刃珠【3】",
+			"englishDescription": "Increases water element attack power. (Elemental attack power has a maximum limit.) Prevents your weapon from losing sharpness.",
+			"chineseDescription": "增加水屬性攻擊力。（屬性攻擊力有上限。）防止你的武器失去銳利度。",
+			"skillName": {
+				"english": "Water Attack / Razor Sharp",
+				"chinese": "水屬性攻擊強化 / 利刃"
+			}
+		},
+		{
+			"englishName": "Stream-Shield Jewel 3",
+			"chineseName": "流水-護盾珠【3】",
+			"englishDescription": "Increases water element attack power. (Elemental attack power has a maximum limit.) Allows you to guard against ordinarily unblockable attacks.",
+			"chineseDescription": "增加水屬性攻擊力。（屬性攻擊力有上限。）使你能夠防禦通常無法格擋的攻擊。",
+			"skillName": {
+				"english": "Water Attack / Guard Up",
+				"chinese": "水屬性攻擊強化 / 防禦強化"
+			}
+		},
+		{
+			"englishName": "Survival Jewel 1",
+			"chineseName": "生存珠【1】",
+			"englishDescription": "Extra health is recovered from environmental interactables.",
+			"chineseDescription": "從環境互動物體中獲得額外的生命恢復。",
+			"skillName": {
+				"english": "Survival Expert",
+				"chinese": "生存專家"
+			}
+		},
+		{
+			"englishName": "Suture Jewel 1",
+			"chineseName": "止血珠【1】",
+			"englishDescription": "Grants protection against bleeding.",
+			"chineseDescription": "提供對流血狀態的保護。",
+			"skillName": {
+				"english": "Bleeding Resistance",
+				"chinese": "出血耐性"
+			}
+		},
+		{
+			"englishName": "Tenderizer Jewel 3",
+			"chineseName": "弱點珠【3】",
+			"englishDescription": "Increases the affinity of attacks that exploit a monster's weak points and wounds.",
+			"chineseDescription": "提高攻擊怪物弱點和傷口的會心率。",
+			"skillName": {
+				"english": "Weakness Exploit",
+				"chinese": "弱點特效"
+			}
+		},
+		{
+			"englishName": "Throttle Jewel 3",
+			"chineseName": "潛伏珠【3】",
+			"englishDescription": "Temporarily increases affinity and reduces stamina depletion when certain conditions are met.",
+			"chineseDescription": "當滿足特定條件時，暫時提高會心率並減少體力消耗。",
+			"skillName": {
+				"english": "Latent Power",
+				"chinese": "潛伏能力"
+			}
+		},
+		{
+			"englishName": "Thunder Res Jewel 1",
+			"chineseName": "雷耐性珠【1】",
+			"englishDescription": "Increases thunder resistance. Also improves defense at higher levels.",
+			"chineseDescription": "增加雷屬性抗性。在更高等級時也提高防禦力。",
+			"skillName": {
+				"english": "Thunder Resistance",
+				"chinese": "雷屬性抗性"
+			}
+		},
+		{
+			"englishName": "Trueshot Jewel 1",
+			"chineseName": "特殊射擊珠【1】",
+			"englishDescription": "Increases the power of the bowgun's special ammo, and the bow's Dragon Piercer, Thousand Dragons, and Tracer.",
+			"chineseDescription": "增加弩槍的特殊彈藥，以及弓的龍射、千龍和追蹤箭的威力。",
+			"skillName": {
+				"english": "Special Ammo Boost",
+				"chinese": "特殊射擊強化"
+			}
+		},
+		{
+			"englishName": "Trueshot Jewel II 2",
+			"chineseName": "特殊射擊珠II【2】",
+			"englishDescription": "Increases the power of the bowgun's special ammo, and the bow's Dragon Piercer, Thousand Dragons, and Tracer.",
+			"chineseDescription": "增加弩槍的特殊彈藥，以及弓的龍射、千龍和追蹤箭的威力。",
+			"skillName": {
+				"english": "Special Ammo Boost",
+				"chinese": "特殊射擊強化"
+			}
+		},
+		{
+			"englishName": "Venom Jewel 1",
+			"chineseName": "猛毒珠【1】",
+			"englishDescription": "Increases the rate of poison buildup. (Poison buildup has a maximum limit.)",
+			"chineseDescription": "增加毒素蓄積速度。（毒素蓄積有上限。）",
+			"skillName": {
+				"english": "Poison Attack",
+				"chinese": "毒屬性強化"
+			}
+		},
+		{
+			"englishName": "Venom Jewel II 2",
+			"chineseName": "猛毒珠II【2】",
+			"englishDescription": "Increases the rate of poison buildup. (Poison buildup has a maximum limit.)",
+			"chineseDescription": "增加毒素蓄積速度。（毒素蓄積有上限。）",
+			"skillName": {
+				"english": "Poison Attack",
+				"chinese": "毒屬性強化"
+			}
+		},
+		{
+			"englishName": "Venom Jewel III 3",
+			"chineseName": "猛毒珠III【3】",
+			"englishDescription": "Increases the rate of poison buildup. (Poison buildup has a maximum limit.)",
+			"chineseDescription": "增加毒素蓄積速度。（毒素蓄積有上限。）",
+			"skillName": {
+				"english": "Poison Attack",
+				"chinese": "毒屬性強化"
+			}
+		},
+		{
+			"englishName": "Water Res Jewel 1",
+			"chineseName": "水耐性珠【1】",
+			"englishDescription": "Increases water resistance. Also improves defense at higher levels.",
+			"chineseDescription": "增加水屬性抗性。在更高等級時也提高防禦力。",
+			"skillName": {
+				"english": "Water Resistance",
+				"chinese": "水屬性抗性"
+			}
+		},
+		{
+			"englishName": "Wind Resist Jewel 1",
+			"chineseName": "防風珠【1】",
+			"englishDescription": "Grants protection against wind pressure.",
+			"chineseDescription": "提供對風壓的保護。",
+			"skillName": {
+				"english": "Windproof",
+				"chinese": "風壓耐性"
+			}
+		}
+	]
+}
